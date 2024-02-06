@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: mastodon
+      text: mastodon
+      href: https://genomic.social/@EisenRa
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/R_Eisenhofer
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/raphael-eisenhofer-499b5a84/
+    - icon: github
+      text: Github
+      href: https://github.com/EisenRa
+---
+
+Hej, this is my monthly blog.

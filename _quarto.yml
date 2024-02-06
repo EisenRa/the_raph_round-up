@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "the_raph_roundup"
+  navbar:
+    right:
+      - about.qmd
+      - icon: mastodon
+        href: https://genomic.social/@EisenRa
+      - icon: twitter
+        href: https://twitter.com/R_Eisenhofer
+      - icon: linkedin
+        href: https://www.linkedin.com/in/raphael-eisenhofer-499b5a84/
+      - icon: github
+        href: https://github.com/EisenRa
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
