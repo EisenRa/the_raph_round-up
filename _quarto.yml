@@ -4,7 +4,8 @@ project:
 
 website:
   title: "the_raph_roundup"
-  margin-header: subscribe.html
+#  margin-header: subscribe.html
+  page-footer: subscribe.html
   site-url: https://eisenra.github.io/the_raph_round-up/
   description: "My personal blog"
   navbar:
