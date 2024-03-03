@@ -2,10 +2,14 @@ project:
   type: website
   output-dir: docs
 
+resources: 
+  - CNAME
+
 website:
   title: "the_raph_roundup"
   site-url: https://eisenra.github.io/the_raph_round-up/
   description: "My personal blog"
+  page-footer: subscribe.html
   navbar:
     right:
       - about.qmd
