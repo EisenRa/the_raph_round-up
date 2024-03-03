@@ -1,0 +1,82 @@
+---
+title: "The Raph Round-up: February 2024"
+author: "Raphael Eisenhofer"
+date: "2024-03-03"
+categories: [monthly]
+image: "image.jpg"
+lightbox: true
+---
+
+### Huh?
+
+..
+
+### 2024 starts with a bang
+
+.
+
+It looks like public opinion is changing, with \>50% of surveyed Danes supporting a ban on personal firework usage ([ref](https://www.statista.com/statistics/1428869/attitudes-towards-ban-on-fireworks-in-denmark/)). In addition, the government is looking to restrict personal usage to between the 31^st^ of December and 1^st^ of January for 2024-2025. Though I’m not confident that this will be enforced. Perhaps I should have brought my 600 mm telescopic lens with me to Denmark to catch people in the act? If you’re interested in some anecdotes from the locals, check out [this reddit thread](https://www.reddit.com/r/copenhagen/comments/18t65ma/whats_up_with_the_fireworks/).
+
+### Snow in Copenhagen
+
+We don't get a lot of snow in Copenhagen, but some snow is more than I ever got living in Australia and NZ, and so I'm always excited when we get some! I'm keen put together a post analysing and visualizing historical snowfall trends in Copenhagen, so keep your eyes out.
+
+::: {layout-ncol="3"}
+![Søndermarken](snow1.jpg){group="snow-gallery"}
+
+![Decent snowfall (for Copenhagen)](snow3.jpg){group="snow-gallery"}
+
+![Taken by Matilda](snow2.jpg){group="snow-gallery"}
+:::
+
+### Return of the Fastelavnsboller
+
+What the heck is a Fastelavnbolle (and how do you even pronounce it)? For this piece, I’m bringing in my historical and cultural correspondent (**Dr Matilda Handsley-Davis**) for some background on this tasty topic:
+
+> Fastelavn is a Danish festival with Christian roots. It’s part of the same tradition as Carnival or Mardi Gras – a chance to indulge in some excess just before the start of Lent. Unsurprisingly, fatty and sugary treats play a large role in this indulgence – hence, the Fastelavnsbolle (Fastelavn bun). A ‘gammeldags’ (‘olden days’) version is a sweet, yeasted bun filled with marzipan and/or whipped cream, topped with chocolate icing.
+
+::: {layout-ncol="2"}
+![Gammeldags bolle - purchased from Københavns bageri](faste1.jpg){group="gammel"}
+
+![Gammeldags bolle - cross section](faste2.jpg){group="gammel"}
+:::
+
+> However, Danish bakeries nowadays (maybe especially in Copenhagen?) are engaged in an annual arms race to create the most popular, delicious, or outrageous combinations of pastries, fillings, and flavours. Croissant dough, berries, citrus curd, and mascarpone are some popular avant-garde ingredients. Some bakeries also dabble in the Swedish version, ‘semla’ – a soft, cardamom-spiced bun with roasted almonds and a lot of whipped cream. While the diversity is exciting, having now tasted about six or seven different varieties across this and last year, I would actually say that a good-quality gammeldags number is hard to beat.
+
+::: {layout-ncol="2"}
+![Avant-garde bolle - purchased from Københavns bageri (our local)](faste3.jpg){group="avant"}
+
+![Avant-garde bolle - flot snit!! (nice cross section)](faste4.jpg){group="avant"}
+:::
+
+> The actual day of Fastelavn is seven weeks before Easter Sunday, so it always falls in February or early March – but the boller seem to hit the shelves as soon as everyone has recovered from New Year’s Eve. It’s surely not a coincidence that the season for this ultimate comfort food falls in a gloomy and dark time of year when everyone’s a bit sick of winter.
+
+> Interestingly, Fastelavn also bears quite a few similarities to Halloween. Kids traditionally dress up in costumes and go from house to house singing and asking for Fastelavnsboller. If they don’t get them, they may ‘make trouble’ – so kind of the Danish version of trick-or-treating. Children may also gather to ‘hit the cat out of the barrel’ with sticks – now a kind of pinata filled with lollies and maybe a paper cat. Back in the day, the tradition was quite a bit darker – an actual cat, symbolising the Devil, would be put into an actual barrel and set upon by people bearing sticks. This was supposed to symbolise driving evil away.
+
+> To finish up, here is an approximate phonetic pronunciation guide for ‘Fastelavnsbolle’: fess-tuh-lowns-boh-luh (the ‘ow’ as in ‘how’ or ‘clown’)
+
+Story by Matilda -- she may be making more contributions in the future.
+
+### Looks like pizza is back on the menu boys!\*\*
+
+[\*\*That’s a Lord of the Rings reference if you didn’t catch it.]{.aside} I love pizza, but making a good pie at home is tough without a speciality pizza oven. A key element is the high heat required to cook said pizzas quickly -- allowing for the base to be properly cooked, and for a nice spring in the crust. Years ago I previously tried a pizza stone but found it still wasn't getting hot enough or cooking the pizzas quickly -- ending my hopes of making good pies at home. Flash forward to 2023, when I came across [a video](https://www.youtube.com/watch?v=MH-EClQB8As) by [simpel dourdough](https://simpelsurdej.dk/) demonstrating the use of a steel for making pizza. I decided to give it a shot, and the first attempt came out really nice!
+
+::: {layout-ncol="2"}
+![The prodigal pie -- first bake with new setup](pizza1.jpg){group="pizza"}
+
+![The steel setup. Top shelf of oven with grill turned on for max heat ouput](pizza2.jpg){group="pizza"}
+:::
+
+I guess steel is far more conductive than stone, so the heat transfer to the pizza is much higher. The first two pizzas were cooked back-to-back, and took only 3.5 minutes each! I'm using a sourdough (66% hydration), cold fermenting in the fridge for 1-7 days. It's actually a super convenient weeknight meal. I make the dough on the weekend, and on the night just need to fire up the oven, shape, top, and bake! If you want to learn more about the pros/cons of stones vs. steels, check out [this article by seriouseats](https://www.seriouseats.com/baking-steel-vs-baking-stone-6891373).
+
+### Photo of the month
+
+![[Frederiksberg Palace](https://en.wikipedia.org/wiki/Frederiksberg_Palace) with snow. I love the contrast between the snow/sky (cold) and palace/Danish flag (warm). 35mm, ISO 100, f / 3.2, 1/1000 sec](fotm.jpg)
+
+### Interesting things I've read/watched
+
+[Our world in data](https://ourworldindata.org/)has some brilliant visualizations of data on a range of topics. Here’s one on [the environmental impacts of various foods](https://ourworldindata.org/food-choice-vs-eating-local), and [why plant-based milks are better for the environment than dairy milk](https://ourworldindata.org/environmental-impact-milks). IMO you should give plant-based drinks a try again – they’ve really improved (oat is my favourite).
+
+[Why Swiss trains are the best in the world](https://www.youtube.com/watch?v=muPcHs-E4qc): Really nice video showing how great the Swiss train network is. The received wisdom is that Swiss trains are the best in the world, but this videos actually runs you through why this is the case. If you like it, check out his other videos -- he makes great content relating to civic planning/transportation. I particularly liked the quote attributed to a former mayor of Bogotá Colombia:
+
+> #### An advanced city is not one where even the poor use cars, but rather one where even the rich use public transport.
