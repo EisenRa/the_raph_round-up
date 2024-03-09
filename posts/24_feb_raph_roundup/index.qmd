@@ -15,11 +15,13 @@ This month is more photo heavy than last, so I hope you enjoy some Swedish winte
 
 Matilda had the great idea of going for a winter holiday, and I'd also been very eager to explore more of Scandinavia while living in Copenhagen. So we packed our bags and escaped the grey clouds of Copenhagen and took a \~6-hour train to Sweden's capital, Stockholm. Stockholm (circa 1 million people) definitely has a bigger city feel compared to Copenhagen (circa 600,000). IMO Copenhagen feels a bit cosier, and easier to get around with amazing cycling infrastructure. Still we had a really nice time walking around, thrift-shopping, and tasting baked Swedish delicacies. We also visited a cool photography museum (Fotografiska) that was quite inspiring!
 
-::: {layout-ncol="3"}
+::: {layout-ncol="2"}
 ![Chilly in Stockholm!](stockholm1.jpg){group="stockholm"}
 
 ![Djurgården, an island in Stockholm that was previously the Swedish royal family's private getaway. ](stockholm2.jpg){group="stockholm"}
+:::
 
+::: {layout-ncol="2"}
 ![Semla -- the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background).](semla.jpg){group="stockholm"}
 
 ![Had the pleasure of visiting one of the Omnipollo bars -- a really good Swedish craft brewery.](omni.jpg){group="stockholm"}
@@ -105,7 +107,9 @@ The days are getting longer (finally!) Presently, the days are 4 hours and 22 mi
 
 ### Beer of the month
 
+::: {layout-ncol="1"}
 ![To Øl Natur's *Omnipresent*](beer.jpg)
+:::
 
 Thought I'd be cheeky and include a new 'Beer of the month' section! This month we have **To Øl Natur's** *Omnipresent*. Really nice balance of sweetness from local honey, *funkiness* from the wild microbes, and fruitiness from local cherries. To Øl is a great Danish craft brewery located on Zealand (easternmost island of Denmark, where Copenhagen is also found). They have a project, **To Øl Natur**, which is all about barrel-aged mixed-fermentation saisons and wild ales. Wild here refers to not inoculating your brew with a specific strain of microbe (e.g. *Saccharomyces cerevisiae* AKA brewer's yeast), but opening the door to other microbes. This usually results in super interesting flavours -- but I'll cover this in a future post :)
 
