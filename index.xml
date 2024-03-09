@@ -34,7 +34,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="stockholm1.jpg" class="lightbox" data-gallery="stockholm" data-glightbox="description: .lightbox-desc-1" title="Chilly in Stockholm!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/stockholm1.jpg" class="img-fluid figure-img" alt="Chilly in Stockholm!"></a></p>
+<p><a href="stockholm1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="stockholm" title="Chilly in Stockholm!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/stockholm1.jpg" class="img-fluid figure-img" alt="Chilly in Stockholm!"></a></p>
 <figcaption>Chilly in Stockholm!</figcaption>
 </figure>
 </div>
@@ -42,7 +42,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="stockholm2.jpg" class="lightbox" data-gallery="stockholm" data-glightbox="description: .lightbox-desc-2" title="Djurgården, an island in Stockholm that was previously the Swedish royal family’s private getaway."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/stockholm2.jpg" class="img-fluid figure-img" alt="Djurgården, an island in Stockholm that was previously the Swedish royal family’s private getaway."></a></p>
+<p><a href="stockholm2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="stockholm" title="Djurgården, an island in Stockholm that was previously the Swedish royal family’s private getaway."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/stockholm2.jpg" class="img-fluid figure-img" alt="Djurgården, an island in Stockholm that was previously the Swedish royal family’s private getaway."></a></p>
 <figcaption>Djurgården, an island in Stockholm that was previously the Swedish royal family’s private getaway.</figcaption>
 </figure>
 </div>
@@ -50,7 +50,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="semla.jpg" class="lightbox" data-gallery="stockholm" data-glightbox="description: .lightbox-desc-3" title="Semla – the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/semla.jpg" class="img-fluid figure-img" alt="Semla – the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background)."></a></p>
+<p><a href="semla.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="stockholm" title="Semla – the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/semla.jpg" class="img-fluid figure-img" alt="Semla – the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background)."></a></p>
 <figcaption>Semla – the Swedish equivalent of the fastelavnsbolle we covered last month. Filled with cream, almonds, and almond paste. (You can also spot a humble kanelbulle – cinnamon bun – in the background).</figcaption>
 </figure>
 </div>
@@ -60,7 +60,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="omni.jpg" class="lightbox" data-gallery="stockholm" data-glightbox="description: .lightbox-desc-4" title="Had the pleasure of visiting one of the Omnipollo bars – a really good Swedish craft brewery."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/omni.jpg" class="img-fluid figure-img" alt="Had the pleasure of visiting one of the Omnipollo bars – a really good Swedish craft brewery."></a></p>
+<p><a href="omni.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="stockholm" title="Had the pleasure of visiting one of the Omnipollo bars – a really good Swedish craft brewery."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/omni.jpg" class="img-fluid figure-img" alt="Had the pleasure of visiting one of the Omnipollo bars – a really good Swedish craft brewery."></a></p>
 <figcaption>Had the pleasure of visiting one of the Omnipollo bars – a really good Swedish craft brewery.</figcaption>
 </figure>
 </div>
@@ -76,7 +76,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="map.png" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-5" title="Our destination: Granö."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/map.png" class="img-fluid figure-img" alt="Our destination: Granö."></a></p>
+<p><a href="map.png" class="lightbox" data-glightbox="description: .lightbox-desc-5" data-gallery="grano" title="Our destination: Granö."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/map.png" class="img-fluid figure-img" alt="Our destination: Granö."></a></p>
 <figcaption>Our destination: Granö.</figcaption>
 </figure>
 </div>
@@ -84,7 +84,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="train_cabin.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-6" title="Cozy train sleeper cabin! Second bed folds out and acts as a bunk."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/train_cabin.jpg" class="img-fluid figure-img" alt="Cozy train sleeper cabin! Second bed folds out and acts as a bunk."></a></p>
+<p><a href="train_cabin.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-6" data-gallery="grano" title="Cozy train sleeper cabin! Second bed folds out and acts as a bunk."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/train_cabin.jpg" class="img-fluid figure-img" alt="Cozy train sleeper cabin! Second bed folds out and acts as a bunk."></a></p>
 <figcaption>Cozy train sleeper cabin! Second bed folds out and acts as a bunk.</figcaption>
 </figure>
 </div>
@@ -92,7 +92,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="til1.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-7" title="Arrived in Granö!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/til1.jpg" class="img-fluid figure-img" alt="Arrived in Granö!"></a></p>
+<p><a href="til1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-7" data-gallery="grano" title="Arrived in Granö!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/til1.jpg" class="img-fluid figure-img" alt="Arrived in Granö!"></a></p>
 <figcaption>Arrived in Granö!</figcaption>
 </figure>
 </div>
@@ -102,7 +102,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="grano1.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-8" title="Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/grano1.jpg" class="img-fluid figure-img" alt="Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!"></a></p>
+<p><a href="grano1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-8" data-gallery="grano" title="Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/grano1.jpg" class="img-fluid figure-img" alt="Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!"></a></p>
 <figcaption>Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!</figcaption>
 </figure>
 </div>
@@ -110,7 +110,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="cabin.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-9" title="View from our cabin at Granö Beckasin"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/cabin.jpg" class="img-fluid figure-img" alt="View from our cabin at Granö Beckasin"></a></p>
+<p><a href="cabin.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-9" data-gallery="grano" title="View from our cabin at Granö Beckasin"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/cabin.jpg" class="img-fluid figure-img" alt="View from our cabin at Granö Beckasin"></a></p>
 <figcaption>View from our cabin at Granö Beckasin</figcaption>
 </figure>
 </div>
@@ -118,7 +118,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="snow3.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-10" title="Cozy cabin in the woods (not currently in use)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow3.jpg" class="img-fluid figure-img" alt="Cozy cabin in the woods (not currently in use)."></a></p>
+<p><a href="snow3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-10" data-gallery="grano" title="Cozy cabin in the woods (not currently in use)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow3.jpg" class="img-fluid figure-img" alt="Cozy cabin in the woods (not currently in use)."></a></p>
 <figcaption>Cozy cabin in the woods (not currently in use).</figcaption>
 </figure>
 </div>
@@ -128,7 +128,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="snow4.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-11" title="Said cabin up close."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow4.jpg" class="img-fluid figure-img" alt="Said cabin up close."></a></p>
+<p><a href="snow4.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-11" data-gallery="grano" title="Said cabin up close."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow4.jpg" class="img-fluid figure-img" alt="Said cabin up close."></a></p>
 <figcaption>Said cabin up close.</figcaption>
 </figure>
 </div>
@@ -136,7 +136,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="snow2.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-12" title="Frozen river in Granö – we went cross-country skiing on top of it. The ice is more than one metre thick."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow2.jpg" class="img-fluid figure-img" alt="Frozen river in Granö – we went cross-country skiing on top of it. The ice is more than one metre thick."></a></p>
+<p><a href="snow2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-12" data-gallery="grano" title="Frozen river in Granö – we went cross-country skiing on top of it. The ice is more than one metre thick."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow2.jpg" class="img-fluid figure-img" alt="Frozen river in Granö – we went cross-country skiing on top of it. The ice is more than one metre thick."></a></p>
 <figcaption>Frozen river in Granö – we went cross-country skiing on top of it. The ice is more than one metre thick.</figcaption>
 </figure>
 </div>
@@ -144,7 +144,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="snow1.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-13" title="Sunset in Granö."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow1.jpg" class="img-fluid figure-img" alt="Sunset in Granö."></a></p>
+<p><a href="snow1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-13" data-gallery="grano" title="Sunset in Granö."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow1.jpg" class="img-fluid figure-img" alt="Sunset in Granö."></a></p>
 <figcaption>Sunset in Granö.</figcaption>
 </figure>
 </div>
@@ -154,7 +154,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="snow5.jpg" class="lightbox" data-gallery="grano" data-glightbox="description: .lightbox-desc-14" title="Sunset in Granö 2."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow5.jpg" class="img-fluid figure-img" alt="Sunset in Granö 2."></a></p>
+<p><a href="snow5.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-14" data-gallery="grano" title="Sunset in Granö 2."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/snow5.jpg" class="img-fluid figure-img" alt="Sunset in Granö 2."></a></p>
 <figcaption>Sunset in Granö 2.</figcaption>
 </figure>
 </div>
@@ -170,7 +170,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="dogs1.jpg" class="lightbox" data-gallery="dogs" data-glightbox="description: .lightbox-desc-15" title="Dog sledding! #1"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs1.jpg" class="img-fluid figure-img" alt="Dog sledding! #1"></a></p>
+<p><a href="dogs1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-15" data-gallery="dogs" title="Dog sledding! #1"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs1.jpg" class="img-fluid figure-img" alt="Dog sledding! #1"></a></p>
 <figcaption>Dog sledding! #1</figcaption>
 </figure>
 </div>
@@ -178,7 +178,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="dogs2.jpg" class="lightbox" data-gallery="dogs" data-glightbox="description: .lightbox-desc-16" title="Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs2.jpg" class="img-fluid figure-img" alt="Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run."></a></p>
+<p><a href="dogs2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-16" data-gallery="dogs" title="Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs2.jpg" class="img-fluid figure-img" alt="Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run."></a></p>
 <figcaption>Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run.</figcaption>
 </figure>
 </div>
@@ -186,7 +186,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="dogs3.jpg" class="lightbox" data-gallery="dogs" data-glightbox="description: .lightbox-desc-17" title="Doggo"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs3.jpg" class="img-fluid figure-img" alt="Doggo"></a></p>
+<p><a href="dogs3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-17" data-gallery="dogs" title="Doggo"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/dogs3.jpg" class="img-fluid figure-img" alt="Doggo"></a></p>
 <figcaption>Doggo</figcaption>
 </figure>
 </div>
@@ -202,7 +202,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea1.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-18" title="JULIA 2017"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea1.jpg" class="img-fluid figure-img" alt="JULIA 2017"></a></p>
+<p><a href="umea1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-18" data-gallery="umea" title="JULIA 2017"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea1.jpg" class="img-fluid figure-img" alt="JULIA 2017"></a></p>
 <figcaption>JULIA 2017</figcaption>
 </figure>
 </div>
@@ -210,7 +210,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea2.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-19" title="A view from Umeå’s contemporary art museum, Bildmuseet."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea2.jpg" class="img-fluid figure-img" alt="A view from Umeå’s contemporary art museum, Bildmuseet."></a></p>
+<p><a href="umea2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-19" data-gallery="umea" title="A view from Umeå’s contemporary art museum, Bildmuseet."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea2.jpg" class="img-fluid figure-img" alt="A view from Umeå’s contemporary art museum, Bildmuseet."></a></p>
 <figcaption>A view from Umeå’s contemporary art museum, Bildmuseet.</figcaption>
 </figure>
 </div>
@@ -218,7 +218,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea3.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-20" title="Another view from Umeå’s contemporary art museum, Bildmuseet."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea3.jpg" class="img-fluid figure-img" alt="Another view from Umeå’s contemporary art museum, Bildmuseet."></a></p>
+<p><a href="umea3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-20" data-gallery="umea" title="Another view from Umeå’s contemporary art museum, Bildmuseet."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea3.jpg" class="img-fluid figure-img" alt="Another view from Umeå’s contemporary art museum, Bildmuseet."></a></p>
 <figcaption>Another view from Umeå’s contemporary art museum, Bildmuseet.</figcaption>
 </figure>
 </div>
@@ -228,7 +228,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea4.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-21" title="Bildmuseet interior."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea4.jpg" class="img-fluid figure-img" alt="Bildmuseet interior."></a></p>
+<p><a href="umea4.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-21" data-gallery="umea" title="Bildmuseet interior."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea4.jpg" class="img-fluid figure-img" alt="Bildmuseet interior."></a></p>
 <figcaption>Bildmuseet interior.</figcaption>
 </figure>
 </div>
@@ -236,7 +236,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea5.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-22" title="Bildmuseet interior 2."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea5.jpg" class="img-fluid figure-img" alt="Bildmuseet interior 2."></a></p>
+<p><a href="umea5.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-22" data-gallery="umea" title="Bildmuseet interior 2."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea5.jpg" class="img-fluid figure-img" alt="Bildmuseet interior 2."></a></p>
 <figcaption>Bildmuseet interior 2.</figcaption>
 </figure>
 </div>
@@ -244,7 +244,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="umea6.jpg" class="lightbox" data-gallery="umea" data-glightbox="description: .lightbox-desc-23" title="Love the textures and angles in this photo."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea6.jpg" class="img-fluid figure-img" alt="Love the textures and angles in this photo."></a></p>
+<p><a href="umea6.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-23" data-gallery="umea" title="Love the textures and angles in this photo."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/umea6.jpg" class="img-fluid figure-img" alt="Love the textures and angles in this photo."></a></p>
 <figcaption>Love the textures and angles in this photo.</figcaption>
 </figure>
 </div>
@@ -265,7 +265,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="ryebread.jpg" class="lightbox" data-gallery="rugbrod" data-glightbox="description: .lightbox-desc-24" title="My first rugbrød bake!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/ryebread.jpg" class="img-fluid figure-img" alt="My first rugbrød bake!"></a></p>
+<p><a href="ryebread.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-24" data-gallery="rugbrod" title="My first rugbrød bake!"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/ryebread.jpg" class="img-fluid figure-img" alt="My first rugbrød bake!"></a></p>
 <figcaption>My first rugbrød bake!</figcaption>
 </figure>
 </div>
@@ -273,7 +273,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="aamans_smorrebrod1.png" class="lightbox" data-gallery="rugbrod" data-glightbox="description: .lightbox-desc-25" title="Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/aamans_smorrebrod1.png" class="img-fluid figure-img" alt="Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/)."></a></p>
+<p><a href="aamans_smorrebrod1.png" class="lightbox" data-glightbox="description: .lightbox-desc-25" data-gallery="rugbrod" title="Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/aamans_smorrebrod1.png" class="img-fluid figure-img" alt="Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/)."></a></p>
 <figcaption>Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/).</figcaption>
 </figure>
 </div>
@@ -281,7 +281,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="aamans_smorrebrod2.jpg" class="lightbox" data-gallery="rugbrod" data-glightbox="description: .lightbox-desc-26" title="Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/aamans_smorrebrod2.jpg" class="img-fluid figure-img" alt="Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/)."></a></p>
+<p><a href="aamans_smorrebrod2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-26" data-gallery="rugbrod" title="Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/)."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/aamans_smorrebrod2.jpg" class="img-fluid figure-img" alt="Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/)."></a></p>
 <figcaption>Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/).</figcaption>
 </figure>
 </div>
@@ -295,7 +295,7 @@
 <p>The days are getting longer (finally!) Presently, the days are 4 hours and 22 minutes longer than at the winter solstice, which makes a huge difference! Sunrise is at roughly 6:40, and sunset is at roughly 18:00, so we’re over the worst of the darkness. We’ve even got some brave plants that are bringing some colour to the landscape (despite the fact that it’s 2 degrees C as I’m writing this!):</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="spring.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-27" data-glightbox="description: .lightbox-desc-27" title="Pioneering snowdrop! One of the first flowers to start blooming in the Danish spring."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/spring.jpg" class="img-fluid figure-img" alt="Pioneering snowdrop! One of the first flowers to start blooming in the Danish spring."></a></p>
+<p><a href="spring.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-27" data-gallery="quarto-lightbox-gallery-27" title="Pioneering snowdrop! One of the first flowers to start blooming in the Danish spring."><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/spring.jpg" class="img-fluid figure-img" alt="Pioneering snowdrop! One of the first flowers to start blooming in the Danish spring."></a></p>
 <figcaption>Pioneering snowdrop! One of the first flowers to start blooming in the Danish spring.</figcaption>
 </figure>
 </div>
@@ -304,7 +304,7 @@
 <h3 class="anchored" data-anchor-id="photo-of-the-month">Photo of the month</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="fotm.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-28" data-glightbox="description: .lightbox-desc-28" title="Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/fotm.jpg" class="img-fluid figure-img" alt="Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec"></a></p>
+<p><a href="fotm.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-28" data-gallery="quarto-lightbox-gallery-28" title="Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/fotm.jpg" class="img-fluid figure-img" alt="Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec"></a></p>
 <figcaption>Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec</figcaption>
 </figure>
 </div>
@@ -313,7 +313,7 @@
 <h3 class="anchored" data-anchor-id="beer-of-the-month">Beer of the month</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="beer.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-29" data-glightbox="description: .lightbox-desc-29" title="To Øl Natur’s Omnipresent"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/beer.jpg" class="img-fluid figure-img" alt="To Øl Natur’s Omnipresent"></a></p>
+<p><a href="beer.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-29" data-gallery="quarto-lightbox-gallery-29" title="To Øl Natur’s Omnipresent"><img src="https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/beer.jpg" class="img-fluid figure-img" alt="To Øl Natur’s Omnipresent"></a></p>
 <figcaption>To Øl Natur’s <em>Omnipresent</em></figcaption>
 </figure>
 </div>
