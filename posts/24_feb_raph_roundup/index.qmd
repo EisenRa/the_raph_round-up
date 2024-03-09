@@ -1,82 +1,104 @@
 ---
 title: "The Raph Round-up: February 2024"
 author: "Raphael Eisenhofer"
-date: "2024-03-03"
+date: "2024-03-08"
 categories: [monthly]
-image: "image.jpg"
+image: "fotm_thumbnail.jpg"
 lightbox: true
 ---
 
-### Huh?
+Welcome to another monthly round-up! This month is more photo heavy than last, so I hope you enjoy some Swedish winter shots. There's also an article about the hallowed Danish rye bread O.o
 
-..
+### Winter holiday in Sweden
 
-### 2024 starts with a bang
-
-.
-
-It looks like public opinion is changing, with \>50% of surveyed Danes supporting a ban on personal firework usage ([ref](https://www.statista.com/statistics/1428869/attitudes-towards-ban-on-fireworks-in-denmark/)). In addition, the government is looking to restrict personal usage to between the 31^st^ of December and 1^st^ of January for 2024-2025. Though I’m not confident that this will be enforced. Perhaps I should have brought my 600 mm telescopic lens with me to Denmark to catch people in the act? If you’re interested in some anecdotes from the locals, check out [this reddit thread](https://www.reddit.com/r/copenhagen/comments/18t65ma/whats_up_with_the_fireworks/).
-
-### Snow in Copenhagen
-
-We don't get a lot of snow in Copenhagen, but some snow is more than I ever got living in Australia and NZ, and so I'm always excited when we get some! I'm keen put together a post analysing and visualizing historical snowfall trends in Copenhagen, so keep your eyes out.
+Til had the great idea of going for a winter holiday, and I'd also been very eager to explore more of Scandinavia while living in Copenhagen. So we escaped the grey clouds of Copenhagen and took a train to Sweden's capital, Stockholm.
 
 ::: {layout-ncol="3"}
-![Søndermarken](snow1.jpg){group="snow-gallery"}
+![Pretty darn chilly!](stockholm1.jpg){group="stockholm"}
 
-![Decent snowfall (for Copenhagen)](snow3.jpg){group="snow-gallery"}
+![In Stockholm](stockholm2.jpg){group="stockholm"}
 
-![Taken by Matilda](snow2.jpg){group="snow-gallery"}
+![Semla -- the Swedish equivalent of the fastelavnsboller we covered last month](semla.jpg){group="stockholm"}
+
+![Had the pleasure of visiting one of the Omnipollo bars -- a really good Swedish craft brewery](omni.jpg){group="stockholm"}
 :::
 
-### Return of the Fastelavnsboller
+\~35°S \~64°N
 
-What the heck is a Fastelavnbolle (and how do you even pronounce it)? For this piece, I’m bringing in my historical and cultural correspondent (**Dr Matilda Handsley-Davis**) for some background on this tasty topic:
+::: {layout-ncol="3"}
+![Our destination: Granö](map.png){group="grano"}
 
-> Fastelavn is a Danish festival with Christian roots. It’s part of the same tradition as Carnival or Mardi Gras – a chance to indulge in some excess just before the start of Lent. Unsurprisingly, fatty and sugary treats play a large role in this indulgence – hence, the Fastelavnsbolle (Fastelavn bun). A ‘gammeldags’ (‘olden days’) version is a sweet, yeasted bun filled with marzipan and/or whipped cream, topped with chocolate icing.
+![Cozy train sleeper cabin! Second bed folds out and acts as a bunk.](train_cabin.jpg){group="grano"}
 
-::: {layout-ncol="2"}
-![Gammeldags bolle - purchased from Københavns bageri](faste1.jpg){group="gammel"}
+![Arrived in Granö!](til1.jpg){group="grano"}
 
-![Gammeldags bolle - cross section](faste2.jpg){group="gammel"}
+![Most of the buildings in Granö are warmly coloured, makes for a nice contrast to the whites and blues!](grano1.jpg){group="grano"}
+
+![View from our cabin at Granö Beckasin](cabin.jpg){group="grano"}
+
+![Cozy cabin in the woods](snow3.jpg){group="grano"}
+
+![Said cabin up close](snow4.jpg){group="grano"}
+
+![Frozen river in Granö](snow2.jpg){group="grano"}
+
+![Sunset in Granö](snow1.jpg){group="grano"}
+
+![Sunset in Granö 2](snow5.jpg){group="grano"}
 :::
 
-> However, Danish bakeries nowadays (maybe especially in Copenhagen?) are engaged in an annual arms race to create the most popular, delicious, or outrageous combinations of pastries, fillings, and flavours. Croissant dough, berries, citrus curd, and mascarpone are some popular avant-garde ingredients. Some bakeries also dabble in the Swedish version, ‘semla’ – a soft, cardamom-spiced bun with roasted almonds and a lot of whipped cream. While the diversity is exciting, having now tasted about six or seven different varieties across this and last year, I would actually say that a good-quality gammeldags number is hard to beat.
+A definite highlight was the mushing (dog sledding). We got to drive a two-person sled, with one person sitting and the other driving. The dogs take care of most of it (they follow the guide's sled), but you have two brakes that you need to apply on downhills / when you want to stop. On the uphills you also hop off and run to help push the sled up. The guides were super nice, and we learned a lot about what it takes to look after and manage mushing dogs. They know each of the \~40 dogs by name, experience, and personality. They have to account for which dogs get along with each other and their relative experience when picking the sled team. The lead (front) dogs also receive special training such that they can make turns on verbal command. It was a fantastic experience, and really made me appreciate how special these animals are.
 
-::: {layout-ncol="2"}
-![Avant-garde bolle - purchased from Københavns bageri (our local)](faste3.jpg){group="avant"}
+::: {layout-ncol="3"}
+![Dog sledding! #1](dogs1.jpg){group="dogs"}
 
-![Avant-garde bolle - flot snit!! (nice cross section)](faste4.jpg){group="avant"}
+![Tuckered out dogs after the ride ready for a pat. They are really cuddly after a good run.](dogs2.jpg){group="dogs"}
+
+![Dogo](dogs3.jpg){group="dogs"}
 :::
 
-> The actual day of Fastelavn is seven weeks before Easter Sunday, so it always falls in February or early March – but the boller seem to hit the shelves as soon as everyone has recovered from New Year’s Eve. It’s surely not a coincidence that the season for this ultimate comfort food falls in a gloomy and dark time of year when everyone’s a bit sick of winter.
+After three beautiful days in the snow it was time to head home, so we took an hour bus ride to Umeå, where we had a couple of hours before our train to Stockholm. We took a nice walk along the waterfront (ice-front??), and came across a really cool sculpture made by Jaume Plensa. I only took one photo, but it's designed to look similar from different angles, see [here](https://jaumeplensa.com/works-and-projects/public-space/julia-2017) for examples. We then went to a really nice contemporary art museum Bildmuseet, which, as it turns out was designed by the acclaimed Danish [Henning Larsen Architects](https://henninglarsen.com/en/projects/0900-0999/0992-umeaa-kunstmuseum/).
 
-> Interestingly, Fastelavn also bears quite a few similarities to Halloween. Kids traditionally dress up in costumes and go from house to house singing and asking for Fastelavnsboller. If they don’t get them, they may ‘make trouble’ – so kind of the Danish version of trick-or-treating. Children may also gather to ‘hit the cat out of the barrel’ with sticks – now a kind of pinata filled with lollies and maybe a paper cat. Back in the day, the tradition was quite a bit darker – an actual cat, symbolising the Devil, would be put into an actual barrel and set upon by people bearing sticks. This was supposed to symbolise driving evil away.
+::: {layout-ncol="3"}
+![JULIA 2017](umea1.jpg){group="umea"}
 
-> To finish up, here is an approximate phonetic pronunciation guide for ‘Fastelavnsbolle’: fess-tuh-lowns-boh-luh (the ‘ow’ as in ‘how’ or ‘clown’)
+![View from Umeå's contemporary art museum, Bildmuseet 1](umea2.jpg){group="umea"}
 
-Story by Matilda -- she may be making more contributions in the future.
+![View from Umeå's contemporary art museum, Bildmuseet 2](umea3.jpg){group="umea"}
 
-### Looks like pizza is back on the menu boys!\*\*
+![Inside Bildmuseet 1](umea4.jpg){group="umea"}
 
-[\*\*That’s a Lord of the Rings reference if you didn’t catch it.]{.aside} I love pizza, but making a good pie at home is tough without a speciality pizza oven. A key element is the high heat required to cook said pizzas quickly -- allowing for the base to be properly cooked, and for a nice spring in the crust. Years ago I previously tried a pizza stone but found it still wasn't getting hot enough or cooking the pizzas quickly -- ending my hopes of making good pies at home. Flash forward to 2023, when I came across [a video](https://www.youtube.com/watch?v=MH-EClQB8As) by [simpel dourdough](https://simpelsurdej.dk/) demonstrating the use of a steel for making pizza. I decided to give it a shot, and the first attempt came out really nice!
+![Inside Bildmuseet 2](umea5.jpg){group="umea"}
 
-::: {layout-ncol="2"}
-![The prodigal pie -- first bake with new setup](pizza1.jpg){group="pizza"}
-
-![The steel setup. Top shelf of oven with grill turned on for max heat ouput](pizza2.jpg){group="pizza"}
+![Love the textures and angles in this photo](umea6.jpg){group="umea"}
 :::
 
-I guess steel is far more conductive than stone, so the heat transfer to the pizza is much higher. The first two pizzas were cooked back-to-back, and took only 3.5 minutes each! I'm using a sourdough (66% hydration), cold fermenting in the fridge for 1-7 days. It's actually a super convenient weeknight meal. I make the dough on the weekend, and on the night just need to fire up the oven, shape, top, and bake! If you want to learn more about the pros/cons of stones vs. steels, check out [this article by seriouseats](https://www.seriouseats.com/baking-steel-vs-baking-stone-6891373).
+The home leg of our journey took us on a six hour train from Umeå to Stockholm, followed by another night train to Copenhagen, where we arrived around 8 AM. Overall, it's one of the best holidays I've had – it was magical being so far north and seeing so much snow! Train travel is also so much more relaxing than flying, and night trains (if you have a bed) and are a really efficient way to travel.
+
+### Rugbrød (rye bread)
+
+Let's go back to Denmark, and cover a topic that's particularly Danish, namely rugbrød (rye bread).
+
+It's actually quite simple to make compared to a wheat sourdough – where gluten development and shaping is much more important.
+
+::: {layout-ncol="3"}
+![My first rugbrød bake!](ryebread.jpg){group="rugbrod"}
+
+![Fancy Danish Smørrebrød #1 (https://copenhagenfood.dk/aamanns-etablissement/)](aamans_smorrebrod1.png){group="rugbrod"}
+
+![Fancy Danish Smørrebrød #2 (https://migogkbh.dk/aamanns-aabner-nyt-sted/)](aamans_smorrebrod2.jpg){group="rugbrod"}
+:::
+
+Sådan laver du rugbrød (this is how you make ryebread). Once again, I followed a [recipe](https://www.youtube.com/watch?v=HgLns9ujYlw) from the excellent [Simpel Sourdough](https://simpelsurdej.dk/). Seeds and cracked rye kernels are soaked overnight to soften, then the next morning this mixture is added to rye flour, sourdough starter, water, salt, and optionally malt syrup/molasses. Let the microbes do their magic (they were super active with this mixture!), then bake. Really nice as toast in the morning with butter and vegemite/cenovis or honey. It's definitely a loaf I'll now be making regularly!
 
 ### Photo of the month
 
-![[Frederiksberg Palace](https://en.wikipedia.org/wiki/Frederiksberg_Palace) with snow. I love the contrast between the snow/sky (cold) and palace/Danish flag (warm). 35mm, ISO 100, f / 3.2, 1/1000 sec](fotm.jpg)
+![Lonely bicycle in Umeå. Sums up how much snow we saw in Sweden! 35mm, ISO 100, f / 3.2, 1/1600 sec](fotm.jpg)
+
+### Beer of the month
+
+![To Øl Natur's *Omnipresent*](beer.jpg)
+
+Thought I'd be cheeky and include a new 'Beer of the month' section! This month we have **To Øl Natur's** *Omnipresent*. Really nice balance of sweetness from local honey, *funkiness* from the wild microbes, and fruityness from local cherries. To Øl is a great Danish craft brewery located on Zealand (Eastern most island of Denmark). They have a project **To Øl Natur**, which is all about barrel-aged mixed-fermentation saisons and wild ales. Wild here refers to not inoculating your brew with a specific strain of microbe (e.g. *Saccharomyces cerevisiae* a.k.a brewer's yeast), but opening the door to other microbes. This usually results in super interesting flavours -- but I'll cover this in a future post :)
 
 ### Interesting things I've read/watched
-
-[Our world in data](https://ourworldindata.org/)has some brilliant visualizations of data on a range of topics. Here’s one on [the environmental impacts of various foods](https://ourworldindata.org/food-choice-vs-eating-local), and [why plant-based milks are better for the environment than dairy milk](https://ourworldindata.org/environmental-impact-milks). IMO you should give plant-based drinks a try again – they’ve really improved (oat is my favourite).
-
-[Why Swiss trains are the best in the world](https://www.youtube.com/watch?v=muPcHs-E4qc): Really nice video showing how great the Swiss train network is. The received wisdom is that Swiss trains are the best in the world, but this videos actually runs you through why this is the case. If you like it, check out his other videos -- he makes great content relating to civic planning/transportation. I particularly liked the quote attributed to a former mayor of Bogotá Colombia:
-
-> #### An advanced city is not one where even the poor use cars, but rather one where even the rich use public transport.
