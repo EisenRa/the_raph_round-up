@@ -16,23 +16,30 @@ That’s right, sources report that the sun has been sighted in Copenhagen after
 ::: {layout-ncol="1"}
 ![Coffee and a chocolate scone (not common to find these in Copenhagen!)](ch1.jpg){group="ch"}
 
-![Someone made a nice green wreath](ch2.jpg){group="ch"}
+![Someone made a nice green wreath\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](ch2.jpg){group="ch"}
 
-![Typical view of Christianshavn, with many houseboats moored up along the canals.](ch3.jpg){group="ch"}
+![Typical view of Christianshavn, with many houseboats moored up along the canals.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](ch3.jpg){group="ch"}
 :::
 
 ::: {layout-ncol="1"}
 ![The said tower, with striking spiral peak. (Source: wikipedia)](church.jpg){group="cht"}
 
-![View East, you can see Sweden in the distance, and the bridge connecting Denmark to Sweden.](cht1.jpg){group="cht"}
+![View East, you can see Sweden in the distance, and the bridge connecting Denmark to Sweden.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](cht1.jpg){group="cht"}
 
-![View over Christianshavn.](cht2.jpg){group="cht"}
+![View over Christianshavn.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](cht2.jpg){group="cht"}
 
-![Copenhagen views.](cht3.jpg){group="cht"}
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](cht3.jpg){group="cht"}
 
-![Copenhagen views.](cht4.jpg){group="cht"} 
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](cht4.jpg){group="cht"}
 
-![Copenhagen views.](cht5.jpg){group="cht"}
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](cht5.jpg){group="cht"}
 :::
 
 ### Berlin
@@ -42,31 +49,42 @@ Matilda’s parents were in Europe, so we decided to meet up in Berlin. After a 
 ::: {layout-ncol="3"}
 ![Part of the original wall still standing, which now has heaps of cool art along it.](berlin_wall.jpg){group="berlin"}
 
-![Street art](berlin1.jpg){group="berlin"}
+![Street art\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin1.jpg){group="berlin"}
 
-!["street art"](berlin3.jpg){group="berlin"}
+!["street art"\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin3.jpg){group="berlin"}
 
-![Street advice](berlin4.jpg){group="berlin"}
+![Street advice\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin4.jpg){group="berlin"}
 
-![Street beer?](berlin5.jpg){group="berlin"}
+![Street beer?\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin5.jpg){group="berlin"}
 
-![Grim (in my opinion) apartments](berlin6.jpg){group="berlin"}
+![Grim (in my opinion) apartments\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin6.jpg){group="berlin"}
 
-![Rainbow paint drips](berlin7.jpg){group="berlin"} 
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin7.jpg){group="berlin"}
 
-![Rainbow paint drips](berlin8.jpg){group="berlin"}
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin8.jpg){group="berlin"}
 
-![Rainbow paint drips](berlin9.jpg){group="berlin"}
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](berlin9.jpg){group="berlin"}
 
-![Also visited the Reichstag](reichstag1.jpg){group="berlin"}
+![Also visited the Reichstag\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](reichstag1.jpg){group="berlin"}
 
-![Also visited the Reichstag](reichstag2.jpg){group="berlin"}
+![Also visited the Reichstag\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](reichstag2.jpg){group="berlin"}
 :::
 
 I also visited the Stasi museum – housed in headquarters of the Stasi (secret police), with many rooms untouched since the fall of East Germany. It covered the history of post WW2 Germany well and had many interesting historical items. The extent of the public’s involvement in the Stasi as ‘unofficial collaborators’ is staggering (\>500,000). Surveillance has definitely changed since the rise of the internet, with the U.S. government’s [surveillance of its own citizens](https://en.wikipedia.org/wiki/PRISM) being something quite mind-blowing.
 
 ::: {layout-ncol="3"}
-![Example of Soviet-style architecture](stasi0.jpg){group="stasi"}
+![Example of Soviet-style architecture\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](stasi0.jpg){group="stasi"}
 
 ![Eavesdropping device planted in a door](stasi1.jpg){group="stasi"}
 
@@ -90,28 +108,37 @@ Finally, it’s interesting to ponder some more on the use of the bunker. The Na
 For the Easter weekend, we hired a summer house (doesn’t come with summer weather, unfortunately), in Northwest Zealand (Sjælland), about an hour’s drive from Copenhagen. This was the second time that I’ve been in a car since moving to Denmark – which goes to show how easy life is with a bike in Copenhagen! Overall, a relaxing weekend, and I was glad to get away from everything and have time to read and catch up with family.
 
 ::: {layout-ncol="3"}
-![Lammefjord in the morning with fog](wz0.jpg){group="wz"}
+![Lammefjord in the morning with fog\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz0.jpg){group="wz"}
 
-![Lammefjord in the evening](wz1.jpg){group="wz"}
+![Lammefjord in the evening\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz1.jpg){group="wz"}
 
-![Rural Denmark](wz2.jpg){group="wz"}
+![Rural Denmark\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz2.jpg){group="wz"}
 
-![Rocks](wz3.jpg){group="wz"}
+![Rocks\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz3.jpg){group="wz"}
 
-![Flowers peeking through](wz4.jpg){group="wz"}
+![Flowers peeking through\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz4.jpg){group="wz"}
 
-![Malergården -- old house of Danish artists](wz5.jpg){group="wz"}
+![Malergården -- old house of Danish artists\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz5.jpg){group="wz"}
 
-![Danish forest -- still no leave yet!](wz6.jpg){group="wz"}
+![Danish forest -- still no leave yet!\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz6.jpg){group="wz"}
 
-![Stone structure, historic, or new?](wz7.jpg){group="wz"}
+![Stone structure, historic, or new?\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](wz7.jpg){group="wz"}
 :::
 
 ### Photo of the month
 
 Billboard in a Berlin park. Sums up Berlin pretty well! A lot happening, and I’ve never seen so many stickers in my life (plastered almost everywhere).
 
-![35mm, ISO 100, f / 1.8, 1/1600 sec](fotm.jpg)
+![35mm, ISO 100, f / 1.8, 1/1600 sec\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](fotm.jpg)
 
 ### Interesting things I've read/watched
 

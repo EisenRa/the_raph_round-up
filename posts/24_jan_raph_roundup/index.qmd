@@ -34,7 +34,8 @@ It looks like public opinion is changing, with \>50% of surveyed Danes supportin
 We don't get a lot of snow in Copenhagen, but some snow is more than I ever got living in Australia and NZ, and so I'm always excited when we get some! I'm keen put together a post analysing and visualizing historical snowfall trends in Copenhagen, so keep your eyes out.
 
 ::: {layout-ncol="3"}
-![Søndermarken](snow1.jpg){group="snow-gallery"}
+![Søndermarken\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](snow1.jpg){group="snow-gallery"}
 
 ![Decent snowfall (for Copenhagen)](snow3.jpg){group="snow-gallery"}
 
@@ -83,7 +84,8 @@ I guess steel is far more conductive than stone, so the heat transfer to the piz
 
 ### Photo of the month
 
-![[Frederiksberg Palace](https://en.wikipedia.org/wiki/Frederiksberg_Palace) with snow. I love the contrast between the snow/sky (cold) and palace/Danish flag (warm). 35mm, ISO 100, f / 3.2, 1/1000 sec](fotm.jpg)
+![[Frederiksberg Palace](https://en.wikipedia.org/wiki/Frederiksberg_Palace) with snow. I love the contrast between the snow/sky (cold) and palace/Danish flag (warm). 35mm, ISO 100, f / 3.2, 1/1000 sec\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](fotm.jpg)
 
 ### Interesting things I've read/watched
 
