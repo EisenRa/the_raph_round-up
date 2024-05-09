@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Raphael Eisenhofer">
+<meta name="dcterms.date" content="2024-05-09">
 
-<title>the_raph_roundup - The Raph Round-up</title>
+<title>the_raph_roundup - The Raph Round-up: April 2024</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +71,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="the_raph_roundup" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">the_raph_roundup</span>
     </a>
   </div>
@@ -149,7 +94,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -173,7 +118,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -187,176 +132,335 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">The Raph Round-up</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">The Raph Round-up: April 2024</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">monthly</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Raphael Eisenhofer </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">May 9, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="monthly">monthly <span class="quarto-category-count">(4)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Spring has sprung! It’s a relief to finally see more colours in Copenhagen – I hope you enjoy this update :-)</p>
+<section id="a-spring-to-your-step" class="level3">
+<h3 class="anchored" data-anchor-id="a-spring-to-your-step">A Spring to your step</h3>
+<p>Foråret er kommet (spring has come) to Copenhagen. Growing up in New Zealand and Australia, spring never seemed like a particularly special time of the year to me. Perhaps it’s the fact that most of the native trees are evergreen, and that we see flowering throughout much of the year (as well as winter not being so harsh). Since moving to Copenhagen, however, I’ve been blown away with how remarkable spring is here. Flowers of all shapes, shades, and sizes spring out from slumber – as do the Danes, who emerge from their hyggelige (cosy) apartments and flock to the local parks to soak in the rays. Not to mention it’s now light when you wake up in the morning AND when you get home from work in the evening! I guess there’s a few factors at play here – the winter being so much darker and colder here, coupled with the trees being bare and seemingly lifeless. Scent may also play another important role; just the other day I was walking through the local park and realised that I can smell plants now! Regardless, spring is something I’ve come to really relish since moving to Denmark.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="spr3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-gallery="spr" title="Had a nice day out at Kastellet (the citadel), a fortress built in the 1600s. Now a popular place for a walk on a beautiful spring day. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="spr3.jpg" class="img-fluid figure-img" alt="Had a nice day out at Kastellet (the citadel), a fortress built in the 1600s. Now a popular place for a walk on a beautiful spring day. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Had a nice day out at <a href="https://en.wikipedia.org/wiki/Kastellet,_Copenhagen">Kastellet</a> (the citadel), a fortress built in the 1600s. Now a popular place for a walk on a beautiful spring day.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="spr4.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-gallery="spr" title="Bridge across to the fortress. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="spr4.jpg" class="img-fluid figure-img" alt="Bridge across to the fortress. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Bridge across to the fortress.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="spr2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-gallery="spr" title="More trees down Sønder Boulevard near where we live. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="spr2.jpg" class="img-fluid figure-img" alt="More trees down Sønder Boulevard near where we live. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>More trees down Sønder Boulevard near where we live.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>It was a nice excuse to dust off my Tokina 100m Macro lens and take some photos in our local park!</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl1.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-5" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl2.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-6" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl3.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl4.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-7" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl4.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl5.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-8" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl5.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl6.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-9" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl6.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl7.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-10" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl7.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl8.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-11" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl8.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fl9.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-12" data-gallery="fl" title="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fl9.jpg" class="img-fluid figure-img" alt="Flowers. © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="visit-carlsberg" class="level3">
+<h3 class="anchored" data-anchor-id="visit-carlsberg">Visit Carlsberg</h3>
+<p>While Matilda’s parents were around in early April, we took a trip to ‘Visit Carlsberg’, an exhibition in Carlsberg’s original brewery. You’ve probably heard of Carlsberg. Founded in 1847, it has become an internationally known beer. Did you know that scientists at the Carlsberg Research Laboratory invented the pH scale? The founder, J.C. Jacobsen, believed that science was the key to unlocking consistent and high-quality beer. The Carlsberg Foundation (the not-for-profit organisation that controls the majority voting rights for Carlsberg A/S) continues to invest into science and society today.</p>
+<p>In 2008, Carlsberg moved their beer production to Jutland (in Denmark), and in its place, the Carlsberg City District is being developed. (I’ll cover this in a future article, as it’s quite interesting, and a great example of how high-density living can be done well.) Overall, I’d say it’s well worth a visit if you’re in Copenhagen. I think they did a great job with the exhibition – it’s engaging, interesting, and well put together. That the exhibition runs through the old brewery gives it a great historical feel, and I think they nailed the design of modern meets historical.</p>
+<p>While I always support local independent breweries, if I had to drink a ‘macro’ beer, it’d be Carlsberg. That it’s governed by a not-for-profit foundation that actually invests back into Denmark (and science in general) is clear. I’ll also admit that it tastes pretty damn good, and it’s clear to me that they continue to be driven by a desire to produce quality beer.</p>
+<p>An honourable mention to Til’s highlight of the visit – the small fleet of Carlsberg horses and ponies, the former of which still draw the traditional Carlsberg beer wagon around the neighbourhood a few times a week. The rest of the time, they all seem to have a pretty relaxing life acting as Carlsberg brand ambassadors.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb0.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-13" data-gallery="cb" title="The four magic ingredients ‘photo from Matilda’"><img src="cb0.jpeg" class="img-fluid figure-img" alt="The four magic ingredients ‘photo from Matilda’"></a></p>
+<figcaption>The four magic ingredients ‘photo from Matilda’</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb1.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-14" data-gallery="cb" title="An OG steeping tank – love the lighting"><img src="cb1.jpg" class="img-fluid figure-img" alt="An OG steeping tank – love the lighting"></a></p>
+<figcaption>An OG steeping tank – love the lighting</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb2.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-15" data-gallery="cb" title="You can walk through and admire Carlsberg’s collection of >20,000 beer bottles! Also from the comfort of your own pyjamas"><img src="cb2.jpg" class="img-fluid figure-img" alt="You can walk through and admire Carlsberg’s collection of >20,000 beer bottles! Also from the comfort of your own pyjamas"></a></p>
+<figcaption>You can walk through and admire Carlsberg’s collection of &gt;20,000 beer bottles! Also from the <a href="https://homeofcarlsberg.com/stories/bottle-collection/">comfort of your own pyjamas</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb3.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-16" data-gallery="cb" title="How damn cool is this?!"><img src="cb3.jpg" class="img-fluid figure-img" alt="How damn cool is this?!"></a></p>
+<figcaption>How damn cool is this?!</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb4.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-17" data-gallery="cb" title="Carlsberg once used horses for transporting their beer around the city. I think it’s great that they have kept the stables going as a nod to the important work these horses did. ‘photo from Matilda’"><img src="cb4.jpeg" class="img-fluid figure-img" alt="Carlsberg once used horses for transporting their beer around the city. I think it’s great that they have kept the stables going as a nod to the important work these horses did. ‘photo from Matilda’"></a></p>
+<figcaption>Carlsberg once used horses for transporting their beer around the city. I think it’s great that they have kept the stables going as a nod to the important work these horses did. ‘photo from Matilda’</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb5.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-18" data-gallery="cb" title="Your ticket of course includes a beer at the end. ‘photo from Matilda’"><img src="cb5.jpeg" class="img-fluid figure-img" alt="Your ticket of course includes a beer at the end. ‘photo from Matilda’"></a></p>
+<figcaption>Your ticket of course includes a beer at the end. ‘photo from Matilda’</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="cb6.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-19" data-gallery="cb" title="Matilda, Elizabeth and Gary outside the old brewery."><img src="cb6.jpeg" class="img-fluid figure-img" alt="Matilda, Elizabeth and Gary outside the old brewery."></a></p>
+<figcaption>Matilda, Elizabeth and Gary outside the old brewery.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="lunch-of-the-month" class="level3">
+<h3 class="anchored" data-anchor-id="lunch-of-the-month">Lunch of the month?</h3>
+<p>Just a nice excuse to promote Auren’s Deli in Frederiksberg – thanks Tiff for the suggestion!</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="lunch.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-20" data-gallery="lunch" title="Laekkert! ‘photo from Matilda’"><img src="lunch.jpeg" class="img-fluid figure-img" alt="Laekkert! ‘photo from Matilda’"></a></p>
+<figcaption>Laekkert! ‘photo from Matilda’</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="photo-of-the-month" class="level3">
+<h3 class="anchored" data-anchor-id="photo-of-the-month">Photo of the month</h3>
+<p>Nothing says spring like these trees at the Copenhagen Sakura Festival near Kastellet.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="fotm.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-21" data-gallery="quarto-lightbox-gallery-21" title="35mm, ISO 100, f / 1.8, 1/1600 sec © 2024. This work is openly licensed via CC BY-NC 4.0"><img src="fotm.jpg" class="img-fluid figure-img" alt="35mm, ISO 100, f / 1.8, 1/1600 sec © 2024. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>35mm, ISO 100, f / 1.8, 1/1600 sec<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="interesting-things-ive-readwatched" class="level3">
+<h3 class="anchored" data-anchor-id="interesting-things-ive-readwatched">Interesting things I’ve read/watched</h3>
+<p>Someone made a <a href="https://www.youtube.com/watch?v=JheGL6uSF-4">graph of Wikipedia</a> – really nicely put together video with amazing visualisations, well worth a watch if you have 20 minutes!</p>
+<p><a href="https://cosmosmagazine.com/nature/animals/turns-out-wombats-can-run-at-40km-h/">Can wombats really run at 40 km/hour?</a> An excellent article that touches on the question of ‘when is a scientific fact a scientific fact?’. It features quotes from David Taggart, a colleague and good friend from Adelaide who’s also the leading Southern Hairy-nosed Wombat expert – shout out to Tags! From my own personal experience catching wombats for many years for research, they can run bloody fast! I plan to write a blog post about wombats in the coming months, so stay tuned :-)</p>
+<p>An area the size of 5 USAs is what humans use for agriculture today. <strong>77%</strong> of this area is used for meat/dairy production, and this not just for grazing (half of the world cropland is fed to animals for meat/dairy). Our World in Data provide us with <a href="https://ourworldindata.org/agricultural-productivity-crucial?utm_source=OWID+Newsletter&amp;utm_campaign=1761d4ee85-biweekly-digest-2024-03-15&amp;utm_medium=email&amp;utm_term=0_2e166c1fc1-3875482ed3-%5BLIST_EMAIL_ID%5D">another engaging article</a> on this topic.</p>
+<p><a href="https://www.abc.net.au/news/2024-03-04/australians-lose-one-billion-in-surcharges-least-cost-routing/103530946">Banks in Australia are making a killing with surcharges</a>, surprise surprise.</p>
+<p>I also watched an Australian <a href="https://www.youtube.com/watch?v=DMUa-FlVWkg">senate hearing</a> about the issues with Australia’s supermarket duopoly. Lower competition = higher prices, who’d have thunk it? Greg and Matt from the Australian Institute do a great job highlighting these issues in plain English.</p>
+<p>Finally, I highly recommend <a href="https://www.youtube.com/watch?v=zCcJif8cuqo">this talk and discussion</a> from Yanis Varoufakis. A very compelling look at the consolidation in big tech, and what this will mean for our futures.</p>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Had a nice day out at <a href="https://en.wikipedia.org/wiki/Kastellet,_Copenhagen">Kastellet</a> (the citadel), a fortress built in the 1600s. Now a popular place for a walk on a beautiful spring day.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-2">Bridge across to the fortress.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-3">More trees down Sønder Boulevard near where we live.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-4">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-5">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-6">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-7">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-8">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-9">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-10">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-11">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-12">Flowers.<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+<span class="glightbox-desc lightbox-desc-13">The four magic ingredients ‘photo from Matilda’</span>
+<span class="glightbox-desc lightbox-desc-14">An OG steeping tank – love the lighting</span>
+<span class="glightbox-desc lightbox-desc-15">You can walk through and admire Carlsberg’s collection of &gt;20,000 beer bottles! Also from the <a href="https://homeofcarlsberg.com/stories/bottle-collection/">comfort of your own pyjamas</a></span>
+<span class="glightbox-desc lightbox-desc-16">How damn cool is this?!</span>
+<span class="glightbox-desc lightbox-desc-17">Carlsberg once used horses for transporting their beer around the city. I think it’s great that they have kept the stables going as a nod to the important work these horses did. ‘photo from Matilda’</span>
+<span class="glightbox-desc lightbox-desc-18">Your ticket of course includes a beer at the end. ‘photo from Matilda’</span>
+<span class="glightbox-desc lightbox-desc-19">Matilda, Elizabeth and Gary outside the old brewery.</span>
+<span class="glightbox-desc lightbox-desc-20">Laekkert! ‘photo from Matilda’</span>
+<span class="glightbox-desc lightbox-desc-21">35mm, ISO 100, f / 1.8, 1/1600 sec<br>
+© 2024. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></span>
+</div>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="monthly" data-listing-date-sort="1715205600000" data-listing-file-modified-sort="1715251240264" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<div class="thumbnail">
-<p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external">
-<p><img src="./posts/24_apr_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">The Raph Round-up: April 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('monthly'); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">Spring has sprung! It’s a relief to finally see more colours in Copenhagen – I hope you enjoy this update :-)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-May 9, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="monthly" data-listing-date-sort="1713045600000" data-listing-file-modified-sort="1713536936819" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1267">
-<div class="thumbnail">
-<p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external">
-<p><img src="./posts/24_mar_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">The Raph Round-up: March 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('monthly'); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">Hey everyone, bit more of a photo heavy round-up this month, hope you enjoy!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Apr 14, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="monthly" data-listing-date-sort="1709852400000" data-listing-file-modified-sort="1713536770444" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1946">
-<div class="thumbnail">
-<p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external">
-<p><img src="./posts/24_feb_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">The Raph Round-up: February 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('monthly'); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">Welcome to another monthly round-up! You may have noticed that we have a new URL – I ended up buying a domain name and email server, so there’s now an option to sign up to a…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Mar 8, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="monthly" data-listing-date-sort="1707174000000" data-listing-file-modified-sort="1713537038409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1387">
-<div class="thumbnail">
-<p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external">
-<p><img src="./posts/24_jan_raph_roundup/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">The Raph Round-up: January 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('monthly'); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">A resolution I made this year is to write a short summary of each month, for posterity, and for sharing with friends and family. You may be thinking, huh, why? Well, I have…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Feb 6, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1707735");</style>
     <style type="text/css">
     /* LOADER */
@@ -1636,6 +1740,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","descPosition":"bottom","selector":".lightbox","loop":false,"closeEffect":"zoom"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 
