@@ -1,9 +1,9 @@
 ---
 title: "The Raph Round-up: July 2024"
 author: "Raphael Eisenhofer"
-date: "2024-25-09"
+date: "2024-09-25"
 categories: [monthly]
-image: "fotm_thumbnail.jpg"
+image: "photos/fotm_thumbnail.jpg"
 lightbox: true
 ---
 
