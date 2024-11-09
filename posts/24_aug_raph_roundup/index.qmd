@@ -1,19 +1,20 @@
 ---
 title: "The Raph Round-up: August 2024"
 author: "Raphael Eisenhofer"
-date: "2024-09-29"
+date: "2024-03-11"
 categories: [monthly]
 image: "photos/fotm_thumbnail.jpg"
 lightbox: true
 ---
 
-### Notes from the neighbourhood 
+Hi all, this month I'm sharing a few shots from our neighbourhood, a trip to a cool art exhibition, and my first ever Danish bikepacking adventure!
+
+### Notes from the neighbourhood
 
 Here are a few August shots from our neighbourhood:
 
 ::: {layout-ncol="1"}
-
-![I think this is a Harefoot mushroom (*Coprinopsis lagopus*). According to Wikipedia, these mushrooms have a very short life, lasting a few hours before dissolving, so I was pretty stoked to see one in such good condition!\
+![I think this is a harefoot mushroom (*Coprinopsis lagopus*). According to Wikipedia, these mushrooms have a very short life, lasting a few hours before dissolving, so I was pretty stoked to see one in such good condition!\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cb0.jpg){group="cph"}
 
 ![Some cool street art.\
@@ -25,171 +26,197 @@ Here are a few August shots from our neighbourhood:
 
 ### A trip to Arken
 
+ARKEN is a contemporary art museum located in Ishøj, roughly 16 km from where we live in Carlsberg. We decided to cycle there to check out an exhibition, *Descension* by Anish Kapoor. I really loved it -- sculptures that played with light and sound in interesting ways, often deceiving the senses.
 
+I was a bit shocked to find out that Anish made an [exclusive deal](https://www.smithsonianmag.com/smart-news/one-artist-has-monopoly-worlds-blackest-black-pigment-180958264/) with Surrey Nanosystems, a company that manufactures "vantablack" -- a super dark pigment that absorbs \~99.96% of light. (**Interestingly, this pigment is actually made of SUPER SMALL carbon nanotubes, which when structured appropriately, act to absorb most of the light, and hence be VERY black.**). Funnily enough, this led Anish to be the [only person banned](https://www.smithsonianmag.com/smart-news/artist-only-person-banned-using-worlds-pinkest-pink-180961464/) from using "Pink", supposedly the pinkest pigment available:
+
+> By adding this product to your cart you confirm that you are not Anish Kapoor, you are in no way affiliated to Anish Kapoor, you are not purchasing this item on behalf of Anish Kapoor or an associate of Anish Kapoor. To the best of your knowledge, information and belief this paint will not make its way into the hands of Anish Kapoor.
+
+Humorous as this may be, learning about the exclusive deal with "vantablack" has tarnished my opinion of Anish, though I can still appreciate his art:
 
 ::: {layout-ncol="3"}
-
-![--\
+![Tilwarp\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a0.jpg){group="art"}
 
-![--\
+![Untitled\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a1.jpg){group="art"}
 
-![--\
+![Really amazing polished steel mirror -- I could spend hours playing with it\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a2.jpg){group="art"}
 
-![--\
+![Tilwarp 2\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a3.jpg){group="art"}
 
-![--\
+![A ball pit with dynamic lighting, what's not to like?\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a4.jpg){group="art"}
 
-![--\
+![RedTil\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a5.jpg){group="art"}
 
-![--\
+![BlueTil\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a6.jpg){group="art"}
 
-![--\
+![Contrast\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a7.jpg){group="art"}
 
-![--\
+![Likely a use of "vantablack"\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a8.jpg){group="art"}
 
-![--\
+![Likely a use of "vantablack"\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a9.jpg){group="art"}
 
-![--\
+![Outside ARKEN\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a10.jpg){group="art"}
 
-![--\
+![Outside ARKEN\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/a11.jpg){group="art"}
-
 :::
 
-### My first Danish bike packing trip (day 1)
+### My first Danish bikepacking trip (day 1)
 
+Denmark is home to 11 national cycle routes that criss-cross the country.
 
+![The 11 national cycle routes in Denmark](photos/ruter.png)
+
+Being a two-wheel enjoyer, I floated the notion of doing a small section of one of these routes to my companion. I was delighted when she gave the affirmative, and so the planning began for a three-section (two-night) journey in southern Sjælland, plus the islands of Falster and Møn. Our first bikepacking trip would be more on the 'glamping' end of things, opting for overnight stays at bed & breakfasts over camping, as first impressions are important! The plan: \~180 km over three days (70, 70, 40).
+
+![The route, Gedser-Helsingor, national route #9 source: https://ruter.dk/route/gedser-helsingoer](photos/route.png)
+
+Day 1 saw us take a 9 AM train trip from Copenhagen central station to Nykøbing-Falster (about 1:20 hours south of the capital). Armed with snacks and a positive attitude (despite the shower that was not forecast by meteorologists ... ), we put rubber to road for the first leg of our journey.
 
 ::: {layout-ncol="3"}
-
-![--\
+![Early morning train ride from Copenhagen central to Nykøbing-Falster (\~1:30 hours). Note the 18 L saddle bag!\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_1.jpg){group="day1"}
 
+![In Nykøbing-Falster, of course we started the journey with a bit of rain ...\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_2.jpg){group="day1"}
 
+![One of the many churches seen on the trip.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_3.jpg){group="day1"}
 
+![Beach around Ulslev, very peaceful and calm.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_4.jpg){group="day1"}
 
+![Another beach shot.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_5.jpg){group="day1"}
 
+![A large part of this section was cycling in a gorgeous forest right next to the beach. Definitely a highlight of the day!\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_6.jpg){group="day1"}
 
+![Sunflower field by a forest.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_7.jpg){group="day1"}
 
+![Old-school roof thatching, with moss!\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_8.jpg){group="day1"}
 
+![This segment includes a short ferry ride from the island of Falster to the island of Bogø (population \~1,000).\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_9.jpg){group="day1"}
 
+!["Welcome to Bogø, the light green island."\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_10.jpg){group="day1"}
 
+![Bogø is then connected to the island of Møn by a causeway.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_11.jpg){group="day1"}
 
+![Cycling :)\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_12.jpg){group="day1"}
 
+![Short stop at a cute glass maker's studio.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_13.jpg){group="day1"}
 
+![Arrival at Stege, the main town on the isle of Møn.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day1_14.jpg){group="day1"}
-
 :::
 
-### My first Danish bike packing trip (day 2)
+As you can see from the photos, this first leg saw us cross over to three different islands: Falster -\> Bogø -\> Møn. While this may sound impressive, we've got a long way to go should we wish to set foot on all of Denmark's \~1,400 islands (\~409 of which are named). About 90% of the track was sealed (mostly quiet country roads), with the rest being lovely gravel tracks through forests on the west coast of Falster. With 70 km done and dusted, we arrived at Stege, the main town of the isle of Møn. A well-earned beer and dinner enjoyed, we hit the hay at a bed and breakfast.
 
-Nyon is a lakeside town about 15 minutes' train ride from Geneva. With beautiful mountain views and access to the lovely Lake Geneva, I can certainly see the appeal of living here. My dad is originally from Geneva, and we had the pleasure of staying with some of his good friends. Great company, wine, food, and weather – an excellent way to end the summer holidays!
+### My first Danish bikepacking trip (day 2)
+
+I awoke to a beautiful sunrise, heralding favourable weather for the next 70-km leg that would take us back onto the island of Sjælland to Rødvig. Breakfast consumed, we were on our way out of Stege, and over the sizable Dronning Alexandrines bridge that connects Møn to Sjælland. Rolling Danish countryside greeted us as we made our way to the town of Præstø. It turns out that there was a vintage bicycle festival happening in the town on the day (perhaps a good omen?). We stopped for some lunch at a local (and delicious) bakery (Præstø Bagværk). Here we devoured a classic surdejsbolle med ost (sourdough bun with cheese) and slice of kage (cake). This fueled us for the next leg on to the coastal town of Rødvig.
 
 ::: {layout-ncol="3"}
+![Sunrise reflecting on the wall.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_0.jpg){group="day2"}
 
-![--\
+![Sunrise heralding a fine-looking day.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_1.jpg){group="day2"}
 
-![--\
+![On the road.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_2.jpg){group="day2"}
 
-![--\
+![View from Dronning Alexandrines Bro (Queen Alexandrines Bridge). \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_3.jpg){group="day2"}
 
-![--\
-© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_4.jpg){group="day2"}
-
-![--\
+![Another shot from the bridge.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_5.jpg){group="day2"}
 
-![--\
+![A cute farmhouse.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_6.jpg){group="day2"}
 
-![--\
+![Waves of fields.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_7.jpg){group="day2"}
 
-![--\
+![Just a friendly goat.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_8.jpg){group="day2"}
 
-![--\
+![Farmhouse by a forest.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_9.jpg){group="day2"}
 
-![--\
+![Following National Cycleway #9. \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_10.jpg){group="day2"}
 
-![--\
+![The road to Rødvig. \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_11.jpg){group="day2"}
 
-![--\
+![Late summer Danish field. \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_12.jpg){group="day2"}
 
-![--\
+![Late summer Danish field. \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_13.jpg){group="day2"}
 
-![--\
+![Matilda walking out to Sweden (can be seen on the horizon). \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_14.jpg){group="day2"}
 
-![--\
+![Getting them feet in the water.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day2_15.jpg){group="day2"}
-
 :::
 
-### My first Danish bike packing trip (day 3)
+While my companion was a bit unimpressed by the scenery ("boring farmland"), I felt that there was still some beauty to be seen with the late summer colours and quiet country roads. Arriving at Rødvig, we went down to ocean to relax and refresh the feet.
 
+### My first Danish bikepacking trip (day 3)
 
+The final, homewards section of the trip saw us cycling near the white chalk cliffs of [Stevns Klint](https://en.wikipedia.org/wiki/Stevns_Klint), a geological destination and UNESCO World Heritage site. The shift from rural to increasingly urbanised was evident in the last 20 km of journey as we made our way towards Køge. At Køge, we caught the train back to Copenhagen, as we had previously done this 40-km section (spoiler: it's boring).
 
 ::: {layout-ncol="3"}
-
-![--\
+![Højerup Gamle Kirke (Højerup old church, circa 1250) sitting right on the cliffs. In 1928 part of it fell into the sea!\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_0.jpg){group="day3"}
 
-![--\
+![A church with a view.\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_1.jpg){group="day3"}
 
-![--\
+![:o\
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_2.jpg){group="day3"}
 
-![--\
+![View from the church of Stevns Klint (cliffs). \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_3.jpg){group="day3"}
 
-![--\
-© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_4.jpg){group="day3"}
-
-![--\
+![A VERY steep staircase down to the beach. \
 © 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/day3_5.jpg){group="day3"}
-
 :::
 
+With the peaceful countryside behind us, so ended our first Danish bikepacking journey! I personally had a blast, and will definitely be checking out some more of the national bike routes in the future. While Matilda may just stick to day rides in the future, I'm super proud of her for taking a risk and trying something like this.
+
+In last month's round-up, I alluded to a comparison between cycling in the Netherlands vs. Denmark. While I'm not adequately qualified to weigh in much here (having only sampled a little bit in either country), I'll say that the Netherlands had far more bike-only paths (even in the middle of nowhere!) compared to Denmark, which relied a lot on quiet roads. I personally don't mind sharing the road with cars, especially as these were low-speed roads, and Danish drivers are very courteous and cognisant of cyclists.
+
 ### Photo of the month
-
-
+View down onto the beach at Stevns klint.
 
 ![© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
 
 ### Interesting things I've read/watched
 
-A short history of why [grass lawns are popular](https://www.youtube.com/watch?v=bR5kIPwg6_Q). Also touches on why they are not the best from an environmental point of view (e.g. water use). More natural approaches can be better for wildlife (e.g. offering shelter, pollination options.).
+From Plato to Jazz, a history of musical borrowing (and copyright) done through a comic! Produced by a couple of law professors, I thoroughly enjoyed this superbly researched and illustrated journey. Amazing to think that forms of music such as jazz and soul wouldn't be around if present day music copyright was around at the time. [Here's a trailer](https://www.youtube.com/watch?v=y-8X4G5s6Rw), and [it's free to download and read here](https://web.law.duke.edu/musiccomic/). [Here's also a 30 minute lecture by the authors if you're interested](https://www.youtube.com/watch?v=YgTKIlngwNM).
 
+[A fantastic article](https://thespinoff.co.nz/science/16-08-2024/its-time-to-put-the-taking-sides-gm-debates-of-the-90s-behind-us) by Michael Bunce about GMOs (genetically modified organisms) in NZ.
+
+[Great vid](https://www.youtube.com/watch?v=XusyNT_k-1c) about issues relating to water use in the USA.
