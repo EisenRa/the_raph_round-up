@@ -1,0 +1,126 @@
+---
+title: "The Raph Round-up: September 2024"
+author: "Raphael Eisenhofer"
+date: "2024-11-17"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+Hi all, this will be a shorter round-up this month, as we were in Australia / New Zealand for October, and I've got \~600 photos to trim down and edit ...
+
+### Around Carlsberg
+
+Here are some September shots from the rooftop of our apartment.
+
+::: {layout-ncol="2"}
+![It seems rooftops on modern builds are increasingly including planted areas. Here are some hardy plants on our rooftop – at the peak of Spring and Summer the plot is swarming with bees. I'm guessing this is a feature to help support bees. It's cool to think even in such an urbanised environment we can make decisions that promote wildlife.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cb1.jpg){group="cph"}
+
+![Another shot looking out from the rooftop. The older looking white building to the right is the old mineral water factory built circa 1920 ([Mineralvandsfabrikken](https://www.carlsbergbyen.dk/om-carlsberg-byen/historie/historiske-bygninger/mineralvandsfabrikken)). Apparently, Carlsberg founder J.C. Jacobsen was the first to bottle/sell soda water in Scandinavia. Interestingly, soda water in Denmark is called Danskvand (Danish water). It's thought this naming was used to distinguish it from Swedish soda water, which was often coloured red [(source](https://www.dr.dk/nyheder/kultur/hvorfor-hedder-det-danskvand)).\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/cb2.jpg){group="cph"}
+:::
+
+### Bike ride from Roskilde to Frederikssund
+
+One warm weekend in September we decided to cycle from Roskilde to Frederikssund, a nice ride that takes you along the Roskilde fjord. Definitely shorter than our recent bike packing trip. This was followed up with an ocean swim at a great public bathing facility.
+
+::: {layout-ncol="2"}
+![Along the fjord.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride1.jpg){group="ride"}
+
+![Cycle path to Frederikssund\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride2.jpg){group="ride"}
+
+![Hi\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride3.jpg){group="ride"}
+
+![The inner pool is connected to the sea outside.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride4.jpg){group="ride"}
+
+![Untitled\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride5.jpg){group="ride"}
+:::
+
+### A hike for a summer work event
+
+For work this summer we had a social outing to Godis Grønt, a regenerative farm that provides produce to the local town, and also offers events for teams/groups. It's a great way for city slickers to get out into the country and realise that vegetables actually grow in the ground. We were all split up into smaller groups, each tasked with a certain dish to design and cook for the group dinner. It was a lot of fun, and the veges and herbs grown there were amazing (especially the cherry tomatoes!). To get to Godis Grønt, we took a pleasant \~12 km walk through some Danish countryside (including a nice forest).
+
+::: {layout-ncol="2"}
+![Forest shrooms\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk1.jpg){group="hike"}
+
+![Fancy.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk2.jpg){group="hike"}
+
+![Welcome to Godis Grønt\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk3.jpg){group="hike"}
+
+![Late summer colour\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk4.jpg){group="hike"}
+
+![Late summer colour\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk5.jpg){group="hike"}
+
+![Late summer colour\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk6.jpg){group="hike"}
+
+![Nearing sunset\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk7.jpg){group="hike"}
+
+![The Godis Grønt greenhouse.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/walk8.jpg){group="hike"}
+:::
+
+### New gadgets :eyes:
+
+Wanting to delve more into landscape photography, I invested in a good tripod. I also picked up a stabilised video recorder, so you can expect some future video content! There's a lot I still need to learn about videography, but it's exciting to learn a new skill.
+
+::: {layout-ncol="2"}
+![Peak Designs aluminium tripod.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gadget1.jpg){group="toys"}
+
+![Osmo pocket 3 stabilised video camera. Expect some future video content O.o\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gadget2.jpg){group="toys"}
+:::
+
+Here are a couple of timelapses (\~10-20 minutes footage compressed into 13 seconds) from the Godis Grønt event:
+
+{{< video https://vimeo.com/1030352386/7c50086472?share=copy >}}
+
+{{< video https://vimeo.com/1030352660/042f2b2254?share=copy >}}
+
+Importantly, I can now also take slow motion footage of shaking dogs...
+
+{{< video https://vimeo.com/1030273818/dcf7b8da20?share=copy >}}
+
+### Teaser for October
+
+We landed in Adelaide in late September, so next month's round-up will include *many* wildlife and landscape shots!
+
+![Little Wattlebird (*Anthochaera chrysoptera*) in Adelaide, Australia. Nice to be reunited with my 150-600mm BAZOOKA wildlife lens :smile:\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/aus1.jpg)
+
+### Photo of the month
+
+On the hike to Godis Grønt we passed a beautiful forest (Bidstrup Skovene) and lake (Avnsø). Part of the reason for buying a new tripod was to get more into landscape photography, so this was the first landscape shot with the new setup. What you see is a 10 second exposure, only possible due to the use of a ND (neutral density) filter. These filters go in front of the lens, and the idea is to block light from hitting the camera sensor in an even fashion (i.e. no colour bias). This allows one to open the camera shutter for a longer period of time and capture a scene with the added element of time.
+
+There are many creative reasons as to why one would wish to do so. For this shot, I wanted to smooth out the water to simplify the shot, as moving water can be quite busy and distracting. I also wanted to portray the movement of the wind on the branches and leaves of the tree, as I think it adds a nice contrast to the otherwise sharp foreground. The last little detail I love of the shot is the opening in the branches just left of centre of the shot, where one can look out over the lake to the other side. (I didn't actually intend this in the composition, but it's a happy accident).
+
+11mm, f / 8.0, 10 sec, ISO 100, ND1000 filter
+
+![© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Ambient field recording in remote Australia. Natural soundscapes are beautiful, and I'm glad that people are out there recording them.
+
+{{< video https://youtu.be/5ZCeYh3GF4w?si=g86wFetzOzefOaJK >}}
+
+Tax Justice Network released a [working paper](https://taxjustice.net/wp-content/uploads/2024/08/Taxing-extreme-wealth-What-countries-around-the-world-could-gain-from-progressive-wealth-taxes-Tax-Justice-Network-working-paper-Aug-2024.pdf) showing what could be done if the top 0.5% wealthiest were taxed at a minor rate of 1.7-3.5% ([press release](https://taxjustice.net/press/countries-can-raise-2-trillion-by-copying-spains-wealth-tax-study-finds/)).
+
+> We estimate that a tax between 1.7 percent and 3.5 percent on the top 0.5 percent wealthiest would result in revenues of an average of 7.3 per cent of current tax revenues of federal or central governments, adding up to more than US\$2.2 trillion
+
+Spain apparently already does this, so it's not exactly reinventing the wheel. Something definitely needs to be done, considering that:
+
+> On average, just 3% of each country’s wealth is owned by half its population, while its richest 0.5% own a quarter
