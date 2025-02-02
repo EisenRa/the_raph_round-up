@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_sept_raph_roundup/index.html</loc>
-    <lastmod>2024-11-16T19:59:49.738Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/25_jan_raph_roundup/index.html</loc>
+    <lastmod>2025-02-02T13:25:19.228Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_nov_raph_roundup/index.html</loc>
-    <lastmod>2024-12-24T10:04:42.028Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_oct_raph_roundup/index.html</loc>
+    <lastmod>2024-12-02T20:44:36.022Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_mar_raph_roundup/index.html</loc>
-    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_may_raph_roundup/index.html</loc>
+    <lastmod>2024-09-23T23:27:21.000Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_july_raph_roundup/index.html</loc>
-    <lastmod>2024-09-25T09:33:55.000Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_june_raph_roundup/index.html</loc>
+    <lastmod>2024-11-03T15:15:43.860Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/index.html</loc>
-    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_aug_raph_roundup/index.html</loc>
-    <lastmod>2024-11-09T16:47:32.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/index.html</loc>
-    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/about.html</loc>
-    <lastmod>2024-09-23T23:27:18.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_apr_raph_roundup/index.html</loc>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_jan_raph_roundup/index.html</loc>
     <lastmod>2024-09-23T23:27:20.000Z</lastmod>
   </url>
   <url>
@@ -41,19 +25,39 @@
     <lastmod>2025-01-01T13:08:11.001Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_jan_raph_roundup/index.html</loc>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_apr_raph_roundup/index.html</loc>
     <lastmod>2024-09-23T23:27:20.000Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_june_raph_roundup/index.html</loc>
-    <lastmod>2024-11-03T15:15:43.860Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/about.html</loc>
+    <lastmod>2024-09-23T23:27:18.000Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_may_raph_roundup/index.html</loc>
-    <lastmod>2024-09-23T23:27:21.000Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/index.html</loc>
+    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
   </url>
   <url>
-    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_oct_raph_roundup/index.html</loc>
-    <lastmod>2024-12-02T20:44:36.022Z</lastmod>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_aug_raph_roundup/index.html</loc>
+    <lastmod>2024-11-09T16:47:32.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_feb_raph_roundup/index.html</loc>
+    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_july_raph_roundup/index.html</loc>
+    <lastmod>2024-09-25T09:33:55.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_mar_raph_roundup/index.html</loc>
+    <lastmod>2024-09-23T23:27:20.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_nov_raph_roundup/index.html</loc>
+    <lastmod>2024-12-24T10:04:42.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eisenra.github.io/the_raph_round-up/posts/24_sept_raph_roundup/index.html</loc>
+    <lastmod>2024-11-16T19:59:49.738Z</lastmod>
   </url>
 </urlset>
