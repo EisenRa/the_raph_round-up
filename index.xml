@@ -10,7 +10,369 @@
 <atom:link href="https://eisenra.github.io/the_raph_round-up/index.xml" rel="self" type="application/rss+xml"/>
 <description>My personal blog</description>
 <generator>quarto-1.6.36</generator>
-<lastBuildDate>Wed, 01 Jan 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Raph Round-up: February 2025</title>
+  <dc:creator>Raphael Eisenhofer</dc:creator>
+  <link>https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>February is already gone! After three months of darkness, the days are rapidly getting lighter (4 hours lighter than since 21 December, and ~5 minutes of extra light per day at this point). This edition of the round-up includes some winter shots from a lovely sunny and snowy week in February, a trip to Malmö (Sweden), and my first foray into night photography.</p>
+<p>Before that, December and January felt warmer than last winter, so curious as to whether I was just imagining things, I fetched some temperature data from the DMI (Danish Meteorological Institute) to test this. You can find the code to reproduce the figures <a href="https://github.com/EisenRa/the_raph_round-up/tree/master/posts/25_feb_raph_roundup/extras/">here</a>, and here are the two plots that I made:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="extras/fig2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="December. Dotted lines indicate mean across whole month"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/extras/fig2.png" class="img-fluid figure-img" alt="December. Dotted lines indicate mean across whole month"></a></p>
+<figcaption>December. Dotted lines indicate mean across whole month</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="extras/fig1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="January. Dotted lines indicate mean across whole month"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/extras/fig1.png" class="img-fluid figure-img" alt="January. Dotted lines indicate mean across whole month"></a></p>
+<figcaption>January. Dotted lines indicate mean across whole month</figcaption>
+</figure>
+</div>
+<p>From the dotted lines (mean across whole month), we can see that the average daily maximum temperatures were ~2-2.5 °C warmer this year compared to last.</p>
+<section id="the-last-touch-of-winter-for-the-year" class="level3">
+<h3 class="anchored" data-anchor-id="the-last-touch-of-winter-for-the-year">The last touch of winter for the year?</h3>
+<p>We had a beautiful cold, snowy, and sunny week early in Feb, which made for some great conditions for getting outside with the camera. The flowers must have also been a bit confused, as after slowly creeping up, they were bucketed with snow:</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/spring0.jpg" class="lightbox" data-gallery="spring" title="The winter sun was just breaking through the trees here onto a pioneering flower © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/spring0.jpg" class="img-fluid figure-img" alt="The winter sun was just breaking through the trees here onto a pioneering flower © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>The winter sun was just breaking through the trees here onto a pioneering flower<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/spring1.jpg" class="lightbox" data-gallery="spring" title="I rotated this image to make the flower look like a mouth and tongue :-P © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/spring1.jpg" class="img-fluid figure-img" alt="I rotated this image to make the flower look like a mouth and tongue :-P © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>I rotated this image to make the flower look like a mouth and tongue :-P<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/spring2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Even my house monstera is feeling spruce © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/spring2.jpg" class="img-fluid figure-img" alt="Even my house monstera is feeling spruce © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Even my house monstera is feeling spruce<br>
+© 2025. This work is openly licensed via CC BY-NC 4.0</figcaption>
+</figure>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow1.jpg" class="lightbox" data-gallery="snow" title="Frozen lake in the nearby park. I love the light and shadows in this one. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow1.jpg" class="img-fluid figure-img" alt="Frozen lake in the nearby park. I love the light and shadows in this one. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Frozen lake in the nearby park. I love the light and shadows in this one.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow2.jpg" class="lightbox" data-gallery="snow" title="Snow melting off the trees. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow2.jpg" class="img-fluid figure-img" alt="Snow melting off the trees. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Snow melting off the trees.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow3.jpg" class="lightbox" data-gallery="snow" title="Light installation in a nearby park for the Copenhagen light festival. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow3.jpg" class="img-fluid figure-img" alt="Light installation in a nearby park for the Copenhagen light festival. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Light installation in a nearby park for the Copenhagen light festival.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow4.jpg" class="lightbox" data-gallery="snow" title="Animal tracks on a frozen lake. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow4.jpg" class="img-fluid figure-img" alt="Animal tracks on a frozen lake. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Animal tracks on a frozen lake.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow5.jpg" class="lightbox" data-gallery="snow" title="The lakes in central Copenhagen. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow5.jpg" class="img-fluid figure-img" alt="The lakes in central Copenhagen. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>The lakes in central Copenhagen.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow6.jpg" class="lightbox" data-gallery="snow" title="I like the texture/patterns here © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow6.jpg" class="img-fluid figure-img" alt="I like the texture/patterns here © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>I like the texture/patterns here<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/snow7.jpg" class="lightbox" data-gallery="snow" title="On the other end of the Copenhagen lakes. Again, the sun being low in the sky yields nice long shadows. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/snow7.jpg" class="img-fluid figure-img" alt="On the other end of the Copenhagen lakes. Again, the sun being low in the sky yields nice long shadows. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>On the other end of the Copenhagen lakes. Again, the sun being low in the sky yields nice long shadows.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="malmö" class="level3">
+<h3 class="anchored" data-anchor-id="malmö">Malmö</h3>
+<p>One weekend, we popped over the Øresund strait via train to Malmö (Sweden) to get a different scandinavian experience. A brunch catch up with a friend in a cosy cafe, Til’s mandatory visit to Lush (there is no Lush in Denmark), a visit to the Form/Design centre, and dinner at a really nice restaurant - [Rau](<a href="https://www.raumalmo.se/" class="uri">https://www.raumalmo.se/</a>). Sometimes it’s hard to force yourself out of your warm apartment in the winter, but it’s usually always worth it.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo1.jpg" class="lightbox" data-gallery="malmo" title="Malmö triagelen station entrance/exit © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo1.jpg" class="img-fluid figure-img" alt="Malmö triagelen station entrance/exit © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Malmö triagelen station entrance/exit<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo3.jpg" class="lightbox" data-gallery="malmo" title="On a cold winter day, it’s nice seeing evidence (fruit) of the previous summer. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo3.jpg" class="img-fluid figure-img" alt="On a cold winter day, it’s nice seeing evidence (fruit) of the previous summer. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>On a cold winter day, it’s nice seeing evidence (fruit) of the previous summer.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo2.jpg" class="lightbox" data-gallery="malmo" title="The form/design centre, note the old-school architecture of the left building. According to their website: “It is regarded as being the country’s (Sweden’s) best-preserved half-timbered building from the end of the 16th century.” © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo2.jpg" class="img-fluid figure-img" alt="The form/design centre, note the old-school architecture of the left building. According to their website: “It is regarded as being the country’s (Sweden’s) best-preserved half-timbered building from the end of the 16th century.” © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>The form/design centre, note the old-school architecture of the left building. <a href="https://formdesigncenter.com/en/history">According to their website</a>: “It is regarded as being the country’s (Sweden’s) best-preserved half-timbered building from the end of the 16th century.”<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo4.jpg" class="lightbox" data-gallery="malmo" title="The exhibition (book art from Lithuania) © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo4.jpg" class="img-fluid figure-img" alt="The exhibition (book art from Lithuania) © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>The exhibition (book art from Lithuania) © 2025. This work is openly licensed via CC BY-NC 4.0</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo5.jpg" class="lightbox" data-gallery="malmo" title="Cold outside © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo5.jpg" class="img-fluid figure-img" alt="Cold outside © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Cold outside<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo6.jpg" class="lightbox" data-gallery="malmo" title="Found a cool shadow © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo6.jpg" class="img-fluid figure-img" alt="Found a cool shadow © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Found a cool shadow<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/malmo7.jpg" class="lightbox" data-gallery="malmo" title="Sculpture © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/malmo7.jpg" class="img-fluid figure-img" alt="Sculpture © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Sculpture<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="misty-night---cool-light" class="level3">
+<h3 class="anchored" data-anchor-id="misty-night---cool-light">Misty night -&gt; cool light</h3>
+<p>I’ve been meaning to get out and do some night photography, but winter’s touch has deterred me from leaving my apartment in the evenings. One night, when getting back home, I noticed the heavy mist in the neighbourhood. The conditions were too good to not go out, and I ended up spending 90 minutes out with the camera (without gloves..).</p>
+<p>Photography is all about light, of which there is not much of in the night. This means that you’ll typically have to rely on a tripod to compensate for the longer exposures that you’re taking. What I like about night photography is the deep contrast that you get from it. Add mist to that, and you get some really moody vibes. Anyway, these were my favourite from the night, and I hope you enjoy.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night0.jpg" class="lightbox" data-gallery="night" title="Light meets mist © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night0.jpg" class="img-fluid figure-img" alt="Light meets mist © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Light meets mist<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night1.jpg" class="lightbox" data-gallery="night" title="Long exposure for car/bike light trails. The mist obscures a tower in the background. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night1.jpg" class="img-fluid figure-img" alt="Long exposure for car/bike light trails. The mist obscures a tower in the background. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Long exposure for car/bike light trails. The mist obscures a tower in the background.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night2.jpg" class="lightbox" data-gallery="night" title="Moody. © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night2.jpg" class="img-fluid figure-img" alt="Moody. © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Moody.<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night3.jpg" class="lightbox" data-gallery="night" title="Brick road © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night3.jpg" class="img-fluid figure-img" alt="Brick road © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Brick road<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night4.jpg" class="lightbox" data-gallery="night" title="Light meets mist © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night4.jpg" class="img-fluid figure-img" alt="Light meets mist © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Light meets mist<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night5.jpg" class="lightbox" data-gallery="night" title="Untitled © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night5.jpg" class="img-fluid figure-img" alt="Untitled © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Untitled<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="4">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night6.jpg" class="lightbox" data-gallery="night" title="Long exposure © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night6.jpg" class="img-fluid figure-img" alt="Long exposure © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Long exposure<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night7.jpg" class="lightbox" data-gallery="night" title="Untitled © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night7.jpg" class="img-fluid figure-img" alt="Untitled © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Untitled<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night8.jpg" class="lightbox" data-gallery="night" title="Shadows © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night8.jpg" class="img-fluid figure-img" alt="Shadows © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Shadows<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/night9.jpg" class="lightbox" data-gallery="night" title="Moody © 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/night9.jpg" class="img-fluid figure-img" alt="Moody © 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>Moody<br>
+© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="photo-of-the-month" class="level3">
+<h3 class="anchored" data-anchor-id="photo-of-the-month">Photo of the month</h3>
+<p>My favourite image of the month ended up being more of an abstract one. This was taken from my balcony with a 100 mm lens when it was snowing heavily. In terms of processing, I’ve made it a black and white for simplicity, and cropped it (also for simplicity and composition). The snow gives it a surreal feel, almost like its a drawing or painting (and adds almost a film grain-like texture).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="photos/fotm.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-30" title="© 2025. This work is openly licensed via CC BY-NC 4.0"><img src="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/fotm.jpg" class="img-fluid figure-img" alt="© 2025. This work is openly licensed via CC BY-NC 4.0"></a></p>
+<figcaption>© 2025. This work is openly licensed via <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></figcaption>
+</figure>
+</div>
+</section>
+<section id="interesting-things-ive-readwatched" class="level3">
+<h3 class="anchored" data-anchor-id="interesting-things-ive-readwatched">Interesting things I’ve read/watched</h3>
+<p><a href="https://www.nzgeo.com/stories/the-great-recycling-delusion/?t=28710_cdbba52735a43e87d8c8e868af7b9a26&amp;utm_source=newsletter&amp;utm_medium=email&amp;utm_term=https%3A%2F%2Fwww.nzgeo.com%2Fstories%2Fthe-great-recycling-delusion%2F%3Ft%3D28710_cdbba52735a43e87d8c8e868af7b9a26&amp;utm_content&amp;utm_campaign=The%20Weekender%20January%2031%202025">Great article</a> by NZGeo about recycling. A delusion? A distraction from more pressing issues? An important thing for our society? I particularly like the figure showing data from 1,000 survey participants on the top 3 actions they could personally make to help mitigate the climate crisis vs.&nbsp;the actual importance of those actions. Recycling was the 2nd most picked action that participants chose, when in reality, it ranked 59th on importance. This isn’t to say that recycling isn’t important (I’ll still be doing it), but that it pales in comparison to other actions you can make in your life.</p>
+<p>Some argue that plastic recycling, however, is a complete fraud. There’s strong evidence that Big Oil and the plastic industry has been deceiving the public for decades about how recyclable plastic is. Ever notice how similar the resin identification codes on plastic products looks remarkably like a recycling symbol? The short of it is, it’s either a) not possible or b) not viable to recycle plastics. As far as I know, only one or two difference resin types can actually be recycled, and these can only be recycled less than a handful of times (this also creates microplastics, which may also not be good). The <a href="https://climateintegrity.org/uploads/media/Fraud-of-Plastic-Recycling-2024.pdf">full report is here</a> if you’re interested.</p>
+<p><a href="https://www.google.com/url?q=https://www.nzgeo.com/stories/minerals-in-the-deep/?t%3D28710_cdbba52735a43e87d8c8e868af7b9a26%26utm_source%3Dnewsletter%26utm_medium%3Demail%26utm_term%3Dhttps%253A%252F%252Fwww.nzgeo.com%252Fstories%252Fminerals-in-the-deep%252F%253Ft%253D28710_cdbba52735a43e87d8c8e868af7b9a26%26utm_content%26utm_campaign%3DThe%2520Weekender%2520February%252014%25202025&amp;sa=D&amp;source=editors&amp;ust=1740934721403000&amp;usg=AOvVaw1M168ydSuTvbx3SbbuRUdb">Some more great journalism</a> by NZGeo about deep sea mining in the Cook Islands.</p>
+<p><a href="https://www.abc.net.au/news/2025-02-06/outback-way-journey-remote-australia-back-roads-lisa-millar/104842474">Cool article</a> by ABC Australia about the Outback Way, thousands of kilometres of dirt road in the centre of Aus.</p>
+<p>We don’t often stop to consider the street design of our cities, and I was amazed at the process and advantages of using <a href="https://www.youtube.com/watch?v=Cq1kV6V_jvI&amp;t">‘klinkers’ (bricks)</a> over regular asphalt or concrete. There are also some really neat features of Dutch street design that you’ll learn about by watching.</p>
+<p>Another <a href="https://www.youtube.com/watch?v=wBC_bug5DIQ">great vid</a> by Climate Town.</p>
+<p>On the inevitability of the rich getting richer in our current society. <a href="https://pluralistic.net/2025/02/18/pikettys-productivity/">Article</a> by Cory Doctorow.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>monthly</category>
+  <guid>https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/</guid>
+  <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://eisenra.github.io/the_raph_round-up/posts/25_feb_raph_roundup/photos/fotm_thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The Raph Round-up: January 2025</title>
   <dc:creator>Raphael Eisenhofer</dc:creator>
@@ -385,7 +747,7 @@
  ]]></description>
   <category>monthly</category>
   <guid>https://eisenra.github.io/the_raph_round-up/posts/25_jan_raph_roundup/</guid>
-  <pubDate>Wed, 01 Jan 2025 23:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://eisenra.github.io/the_raph_round-up/posts/25_jan_raph_roundup/photos/fotm_thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>

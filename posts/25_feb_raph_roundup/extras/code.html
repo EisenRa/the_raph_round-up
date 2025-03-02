@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Raph Round-up – the_raph_roundup</title>
+<title>code – the_raph_roundup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +20,61 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-01c78b5cd655e4cd89133cf59d535862.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-474c6d7e63be50eb6972897072b39b27.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-818b32141788da5f3afc8302f6e847b9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-1851c9bb8f3f4849af8ba858f06152b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-01c78b5cd655e4cd89133cf59d535862.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-474c6d7e63be50eb6972897072b39b27.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-818b32141788da5f3afc8302f6e847b9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-1851c9bb8f3f4849af8ba858f06152b9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +102,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
+<link rel="stylesheet" href="../../../styles.css">
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="the_raph_roundup" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">the_raph_roundup</span>
     </a>
   </div>
@@ -151,7 +125,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -175,7 +149,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="../../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -188,508 +162,164 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">The Raph Round-up</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="bW9udGhseQ==">monthly <span class="quarto-category-count">(14)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
+<section id="copenhagen-winter" class="level1">
+<h1>Copenhagen Winter</h1>
+<p>Raphael Eisenhofer</p>
+<ul>
+<li><a href="#purpose">Purpose</a></li>
+<li><a href="#wrangle-data">Wrangle data</a>
+<ul>
+<li><a href="#plot-january-comparison">Plot January comparison</a></li>
+<li><a href="#plot-december-comparison">Plot December comparison</a></li>
+<li><a href="#plot-january-comparison-mean-temps">Plot January comparison (mean temps)</a></li>
+</ul></li>
+</ul>
+<section id="purpose" class="level2">
+<h2 class="anchored" data-anchor-id="purpose">Purpose</h2>
+<p>To test my qualitative assessment that winter has been warmer this year (24/25) compared to last (23/24).</p>
+<p>Daily temperature data sourced from the DMI (Danish Meteorological Institute), weather station: Landbohøjskolen (Copenhagen).</p>
+</section>
+<section id="wrangle-data" class="level2">
+<h2 class="anchored" data-anchor-id="wrangle-data">Wrangle data</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">rbind</span>(<span class="fu">read_delim</span>(<span class="st">"dec_23.csv"</span>), </span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>              <span class="fu">read_delim</span>(<span class="st">"dec_24.csv"</span>),</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>              <span class="fu">read_delim</span>(<span class="st">"jan_24.csv"</span>),</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>              <span class="fu">read_delim</span>(<span class="st">"jan_25.csv"</span>)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>              ) <span class="sc">%&gt;%</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">separate</span>(., </span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>           DateTime, </span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>           <span class="at">into =</span> <span class="fu">c</span>(<span class="st">"date"</span>, <span class="st">"time"</span>), </span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>           <span class="at">sep =</span> <span class="st">" "</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>           ) <span class="sc">%&gt;%</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">time =</span> <span class="fu">replace_na</span>(time, <span class="st">"00:00:00"</span>),</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>         <span class="at">time =</span> <span class="fu">str_replace</span>(time, <span class="st">":00:00"</span>, <span class="st">""</span>),</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>         <span class="at">year =</span> <span class="fu">str_replace</span>(date, <span class="st">"-.*"</span>, <span class="st">""</span>),</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>         <span class="at">month =</span> <span class="fu">case_when</span>(<span class="fu">str_detect</span>(date, <span class="st">"-01-"</span>) <span class="sc">~</span> <span class="st">"january"</span>,</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>                           <span class="fu">str_detect</span>(date, <span class="st">"-12-"</span>) <span class="sc">~</span> <span class="st">"december"</span>),</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>         <span class="at">day =</span> <span class="fu">as.numeric</span>(<span class="fu">str_replace</span>(date, <span class="st">"....-..-"</span>, <span class="st">""</span>))</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>         ) <span class="sc">%&gt;%</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(date) <span class="sc">%&gt;%</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">daily_max =</span> <span class="fu">max</span>(Maksimumtemperatur),</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>         <span class="at">daily_min =</span> <span class="fu">min</span>(Minimumtemperatur),</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>         <span class="at">daily_avg =</span> <span class="fu">mean</span>(Middeltemperatur)) <span class="sc">%&gt;%</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ungroup</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<section id="plot-january-comparison" class="level3">
+<h3 class="anchored" data-anchor-id="plot-january-comparison">Plot January comparison</h3>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> day, </span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">y =</span> daily_max, </span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> year, </span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">group =</span> year)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>         ) <span class="sc">+</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_colour_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(<span class="st">"2024"</span> <span class="ot">=</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>                                 <span class="st">"2025"</span> <span class="ot">=</span> <span class="st">"red"</span>)</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>                      ) <span class="sc">+</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2024"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_max)), </span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2025"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_max)), </span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"red"</span>,</span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"top"</span>,</span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>        <span class="at">legend.title =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.title =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">14</span>),</span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.text =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">10</span>),</span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a>        ) <span class="sc">+</span></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Day"</span>, <span class="at">y =</span> <span class="st">"Daily maximum temperature (°C)"</span>) <span class="sc">+</span></span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggtitle</span>(<span class="st">"Maximum temperatures by day for January 2024 &amp; 2025"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="code_files/figure-commonmark/unnamed-chunk-2-1.png" class="img-fluid"></p>
+</section>
+<section id="plot-december-comparison" class="level3">
+<h3 class="anchored" data-anchor-id="plot-december-comparison">Plot December comparison</h3>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(month <span class="sc">==</span> <span class="st">"december"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> day, </span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">y =</span> daily_max, </span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> year, </span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">group =</span> year)</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>         ) <span class="sc">+</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_colour_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(<span class="st">"2023"</span> <span class="ot">=</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>                                 <span class="st">"2024"</span> <span class="ot">=</span> <span class="st">"red"</span>)</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>                      ) <span class="sc">+</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2023"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"december"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_max)), </span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2024"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"december"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_max)), </span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"red"</span>,</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"top"</span>,</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.title =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">14</span>),</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.text =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">10</span>),</span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>        ) <span class="sc">+</span></span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Day"</span>, <span class="at">y =</span> <span class="st">"Daily maximum temperature (°C)"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="code_files/figure-commonmark/unnamed-chunk-3-1.png" class="img-fluid"></p>
+</section>
+<section id="plot-january-comparison-mean-temps" class="level3">
+<h3 class="anchored" data-anchor-id="plot-january-comparison-mean-temps">Plot January comparison (mean temps)</h3>
+<p>Looks like mean temperatures give more or less the same answer compared to maximum temps.</p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">x =</span> day, </span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">y =</span> daily_avg, </span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> year, </span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">group =</span> year)</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>         ) <span class="sc">+</span></span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>() <span class="sc">+</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_colour_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(<span class="st">"2024"</span> <span class="ot">=</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>                                 <span class="st">"2025"</span> <span class="ot">=</span> <span class="st">"red"</span>)</span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>                      ) <span class="sc">+</span></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2024"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_avg)), </span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"lightblue"</span>,</span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_hline</span>(<span class="at">yintercept =</span> <span class="fu">mean</span>(df <span class="sc">%&gt;%</span> <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">"2025"</span> <span class="sc">&amp;</span> month <span class="sc">==</span> <span class="st">"january"</span>) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(daily_avg)), </span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>             <span class="at">colour =</span> <span class="st">"red"</span>,</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>             <span class="at">linetype =</span> <span class="st">"dotted"</span></span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a>             ) <span class="sc">+</span></span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">n.breaks =</span> <span class="dv">7</span>) <span class="sc">+</span></span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>() <span class="sc">+</span></span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">"top"</span>,</span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.title =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">14</span>),</span>
+<span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a>        <span class="at">axis.text =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">10</span>),</span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a>        ) <span class="sc">+</span></span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Day"</span>, <span class="at">y =</span> <span class="st">"Daily average temperature (°C)"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p><img src="code_files/figure-commonmark/unnamed-chunk-4-1.png" class="img-fluid"></p>
 
 
+</section>
+</section>
+</section>
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bW9udGhseQ==" data-listing-date-sort="1740783600000" data-listing-file-modified-sort="1740933372424" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1252">
-<div class="thumbnail">
-<p><a href="./posts/25_feb_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/25_feb_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/25_feb_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/25_feb_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/25_feb_raph_roundup/index.html" class="no-external">The Raph Round-up: February 2025</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/25_feb_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/25_feb_raph_roundup/index.html" class="no-external">February is already gone! After three months of darkness, the days are rapidly getting lighter (4 hours lighter than since 21 December, and ~5 minutes of extra light per day…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/25_feb_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Mar 1, 2025
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="bW9udGhseQ==" data-listing-date-sort="1738450800000" data-listing-file-modified-sort="1740430894543" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1162">
-<div class="thumbnail">
-<p><a href="./posts/25_jan_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/25_jan_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/25_jan_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/25_jan_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/25_jan_raph_roundup/index.html" class="no-external">The Raph Round-up: January 2025</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/25_jan_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/25_jan_raph_roundup/index.html" class="no-external">Happy new year! It’s the end of January 2025 as I’m writing this, and day light has already increased by ~ 1 hour and 38 minutes since the solstice! It’s enough to make it…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/25_jan_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Feb 2, 2025
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="bW9udGhseQ==" data-listing-date-sort="1735599600000" data-listing-file-modified-sort="1735736891001" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1240">
-<div class="thumbnail">
-<p><a href="./posts/24_dec_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_dec_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_dec_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_dec_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_dec_raph_roundup/index.html" class="no-external">The Raph Round-up: December 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_dec_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_dec_raph_roundup/index.html" class="no-external">And so, another year passes. I’m pretty glad that I managed to get a monthly round-up done for each month of 2024 (even if some were horrendously late). I think this is an…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_dec_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Dec 31, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="bW9udGhseQ==" data-listing-date-sort="1734994800000" data-listing-file-modified-sort="1735034682028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="941">
-<div class="thumbnail">
-<p><a href="./posts/24_nov_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_nov_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_nov_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_nov_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_nov_raph_roundup/index.html" class="no-external">The Raph Round-up: November 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_nov_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_nov_raph_roundup/index.html" class="no-external">November was great for photography here in Copenhagen. We got back in time to witness Autumn’s influence on the trees, and had a few days of snow. So enjoy photos from two…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_nov_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Dec 24, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="bW9udGhseQ==" data-listing-date-sort="1733007600000" data-listing-file-modified-sort="1733172276022" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1856">
-<div class="thumbnail">
-<p><a href="./posts/24_oct_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_oct_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_oct_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_oct_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_oct_raph_roundup/index.html" class="no-external">The Raph Round-up: October 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_oct_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_oct_raph_roundup/index.html" class="no-external">In October we were back in the southern hemisphere, our first time going home in 18 months! In this edition I’ll share some snaps from Adelaide, some AMAZING Aussie animals…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_oct_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Dec 1, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="bW9udGhseQ==" data-listing-date-sort="1731798000000" data-listing-file-modified-sort="1731787189738" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1069">
-<div class="thumbnail">
-<p><a href="./posts/24_sept_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_sept_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_sept_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_sept_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_sept_raph_roundup/index.html" class="no-external">The Raph Round-up: September 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_sept_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_sept_raph_roundup/index.html" class="no-external">Hi all, this will be a shorter round-up this month, as we were in Australia / New Zealand for October, and I’ve got ~600 photos to trim down and edit …</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_sept_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Nov 17, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="bW9udGhseQ==" data-listing-date-sort="1731106800000" data-listing-file-modified-sort="1731170852155" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1868">
-<div class="thumbnail">
-<p><a href="./posts/24_aug_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_aug_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_aug_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_aug_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_aug_raph_roundup/index.html" class="no-external">The Raph Round-up: August 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_aug_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_aug_raph_roundup/index.html" class="no-external">Hi all, this month I’m sharing a few shots from our neighbourhood, a trip to a cool art exhibition, and my first ever Danish bikepacking adventure!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_aug_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Nov 9, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="bW9udGhseQ==" data-listing-date-sort="1727215200000" data-listing-file-modified-sort="1727256835000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1637">
-<div class="thumbnail">
-<p><a href="./posts/24_july_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_july_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_july_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_july_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_july_raph_roundup/index.html" class="no-external">The Raph Round-up: July 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_july_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_july_raph_roundup/index.html" class="no-external">It’s a few months overdue, but better late than never!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_july_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Sep 25, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="bW9udGhseQ==" data-listing-date-sort="1727215200000" data-listing-file-modified-sort="1730646943860" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2183">
-<div class="thumbnail">
-<p><a href="./posts/24_june_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_june_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_june_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_june_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_june_raph_roundup/index.html" class="no-external">The Raph Round-up: June 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_june_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_june_raph_roundup/index.html" class="no-external">June feels like it flew by, and apart from celebrating our ‘Daneaversary’ (two years in Denmark) with some friends, there’s not a lot to report on. Therefore, I wanted to…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_june_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Sep 25, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-categories="bW9udGhseQ==" data-listing-date-sort="1717192800000" data-listing-file-modified-sort="1727134041000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1958">
-<div class="thumbnail">
-<p><a href="./posts/24_may_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_may_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_may_raph_roundup/photos/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_may_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_may_raph_roundup/index.html" class="no-external">The Raph Round-up: May 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_may_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_may_raph_roundup/index.html" class="no-external">I can’t believe we’re at the end of May already! The weather has been absolutely fantastic here in Copenhagen this month, and in this edition, we’re continuing with the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_may_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Jun 1, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-categories="bW9udGhseQ==" data-listing-date-sort="1715205600000" data-listing-file-modified-sort="1727134040000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1089">
-<div class="thumbnail">
-<p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_apr_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">The Raph Round-up: April 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">Spring has sprung! It’s a relief to finally see more colours in Copenhagen – I hope you enjoy this update :-)</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_apr_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-May 9, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="11" data-categories="bW9udGhseQ==" data-listing-date-sort="1713045600000" data-listing-file-modified-sort="1727134040000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1267">
-<div class="thumbnail">
-<p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_mar_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">The Raph Round-up: March 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">Hey everyone, bit more of a photo heavy round-up this month, hope you enjoy!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_mar_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Apr 14, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="12" data-categories="bW9udGhseQ==" data-listing-date-sort="1709852400000" data-listing-file-modified-sort="1727134040000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1946">
-<div class="thumbnail">
-<p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_feb_raph_roundup/fotm_thumbnail.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">The Raph Round-up: February 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">Welcome to another monthly round-up! You may have noticed that we have a new URL – I ended up buying a domain name and email server, so there’s now an option to sign up to a…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_feb_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Mar 8, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="13" data-categories="bW9udGhseQ==" data-listing-date-sort="1707174000000" data-listing-file-modified-sort="1727134040000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1387">
-<div class="thumbnail">
-<p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a></p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/24_jan_raph_roundup/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">The Raph Round-up: January 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bW9udGhseQ=='); return false;">
-monthly
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">A resolution I made this year is to write a short summary of each month, for posterity, and for sharing with friends and family. You may be thinking, huh, why? Well, I have…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/24_jan_raph_roundup/index.html" class="no-external">
-<div class="listing-date">
-Feb 6, 2024
-</div>
-<div class="listing-author">
-Raphael Eisenhofer
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1707735");</style>
     <style type="text/css">
     /* LOADER */
