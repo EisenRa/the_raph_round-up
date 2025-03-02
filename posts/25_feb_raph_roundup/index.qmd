@@ -1,0 +1,148 @@
+---
+title: "The Raph Round-up: February 2025"
+author: "Raphael Eisenhofer"
+date: "2025-03-01"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+February is already gone! After three months of darkness, the days are rapidly getting lighter (4 hours lighter than since 21 December, and \~5 minutes of extra light per day at this point). This edition of the round-up includes some winter shots from a lovely sunny and snowy week in February, a trip to Malmö (Sweden), and my first foray into night photography.
+
+Before that, December and January felt warmer than last winter, so curious as to whether I was just imagining things, I fetched some temperature data from the DMI (Danish Meteorological Institute) to test this. You can find the code to reproduce the figures [here](https://github.com/EisenRa/the_raph_round-up/tree/master/posts/25_feb_raph_roundup/extras/), and here are the two plots that I made:
+
+![December. Dotted lines indicate mean across whole month](extras/fig2.png)
+
+![January. Dotted lines indicate mean across whole month](extras/fig1.png)
+
+From the dotted lines (mean across whole month), we can see that the average daily maximum temperatures were \~2-2.5 °C warmer this year compared to last.
+
+### The last touch of winter for the year?
+
+We had a beautiful cold, snowy, and sunny week early in Feb, which made for some great conditions for getting outside with the camera. The flowers must have also been a bit confused, as after slowly creeping up, they were bucketed with snow:
+
+::: {layout-ncol="2"}
+![The winter sun was just breaking through the trees here onto a pioneering flower\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/spring0.jpg){group="spring"}
+
+![I rotated this image to make the flower look like a mouth and tongue :-P\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/spring1.jpg){group="spring"}
+:::
+
+![Even my house monstera is feeling spruce\
+© 2025. This work is openly licensed via CC BY-NC 4.0](photos/spring2.jpg)
+
+::: {layout-ncol="3"}
+![Frozen lake in the nearby park. I love the light and shadows in this one.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow1.jpg){group="snow"}
+
+![Snow melting off the trees.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow2.jpg){group="snow"}
+
+![Light installation in a nearby park for the Copenhagen light festival.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow3.jpg){group="snow"}
+
+![Animal tracks on a frozen lake.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow4.jpg){group="snow"}
+
+![The lakes in central Copenhagen.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow5.jpg){group="snow"}
+
+![I like the texture/patterns here\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow6.jpg){group="snow"}
+
+![On the other end of the Copenhagen lakes. Again, the sun being low in the sky yields nice long shadows.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow7.jpg){group="snow"}
+:::
+
+### Malmö
+
+One weekend, we popped over the Øresund strait via train to Malmö (Sweden) to get a different scandinavian experience. A brunch catch up with a friend in a cosy cafe, Til's mandatory visit to Lush (there is no Lush in Denmark), a visit to the Form/Design centre, and dinner at a really nice restaurant - \[Rau\](<https://www.raumalmo.se/>). Sometimes it's hard to force yourself out of your warm apartment in the winter, but it's usually always worth it.
+
+::: {layout-ncol="3"}
+![Malmö triagelen station entrance/exit\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo1.jpg){group="malmo"}
+
+![On a cold winter day, it's nice seeing evidence (fruit) of the previous summer.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo3.jpg){group="malmo"}
+
+![The form/design centre, note the old-school architecture of the left building. [According to their website](https://formdesigncenter.com/en/history): "It is regarded as being the country’s (Sweden's) best-preserved half-timbered building from the end of the 16th century."\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo2.jpg){group="malmo"}
+:::
+
+::: {layout-ncol="1"}
+![The exhibition (book art from Lithuania) © 2025. This work is openly licensed via CC BY-NC 4.0](photos/malmo4.jpg){group="malmo"}
+:::
+
+::: {layout-ncol="3"}
+![Cold outside\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo5.jpg){group="malmo"}
+
+![Found a cool shadow\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo6.jpg){group="malmo"}
+
+![Sculpture\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/malmo7.jpg){group="malmo"}
+:::
+
+### Misty night -\> cool light
+
+I've been meaning to get out and do some night photography, but winter's touch has deterred me from leaving my apartment in the evenings. One night, when getting back home, I noticed the heavy mist in the neighbourhood. The conditions were too good to not go out, and I ended up spending 90 minutes out with the camera (without gloves..).
+
+Photography is all about light, of which there is not much of in the night. This means that you'll typically have to rely on a tripod to compensate for the longer exposures that you're taking. What I like about night photography is the deep contrast that you get from it. Add mist to that, and you get some really moody vibes. Anyway, these were my favourite from the night, and I hope you enjoy.
+
+::: {layout-ncol="3"}
+![Light meets mist\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night0.jpg){group="night"}
+
+![Long exposure for car/bike light trails. The mist obscures a tower in the background.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night1.jpg){group="night"}
+
+![Moody.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night2.jpg){group="night"}
+
+![Brick road\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night3.jpg){group="night"}
+
+![Light meets mist\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night4.jpg){group="night"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night5.jpg){group="night"}
+:::
+
+::: {layout-ncol="4"}
+![Long exposure\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night6.jpg){group="night"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night7.jpg){group="night"}
+
+![Shadows\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night8.jpg){group="night"}
+
+![Moody\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night9.jpg){group="night"}
+:::
+
+### Photo of the month
+
+My favourite image of the month ended up being more of an abstract one. This was taken from my balcony with a 100 mm lens when it was snowing heavily. In terms of processing, I've made it a black and white for simplicity, and cropped it (also for simplicity and composition). The snow gives it a surreal feel, almost like its a drawing or painting (and adds almost a film grain-like texture).
+
+![© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+[Great article](https://www.nzgeo.com/stories/the-great-recycling-delusion/?t=28710_cdbba52735a43e87d8c8e868af7b9a26&utm_source=newsletter&utm_medium=email&utm_term=https%3A%2F%2Fwww.nzgeo.com%2Fstories%2Fthe-great-recycling-delusion%2F%3Ft%3D28710_cdbba52735a43e87d8c8e868af7b9a26&utm_content&utm_campaign=The%20Weekender%20January%2031%202025) by NZGeo about recycling. A delusion? A distraction from more pressing issues? An important thing for our society? I particularly like the figure showing data from 1,000 survey participants on the top 3 actions they could personally make to help mitigate the climate crisis vs. the actual importance of those actions. Recycling was the 2nd most picked action that participants chose, when in reality, it ranked 59th on importance. This isn’t to say that recycling isn’t important (I’ll still be doing it), but that it pales in comparison to other actions you can make in your life.
+
+Some argue that plastic recycling, however, is a complete fraud. There’s strong evidence that Big Oil and the plastic industry has been deceiving the public for decades about how recyclable plastic is. Ever notice how similar the resin identification codes on plastic products looks remarkably like a recycling symbol? The short of it is, it’s either a) not possible or b) not viable to recycle plastics. As far as I know, only one or two difference resin types can actually be recycled, and these can only be recycled less than a handful of times (this also creates microplastics, which may also not be good). The [full report is here](https://climateintegrity.org/uploads/media/Fraud-of-Plastic-Recycling-2024.pdf) if you’re interested.
+
+[Some more great journalism](https://www.google.com/url?q=https://www.nzgeo.com/stories/minerals-in-the-deep/?t%3D28710_cdbba52735a43e87d8c8e868af7b9a26%26utm_source%3Dnewsletter%26utm_medium%3Demail%26utm_term%3Dhttps%253A%252F%252Fwww.nzgeo.com%252Fstories%252Fminerals-in-the-deep%252F%253Ft%253D28710_cdbba52735a43e87d8c8e868af7b9a26%26utm_content%26utm_campaign%3DThe%2520Weekender%2520February%252014%25202025&sa=D&source=editors&ust=1740934721403000&usg=AOvVaw1M168ydSuTvbx3SbbuRUdb) by NZGeo about deep sea mining in the Cook Islands.
+
+[Cool article](https://www.abc.net.au/news/2025-02-06/outback-way-journey-remote-australia-back-roads-lisa-millar/104842474) by ABC Australia about the Outback Way, thousands of kilometres of dirt road in the centre of Aus.
+
+We don’t often stop to consider the street design of our cities, and I was amazed at the process and advantages of using [‘klinkers’ (bricks)](https://www.youtube.com/watch?v=Cq1kV6V_jvI&t) over regular asphalt or concrete. There are also some really neat features of Dutch street design that you’ll learn about by watching.
+
+Another [great vid](https://www.youtube.com/watch?v=wBC_bug5DIQ) by Climate Town.
+
+On the inevitability of the rich getting richer in our current society. [Article](https://pluralistic.net/2025/02/18/pikettys-productivity/) by Cory Doctorow.
