@@ -1,0 +1,139 @@
+---
+title: "The Raph Round-up: May 2025"
+author: "Raphael Eisenhofer"
+date: "2025-06-01"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+May has been pretty busy – had friends visiting from Adelaide, took a trip to Stockholm, and started a new job as a senior scientist at [cmbio](cmbio.io)! As a result, I've not had much time to dedicate to photography, but regardless, here are some of my favourite photos that I took this month. I've also added a **new commenting feature** to the website (bottom of the page). You'll first need a free GitHub account if you want to leave a comment.
+
+### Out and about in Copenhagen
+
+Having friends visit is always a great excuse to get out and about. It's easy to take what you have for granted.
+
+::: {layout-ncol="2"}
+![Our friends were staying in Pasteurs tower (just across the road from us) on the 33rd floor of the second tallest building in Denmark (128m).\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn1.jpg){group="cpn"}
+
+![Another view, this time of Copenhagen (you can see Pasteurs tower in the distance) from the top of the Church of Our Saviour in Christianshavn (91m).\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn2.jpg){group="cpn"}
+:::
+
+![Another view.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn3.jpg){group="cpn"}
+
+::: {layout-ncol="2"}
+![A bike ride to the contemporary art gallery Arken.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn4.jpg){group="cpn"}
+
+![Shadows. It pays to look down!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn5.jpg){group="cpn"}
+
+![Untitled.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn6.jpg){group="cpn"}
+
+![Untitled.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cpn7.jpg){group="cpn"}
+:::
+
+### Animals and clouds
+
+::: {layout-ncol="2"}
+![There's a park south of Copenhagen (Sydhavnstippen) that's home to some free roaming and tame animals.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around1.jpg){group="around"}
+
+![Also some very fluffy sheep! You can often see the sheep walk up to people asking for a pat.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around2.jpg){group="around"}
+
+![Interesting clouds.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around3.jpg){group="around"}
+
+![Untitled.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around4.jpg){group="around"}
+:::
+
+### A short trip to Stockholm
+
+We also went on a short trip to Stockholm. The last time we visited was in February of last year (very cold and dark), so it was great to see the city in the light of spring. It was also nice to catch up with some other friends from Adelaide who were doing a Europe trip. Other highlights for me included: Swedish cinnamon buns, Omnipollos (craft brewery), excellent second-hand shopping, and visiting Fotografiska (a contemporary photography museum).
+
+::: {layout-ncol="2"}
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock1.jpg){group="stock"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock2.jpg){group="stock"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock3.jpg){group="stock"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock4.jpg){group="stock"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock5.jpg){group="stock"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stock6.jpg){group="stock"}
+:::
+
+### New lens, and a spring garden
+
+I also recently acquired another lens for my new camera, the Nikon Z MC 105mm f/2.8 VR S. It's basically the Z-mount version of the Tokina 105mm Macro f/2.8 (one of my favourite lens from my old camera). The lens has a 1:1 magnification, meaning that it captures photos that are 'life-size' relative to the camera's sensor (i.e. you can take photos of very small stuff). I love macro lenses, as they unlock a completely different world to photograph – one that we don't often see.
+
+::: {layout-ncol="3"}
+![It's also a really sharp lens!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden1.jpg){group="garden"}
+
+![The magnification (coupled with low aperture) also has the nice side effect of blurring out parts of the frame, creating a nice background, and increasing the focus on your subject.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden2.jpg){group="garden"}
+
+![1:1 magnification of a flower's anthers – with pollen visible.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden3.jpg){group="garden"}
+:::
+
+::: {layout-ncol="3"}
+![Again, I love the separation between subject and background, and the 'dreamy' look it gives.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden4.jpg){group="garden"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden5.jpg){group="garden"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/garden6.jpg){group="garden"}
+:::
+
+### Photo of the month
+
+Taken on the same trip as the above section. I love the mood of this photo, the shadows and the contrast.
+
+![© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Check out Cory Doctorow's new [podcast 'Who Broke the Internet](https://www.cbc.ca/listen/cbc-podcasts/1353-the-naked-emperor/episode/16144078-dont-be-evil)' on CBC. Cory is a fantastic communicator, and adeptly explains how the internet has [enshittified](https://en.wikipedia.org/wiki/Enshittification). Why has Google search gotten worse, not better with time? Well, it turns out that the more searches a user has to the make, the more advertisements they get served. Funnily enough, Google founders Sergey Brin and Lawrence Page actually mentioned this in a [early paper describing the Google PageRank algorithm](http://infolab.stanford.edu/pub/papers/google.pdf):
+
+> .. we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.
+>
+> Furthermore, advertising income often provides an incentive to provide poor quality search results.
+
+[Learn about quokkas!](https://www.youtube.com/watch?v=vyloE0iNLMM)
+
+I really enjoyed [Estonia's EuroVision entry](https://www.youtube.com/watch?v=F3wsy8bywXQ). Though apparently, [some Italians took offence](https://edition.cnn.com/2025/02/21/entertainment/estonia-eurovision-italy-controversy-scli-intl/index.html) to it!
+
+Adobe was [sued by the DOJ and FTC](https://www.independent.co.uk/news/world/americas/doj-ftc-adobe-photoshop-lawsuit-b2564294.html) for hidden fees. Yet another reason why I moved away from using Adobe for my photography.
+
+Excellent – albeit spooky – [video about the history and modern issue that is PFAS](https://www.youtube.com/watch?v=SC2eSujzrUY) by Veritasium. The best we can do is minimise our exposure, with water being one of the main entry points into the human body. I'll definitely be testing the water of the next place I move into.
+
+Did you know that only 23 people are needed for there to be a 50% chance of them sharing a birthday? [The Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem) seems pretty counter-intuitive, but it makes more sense when you consider that the comparisons are made between each pair of people, so there are with 23 people:
+
+```         
+23 * 22 / 2 = 253 comparisons
+```
+
+It's is also relevant in the [context of cybersecurity](https://www.youtube.com/watch?v=jsraR-el8_o)!
+
+Someone made a [free QR code generator](https://justaqrcode.com/) that's free from tracking and bullshit.
+
+A bonus, [based take](https://pluralistic.net/2025/05/20/big-cornflakes-energy/) on wealth inequality by Cory.
