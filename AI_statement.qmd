@@ -1,0 +1,56 @@
+---
+title: "AI statement"
+lightbox: true
+---
+
+## **Statement on “AI” use**
+
+> This website and its contents is and will be free from the use of generative large-language models, commonly bandied as “AI”. 
+
+If you want to read more about why I’m stating this, and my general thoughts about this topic, read below.
+
+#### **What even is AI?**
+
+According to the Wikipedia definition:
+
+> **Artificial intelligence** (**AI**) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.
+
+For brevity, I won’t try to define ‘intelligence’ or ‘consciousness’, but regardless, this is quite a broad definition. Is a thermostat in your fridge that dictates on/off based on temperature considered ‘decision-making’? Are [sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm) -- code instructions for sorting elements (e.g. numbers) considered ‘problem-solving’?
+
+Since the recent popularization of chatbots (e.g. ChatGPT) based on generative large language models (LLMs), the “AI” buzzword is being brazenly slapped onto nearly everything. “AI” summaries from Google searches, and buttons/links on your phone to call various “AI genies” ([1](https://www.bloodinthemachine.com/p/how-big-tech-is-force-feeding-us), [2](https://pluralistic.net/2025/05/02/kpis-off/)). Algorithms (that have been with us for decades) and automation more broadly is being oversold as “AI” as people board the hype train.
+
+Why is this happening? It could be a general misunderstanding and misuse of this fairly complex (and hard-to-define topic). However, I think it’s more likely that the widespread hype of “AI” is a shrewd marketing ploy pushed by U.S-led [Big Tech](https://en.wikipedia.org/wiki/Big_Tech), that have a history of using simple words/phrases to sell stuff. Remember when everything was marketed as ‘Smart’? Smart-TVs, Smart-watches, Smart-toasters – even Smart-toilets. How about the ‘Cloud’ buzzword?  Cory Doctorow clearly [explains](https://pluralistic.net/2025/06/30/accounting-gaffs/) how Big Tech needs constant growth to survive (and feed its shareholders), and that “AI” is the new buzzword that they are betting will keep making the [Numbers Go Up](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america?utm_source=post-email-title&publication_id=11524&post_id=168396972&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email) ([even though it's not making any money at all](https://www.wheresyoured.at/make-fun-of-them/)).  
+
+I think these Big Tech marketing maestros have outdone themselves this time, as “AI” has such a deep cultural resonance with us in Western society. AI as a topic and theme has been used extensively in science fiction writing (and subsequent movies) over the past century (it was a topic in Samuel Butler’s novel [Erewhon](https://en.wikipedia.org/wiki/Erewhon) going as far back as 1872!). Think HAL-9000, an artificial intelligence and the main antagonist from the classic ‘*2001: A Space Odyssey*’ from 1968. C-3PO, the shiny and polite android from the original *Star Wars* trilogy. Androids from ‘*Bladerunner’*, the 1982 movie inspired by Philip K. Dick’s 1968 novel ‘*Do Androids Dream of Electric Sheep*’.  Skynet, the artificial super intelligence from the 1984 movie ‘*Terminator*’. The Rise of the Machines from ‘*The Matrix’* (one of my favourite movies), and the Butlerian Jihad from Frank Herbert’s ‘*Dune’* (1965).
+
+I’m going to elaborate quickly on ‘*Dune’* here, as it’s one of my favourite works of science fiction (and well worth a read!). In Frank’s universe, technological improvements led to the creation of machines that could make decisions for humans. The people ‘technocrats’ who controlled this infrastructure had enormous power over the users of this technology. This, as you can image, didn’t go well, and led to the Butlerian Jihad (perhaps a nod to Samual Butler?) AKA The Great Revolt – a crusade against thinking machines and the people who controlled them. While Frank Herbert’s Butlerian Jihad was perhaps mostly used plot device (to focus less on technology, and more on cultural and social issues), I think it captures where we could be if we don’t wake up and regulate these technologies. There’s also a quote from *Dune* that I think encapsulates this issue well:
+
+> “Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.”
+
+Effective marketing is knowing your audience and ‘resonating’ with them. Given AI’s place in popular culture, Big Tech marketers have done a top job in the use of “AI” to sell their next grift and maintain Big Tech’s growth.
+
+**Why do I disagree with these tools?**
+
+Definitions aside, let’s get into why I’m not a huge fan of these tools. I’ll also preface that LLMs can be useful for some tasks – e.g. searching specific databases and documentations, and in some niche scientific research contexts (e.g. protein folding).
+
+The TLDR (*too long, didn’t read*) summary is here in list form, with my justifications following:
+
+1.  If you don’t use skills, you lose them
+
+2.  The ethics of using models trained from other people’s material
+
+3.  I don’t like, or want to support Big Tech
+
+**If you don’t use it, you lose it**
+
+How are your handwriting skills these days? Growing up with computers, mine are pretty horrendous. This is a skill we all generally learn through school, and one that I still used at university. However, given that my principal interface to writing over my life has been the keyboard, my skills with the pen have atrophied, and what is left is some less-than-pretty scrawling. How about languages? I’ve often heard people remark that if they don’t use a language, their proficiencies are reduced. Then there’s also classic analogy with muscles – if you don’t use it, you lose it.
+
+It's not a stretch to think that outsourcing our critical thinking and writing to LLMs will leave us deficient in them ([see this excellent essay](https://www.forkingpaths.co/p/the-death-of-the-student-essayand)). This is something that I’m very worried out at a societal level, and harkens back to the Dune quote I mentioned above – why think when a machine can do it for you? (who controls the machines, and what do they want you to think?). Relying on LLMs for your thinking and writing is folly, a crutch that if removed, will leave you [disempowered](https://www.youtube.com/watch?v=QEJpZjg8GuA). In addition, common strategy for Big Tech is to make people reliant on a service, monopolise (and [enshittify](https://en.wikipedia.org/wiki/Enshittification)) it, then ratchet up the prices.
+
+**The ethics of using models trained from other people’s material**
+
+This could be a whole article in itself, and other have covered it before, so I’ll keep it brief. Ask yourself, what data is being used to train these models? Is Big Tech paying creators and artists for the use of their works? Well, it seems that no, they are not. These companies are scraping and pilfering the internet of its content, and even [stealing literature](https://www.reuters.com/technology/artificial-intelligence/meta-knew-it-used-pirated-books-train-ai-authors-say-2025-01-09/) and [scientific articles](https://www.theatlantic.com/technology/archive/2025/03/search-libgen-data-set/682094/) (yeah, a particular big middle finger to you to Meta). Beyond monetary compensation, there’s the more fundamental issue of permission – which is not being granted to artists and creators. I’m no legal expert, but I suspect that we’ll see some legal proceeding in the coming years.
+
+**I don’t like, or want to support Big Tech**
+
+It’s hard to argue that Big Tech has been a positive force in the world. From social media platforms frying our dopamine circuits, turbocharging narcissism, and [influencing elections](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal), to the enshittification of products and services with the goal of increasing shareholder returns. Through anti-competitive practices, Big Tech also stifles innovation – why bother improving things when you control the market? These are some of the reasons why I don’t want to support these companies as they plan their next round of pilfering.
