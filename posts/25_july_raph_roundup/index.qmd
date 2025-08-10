@@ -1,0 +1,207 @@
+---
+title: "The Raph Round-up: July 2025"
+author: "Raphael Eisenhofer"
+date: "2025-08-10"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+July means summer in the northern hemisphere – a time for getting out and enjoying life. You'll find a lot of insects in this month's Round-Up!
+
+I've also written a [statement on AI use](../../ai_statement.qmd), and share my thoughts on the latest craze.
+
+### Make honey while the sun shines
+
+What better way to start the July issue than with the quintessential summer colour, yellow:
+
+::: {layout-ncol="2"}
+![Honey1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey1.jpg){group="honey"}
+
+![Honey2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey2.jpg){group="honey"}
+
+![Honey3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey3.jpg){group="honey"}
+
+![It's not only the bees that are out!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey4.jpg){group="honey"}
+:::
+
+### Summer clouds
+
+In contrast the the single, featureless cloud that seems to cover Copenhagen for most of winter, in summer we have some magnificent cumulonimbus clouds (skybrud -- or cloudbursts). They make forecasting quite a challenge for the local meteorological institute, and result highly local and intense showers. I've also taken a number of timelapses which I'll share at a later date.
+
+::: {layout-ncol="2"}
+![cloud1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/clouds1.jpg){group="cloud"}
+
+![cloud2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/clouds2.jpg){group="cloud"}
+
+![cloud3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/clouds3.jpg){group="cloud"}
+
+![Dark vs. light\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/clouds4.jpg){group="cloud"}
+:::
+
+### Summer woodlands
+
+Had a wonderful bike ride in Jægersborg Dyrehave -- a short train ride from Copenhagen.
+
+::: {layout-ncol="5"}
+![Resting\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/dyre1.jpg){group="dyre"}
+
+![Path\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/dyre2.jpg){group="dyre"}
+
+![Fairytale lighting!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/dyre3.jpg){group="dyre"}
+
+![Roots of the air\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/dyre4.jpg){group="dyre"}
+
+![Deer!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/dyre5.jpg){group="dyre"}
+:::
+
+### More summer forest in Hareskov
+
+Another great forest accessible from Copenhagen's suburban train is Hareskov. Had a lovely day exploring nature (whilst avoiding the many mosquitos!)
+
+::: {layout-ncol="4"}
+![Framing\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare1.jpg){group="hare"}
+
+![The other side (amazing what different lighting can do)\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare2.jpg){group="hare"}
+
+![Light and dark\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare3.jpg){group="hare"}
+
+![Heads up!\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare4.jpg){group="hare"}
+:::
+
+::: {layout-ncol="2"}
+![Bearded tree\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare5.jpg){group="hare"}
+
+![Ultra-wide angle of another very old oak tree, meet Skrædderen, who is perhaps 500-600 years old, and the largest oak tree in Hareskov. \
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare6.jpg){group="hare"}
+:::
+
+::: {layout-ncol="4"}
+![Skrædderen up close.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare7.jpg){group="hare"}
+
+![A splash of blue #1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare8.jpg){group="hare"}
+
+![A splash of blue #2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare9.jpg){group="hare"}
+
+![A splash of blue #3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/hare10.jpg){group="hare"}
+:::
+
+### Summer is Sweden
+
+We also took the train to Gothenburg for a long weekend, and also took a ferry ride to the island of Vrångö for a coastal hike.
+
+::: {layout-ncol="4"}
+![Dreamy\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote1.jpg){group="gote"}
+
+![Pink\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/gote2.jpg){group="gote"}
+
+![Nectar\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote3.jpg){group="gote"}
+
+![Maple\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/gote4.jpg){group="gote"}
+
+![Depth\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote5.jpg){group="gote"}
+
+![Sun\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/gote6.jpg){group="gote"}
+
+![Reflection #1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote7.jpg){group="gote"}
+
+![Reflection #2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote8.jpg){group="gote"}
+:::
+
+::: {layout-ncol="3"}
+![Hill #1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote9.jpg){group="gote"}
+
+![Hill #2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote10.jpg){group="gote"}
+
+![Reflection #3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote11.jpg){group="gote"}
+:::
+
+::: {layout-ncol="4"}
+![Halt\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote12.jpg){group="gote"}
+
+![Swedish colours?\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/gote13.jpg){group="gote"}
+
+![Mesmerizing\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote14.jpg){group="gote"}
+
+![Think inside the square\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote15.jpg){group="gote"}
+
+![Vrångö #1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote16.jpg){group="gote"}
+
+![Vrångö #2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote17.jpg){group="gote"}
+
+![Vrångö #3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote18.jpg){group="gote"}
+
+![Vrångö #4\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/gote19.jpg){group="gote"}
+:::
+
+### Photo of the month
+
+On my trip to Hareskov I came across this amazing lighting. When it's sunny, the lighting in the forest can be a bit harsh, but in this case, it was bright and overcast, resulting in a softer feel.
+
+![Road to somewhere?\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+[Excellent photo portfolio](https://www.ericpickersgill.com/removed) about the attention-seeking device that most of us own!
+
+[Big Tech doing the usual shit](https://www.youtube.com/watch?v=DUfSl2fZ_E8).
+
+[The sound of ants](https://www.youtube.com/watch?v=nHVAbwOt8E0)! George Vlad records amazing soundscapes (particularly of remote wilderness). It's amazing what's out there when you stop and listen. [Check out his site](https://mindful-audio.com/). And [here's an interview](https://earth.fm/podcast/interview-george-vlad/) where they discuss field recording, and why it's important to be present and listen. I think I'll one day get into field recording – it pairs nicely with photography too :)
+
+Matilda went on a bit of a Crufts dog freestyle binge, and [shared this impressive routine](https://www.youtube.com/watch?app=desktop&v=2-KKdxEdk3Y).
+
+[Some expert opinions](https://www.sciencemediacentre.co.nz/2025/07/09/moa-de-extinction-plans-announced-expert-reaction/) on Colossus' Moa "de-extinction" plans. As a biologist, I'm also highly critical of Colossus. I don't think de-extinction is actually possible (at least not in the short/mid-term). I also think that it sets a bad precedence – why bother protecting our current biodiversity when we can just "create" it in the lab..
+
+If you have a couple of hours, I can highly recommend this two-part documentary on the GameStop saga. A movement against Wall Street, or a cult? Absolutely fascinating. ([part 1](https://www.youtube.com/watch?v=7LPuXowifJ4), [part 2](https://www.youtube.com/watch?v=C5Bd6YxifCo)).
+
+[Short BBC documentary](https://www.youtube.com/watch?v=596dU6pDEU8) on the degrowth movement.
+
+[Great essay](https://www.thebignewsletter.com/p/the-number-go-up-rule-why-america?utm_source=post-email-title&publication_id=11524&post_id=168396972&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email) by Matt Stoller about our (or our economic system's) fetish with growth.
+
+[The Death of the Student Essay](https://www.forkingpaths.co/p/the-death-of-the-student-essayand). Excellent essay on "AI" use, and what it may mean for human cognition.
+
+*Organised Money* podcast about Multi Level Marketing (a.k.a. pyramid schemes), interviewing Bridget Read, who recently wrote the book '[Little Bosses Everywhere, How the Pyramid Scheme Shaped America](https://www.penguinrandomhouse.com/books/715421/little-bosses-everywhere-by-bridget-read/)'. It's quite shocking how entrenched pyramid schemes are in the U.S.
+
+[Based monologue](https://www.youtube.com/watch?v=UOTAdvc1MJM) (from 20 years ago) that's grown even more relevant as time has gone by.

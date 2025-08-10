@@ -1,15 +1,15 @@
 ---
 title: "About"
-image: profile.png
+image: profile.jpg
 about:
-  template: jolla
+  template: marquee
   links:
+    - icon: camera
+      text: flickr
+      href: https://www.flickr.com/photos/202433373@N03/
     - icon: mastodon
       text: mastodon
       href: https://genomic.social/@EisenRa
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/R_Eisenhofer
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/raphael-eisenhofer-499b5a84/
@@ -18,6 +18,8 @@ about:
       href: https://github.com/EisenRa
 ---
 
-Kiwi/Aussie currently living in Copenhagen. This is my personal blog where I post monthly round-ups, and various musings.
+Kiwi/Aussie currently living in Copenhagen. This is my personal website where I post monthly round-ups, photos, and various musings.
 
 Most photos are protected with a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). If you're interested in using any for commercial purposes, feel free to get in touch at raph\[dot\]eisenhofer\[at\]gmail\[dot\]com
+
+This website and its contents are AI-free, see [here for my statement on AI use](ai_statement.qmd).
