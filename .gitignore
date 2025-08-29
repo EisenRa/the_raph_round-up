@@ -1,2 +1,6 @@
 /.quarto/
 .Rproj.user
+docs/
+_site/
+_freeze/
+posts/*/photos/
