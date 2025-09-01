@@ -1,0 +1,140 @@
+---
+title: "The Raph Round-up: August 2025"
+author: "Raphael Eisenhofer"
+date: "2025-09-01"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+As we shift towards autumn, August spells summer's last breaths. I've not had a lot of time for photography this month, but hope you enjoy what moments I captured.
+
+### More summer clouds
+
+Couldn't help myself capturing some more summer clouds:
+
+::: {layout-ncol="3"}
+![Soft and sharp\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cloud1.jpg){group="cloud"}
+
+![Big burst\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cloud2.jpg){group="cloud"}
+
+![Flying in the clouds\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cloud3.jpg){group="cloud"}
+:::
+
+### Boserup Skov
+
+Took a Sunday trip to Boserup Skov, a forest on the fjord, and a few kilometers northwest of Roskilde.
+
+::: {layout-ncol="1"}
+![Untitled 1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boserup1.jpg){group="boserup"}
+:::
+
+::: {layout-ncol="3"}
+![Hope\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boserup2.jpg){group="boserup"}
+
+![Standing room only\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boserup3.jpg){group="boserup"}
+
+![Last month we had blue damselflies, this month we've got a dragonfly with a warmer shade. *Sympetrum* spp.?\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boserup4.jpg){group="boserup"}
+:::
+
+::: {layout-ncol="1"}
+![Taking a breather. *Anyone got an ID?*\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boserup5.jpg){group="boserup"}
+:::
+
+### Another type of birding
+
+Bird photography: commonly associated with khaki-attired photographers wielding expensive, bazooka-sized lens. These birds don't move, and can be found mostly in urban habitats (from my research, they've also been spotted in other cities). An online search [uncovered an article (in Danish)](https://www.euroman.dk/samfund/far-om-dagen-graffitimaler-om-natten/4733498) about about the aptly named 'Birds Crew' responsible. I'll definitely be keeping an eye on other pieces in the future!
+
+::: {layout-ncol="2"}
+![Birb1\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb1.jpg){group="birb"}
+
+![Birb2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb2.jpg){group="birb"}
+:::
+
+::: {layout-ncol="1"}
+![Birb3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb3.jpg){group="birb"}
+:::
+
+::: {layout-ncol="3"}
+![Birb4\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb4.jpg){group="birb"}
+
+![Birb5\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb5.jpg){group="birb"}
+
+![Birb6\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/birb6.jpg){group="birb"}
+:::
+
+### In the backyard
+
+You don't have to travel to exotic locations to enjoy the process of photography -- a joy of taking frequent walks in your neighbourhood is being present and finding new compositions:
+
+::: {layout-ncol="3"}
+![Roots\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around1.jpg){group="around"}
+
+![Untitled 2\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around2.jpg){group="around"}
+
+![Untitled 3\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around3.jpg){group="around"}
+
+![Untitled 4\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around4.jpg){group="around"}
+
+![Untitled 5\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around5.jpg){group="around"}
+:::
+
+::: {layout-ncol="3"}
+![Untitled 7\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around6.jpg){group="around"}
+
+![Untitled 8\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around7.jpg){group="around"}
+
+!["Goal!"\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around8.jpg){group="around"}
+:::
+
+::: {layout-ncol="1"}
+![Untitled 9\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/around9.jpg){group="around"}
+:::
+
+### Photo of the month
+
+Taken in Boserup Skov. I was drawn to the mixture of forest types that created a strong contrast (both texture and light). The repeating lines of imposing dark trunks add interest to the scene.
+
+![Imposing\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+What can Magic the Gathering colour system say about humanity? [A lot, apparently](https://homosabiens.substack.com/p/the-mtg-color-wheel). Really neat article! Here's a snippet:
+
+> A world without green, on the other hand, is a world unmoored from reality and disconnected from its own history. It’s a world full of bold schemes that fail to pan out, disasters that take generations to build momentum but are noticed too late. It’s a world where everything is out of place — where nothing truly even has a place — a constant parade of divorces and suicides and famines and extinctions, where things like global warming and eugenics and welfare programs with misaligned incentives happen all the time. It’s a world where the qualities that people derive from Zen Buddhism, or from the contemplation of a sunset, or from a hike in the mountains, or from the embrace of a grandmother, or from the sermon of an ancestor, are all entirely absent. It’s a place where you eat and eat and eat, but you never feel truly full.
+
+[Interesting article](https://www.forkingpaths.co/p/blood-diamonds-and-the-lottery-of-85e?utm_source=post-email-title&publication_id=1184530&post_id=171631292&utm_campaign=email-post-title&isFreemail=true&r=62kytv&triedRedirect=true&utm_medium=email) about how important geography is in shaping history.
+
+[There are projections](https://schaechter.asmblog.org/schaechter/2025/08/the-great-deceleration.html) that we will reach peak human population in this century, which is a good thing if we want to continue to share the planet with other organisms.
+
+Big Tech [obfuscating](https://ketanjoshi.co/2025/08/23/big-techs-selective-disclosure-masks-ais-real-climate-impact/) the energy and water cost of 'AI', and [some journalism](https://www.youtube.com/watch?v=YN6BEUA4jNU) about how the demand of data centres affects people's electricity bills.
+
+[Excellent video](https://www.youtube.com/watch?v=GvaOUFwXjf4) about the history of Google search, and why is sucks now.
+
+[Great video](https://www.youtube.com/watch?v=Z3YsBZljWOo) about work.
+
+Fly My Pretties released a new album this year, [check it out](https://flymypretties.bandcamp.com/album/elemental?utm_source=album_release&utm_medium=email&utm_content=fanpub_fb&utm_campaign=flymypretties%2Balbum%2Belemental)!

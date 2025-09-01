@@ -1,0 +1,151 @@
+---
+title: "The Raph Round-up: March 2024"
+author: "Raphael Eisenhofer"
+date: "2024-04-14"
+categories: [monthly]
+image: "fotm_thumbnail.jpg"
+lightbox: true
+---
+
+Hey everyone, bit more of a photo heavy round-up this month, hope you enjoy!
+
+### Breaking news: sun seen in Copenhagen
+
+That’s right, sources report that the sun has been sighted in Copenhagen after weeks of seemingly vanishing. We took advantage of this uncommon phenomenon by exploring a bit more of Christianshavn in central Copenhagen. [Christianshavn](https://en.wikipedia.org/wiki/Christianshavn) (or Christian’s harbour) is a cute neighbourhood with canals and houseboats, and was supposedly established in the 17th century as a fortification to the city. The most striking landmark is the Church of Our Saviour – distinct on the Copenhagen skyline with its spiralling tip. The spiral is not just for aesthetics, one can climb all the way to the top, where one is greeted with fantastic views of Copenhagen. It was a beautiful day for taking some shots of Copenhagen!
+
+::: {layout-ncol="1"}
+![Coffee and a chocolate scone (not common to find these in Copenhagen!)](photos/ch1.jpg){group="ch"}
+
+![Someone made a nice green wreath\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ch2.jpg){group="ch"}
+
+![Typical view of Christianshavn, with many houseboats moored up along the canals.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ch3.jpg){group="ch"}
+:::
+
+::: {layout-ncol="1"}
+![The said tower, with striking spiral peak. (Source: wikipedia)](photos/church.jpg){group="cht"}
+
+![View East, you can see Sweden in the distance, and the bridge connecting Denmark to Sweden.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cht1.jpg){group="cht"}
+
+![View over Christianshavn.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cht2.jpg){group="cht"}
+
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cht3.jpg){group="cht"}
+
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cht4.jpg){group="cht"}
+
+![Copenhagen views.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/cht5.jpg){group="cht"}
+:::
+
+### Berlin
+
+Matilda’s parents were in Europe, so we decided to meet up in Berlin. After a relaxing train ride from Copenhagen, we made it to the Big Pretzel. It was my first time in Berlin, and I’ve always been interesting it the city from a historical perspective. It blows my mind that the Berlin Wall -- the barrier between West Berlin (Western) and East Berlin (communist) only came down in 1989! Evidence of these two separate cities is still evidence in the architecture, with the Soviet-style still being visible in former East-Berlin.
+
+::: {layout-ncol="3"}
+![Part of the original wall still standing, which now has heaps of cool art along it.](photos/berlin_wall.jpg){group="berlin"}
+
+![Street art\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin1.jpg){group="berlin"}
+
+!["street art"\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin3.jpg){group="berlin"}
+
+![Street advice\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin4.jpg){group="berlin"}
+
+![Street beer?\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin5.jpg){group="berlin"}
+
+![Grim (in my opinion) apartments\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin6.jpg){group="berlin"}
+
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin7.jpg){group="berlin"}
+
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin8.jpg){group="berlin"}
+
+![Rainbow paint drips\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/berlin9.jpg){group="berlin"}
+
+![Also visited the Reichstag\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/reichstag1.jpg){group="berlin"}
+
+![Also visited the Reichstag\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/reichstag2.jpg){group="berlin"}
+:::
+
+I also visited the Stasi museum – housed in headquarters of the Stasi (secret police), with many rooms untouched since the fall of East Germany. It covered the history of post WW2 Germany well and had many interesting historical items. The extent of the public’s involvement in the Stasi as ‘unofficial collaborators’ is staggering (\>500,000). Surveillance has definitely changed since the rise of the internet, with the U.S. government’s [surveillance of its own citizens](https://en.wikipedia.org/wiki/PRISM) being something quite mind-blowing.
+
+::: {layout-ncol="3"}
+![Example of Soviet-style architecture\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/stasi0.jpg){group="stasi"}
+
+![Eavesdropping device planted in a door](photos/stasi1.jpg){group="stasi"}
+
+![Mini-camera meant to be hidden behind jacket button. Trigger would be in the pocket.](photos/stasi2.jpg){group="stasi"}
+
+![Camera hidden in music player](photos/stasi3.jpg){group="stasi"}
+:::
+
+A highlight was visiting the [Boros collection](https://en.wikipedia.org/wiki/Boros_Collection), a contemporary art collection housed in a WW2 bunker. The bunker [(the Reichsbahnbunker)](https://en.wikipedia.org/wiki/Bunker_(Berlin)) is unusual in that it’s above ground (Berlin is apparently on swampy terrain). After the war, it was going to be too much effort to demolish, so the bunker was used for other purposes, including the storage of fruit. After the wall fell in 1989, it turned into an underground techno club for a few years before the police blocked it off. Finally, in the early 2000’s some rich people bought it to host their private art collection. Apparently, given that the building doesn’t meet modern safety standard, a loophole was found such that if the owners built a penthouse on top of the bunker, they could offer guided tours of the artwork in their ‘basement’. We had a fantastic and knowledgeable guide (an artist himself) who walked us through this amazing structure, giving background on the history of both the building and artworks (along with interpretations). Overall, a strong recommendation for the next time you head to Berlin.
+
+Finally, it’s interesting to ponder some more on the use of the bunker. The Nazis apparently built the bunker also as a monument to the Third Reich – hoping it would last well into the future. By using it, are we acknowledging their intentions? Or by using the space for something else, are we protesting it?
+
+::: {layout-ncol="2"}
+![The bunker (source: wikipedia)](photos/Bunker_Berlin.jpg){group="boros"}
+
+![You can't take photos in the collection, but the guide let us take a photo of the staircase.](photos/boros.jpg){group="boros"}
+:::
+
+### Northwest Zealand (northern hemisphere)
+
+For the Easter weekend, we hired a summer house (doesn’t come with summer weather, unfortunately), in Northwest Zealand (Sjælland), about an hour’s drive from Copenhagen. This was the second time that I’ve been in a car since moving to Denmark – which goes to show how easy life is with a bike in Copenhagen! Overall, a relaxing weekend, and I was glad to get away from everything and have time to read and catch up with family.
+
+::: {layout-ncol="3"}
+![Lammefjord in the morning with fog\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz0.jpg){group="wz"}
+
+![Lammefjord in the evening\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz1.jpg){group="wz"}
+
+![Rural Denmark\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz2.jpg){group="wz"}
+
+![Rocks\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz3.jpg){group="wz"}
+
+![Flowers peeking through\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz4.jpg){group="wz"}
+
+![Malergården -- old house of Danish artists\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz5.jpg){group="wz"}
+
+![Danish forest -- still no leave yet!\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz6.jpg){group="wz"}
+
+![Stone structure, historic, or new?\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wz7.jpg){group="wz"}
+:::
+
+### Photo of the month
+
+Billboard in a Berlin park. Sums up Berlin pretty well! A lot happening, and I’ve never seen so many stickers in my life (plastered almost everywhere).
+
+![35mm, ISO 100, f / 1.8, 1/1600 sec\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Check out this interesting [video](https://www.youtube.com/watch?v=fEwynSRBQq0) about the world’s northern-most brewery. Even if you’re not interested in beer, the history and landscape is fascinating. For those who like craft beer, I can thoroughly recommend their other videos (I also support them on Patreon).
+
+[Gas, the new coal?](https://www.youtube.com/watch?v=K2oL4SFwkkw) Rollie Williams and team put out another fantastic video, this time on gas. I love Climate Town’s content – well-researched and engaging. If you’re looking for rigorous climate-related journalism, check their channel out.
+
+\[New Zealand Geographic\] is my favourite long-form journalism output. [Here’s a great article](https://www.nzgeo.com/stories/a-kind-of-magic/) about how environmental DNA (eDNA) is being used for biodiversity monitoring, habitat quality assessments, and invasive species detection in NZ. You can check out the [WilderLab website](https://www.wilderlab.co.nz/) to even explore how healthy streams are near you!
+
+Lastly, a very nice [article](https://journals.asm.org/doi/10.1128/mbio.01994-23) about why society journals will be part of the solution for issues in the scientific publishing industry. I detest how the parasite that is the for-profit publishing industry is harming science. I’ll be writing a post about this soon to provide context for people not in academia, so stay tuned.

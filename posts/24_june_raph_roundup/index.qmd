@@ -1,0 +1,220 @@
+---
+title: "The Raph Round-up: June 2024"
+author: "Raphael Eisenhofer"
+date: "2024-09-25"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+June feels like it flew by, and apart from celebrating our ‘Daneaversary’ (two years in Denmark) with some friends, there’s not a lot to report on. Therefore, I wanted to share a story with you of a field trip in Australia (2021) that I had the pleasure of joining in on. Enjoy! But first
+
+## Summer in Copenhagen
+
+Early June gave us our first warm summer’s day – a sunny, pleasant, 25-degree day where we made sure to get out and about for a bike ride on the local island of Amager. Construction continues in Carlsberg – though there are definitely fewer cranes around than when we arrived.
+
+::: {layout-ncol="2"}
+![Newly developed southern Amager, bordering the park.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride1.jpg){group="ride"}
+
+![Farmland on Amager.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride2.jpg){group="ride"}
+
+![Forest bordering the ocean a the southern tip of Amager\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/ride3.jpg){group="ride"}
+
+![Carlsberg City – with newly constructed towers being erected.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/carlsberg.jpg){group="ride"}
+:::
+
+## A hop, skip, and a bounce (retrospective)
+
+Ask someone living across the world what they think of when they hear ‘Australia’, and chances are they’ll say ‘kangaroo’. Australia is indeed home to an amazing biodiversity, with many animals found nowhere else on the planet. It’s no surprise then that Australia is known for its rich and ‘exotic’ animal life. Have you heard of a wallaby? If the answer is ‘yes’, you’d likely think that they are a small type of kangaroo – and you’d be right! The term ‘wallaby’ is an informal one used to refer to small or medium-sized members of the ‘Macropodidae’ – a family of Australian mammal that contains ‘Skippys’ of all sizes. From the strapping red kangaroo, clocking in at up to 85 kg (!), to the tiny mala (rufous hare-wallaby), weighing in at around 1 kg. Lesser known is the yellow-footed rock wallaby, the focus of this story.
+
+::: {layout-ncol="2"}
+![Red kangaroo, the largest living macropodid. fir0002 flagstaffotos \[CC BY-NC\], via wikipedia.org](photos/redkanga.jpg){group="roos"}
+
+![Rufous hare-wallaby (Mala). Michael Hains, some rights reserved \[CC BY-NC\], via iNaturalist.org](photos/rufous.png){group="roos"}
+:::
+
+### Into the outback
+
+It starts with an early morning; the sky is clear, and the day promises temperatures of low 20s – perfect for a long drive into the outback. A white 4WD ute (pickup truck) – with large trailer in tow – rolls down the driveway. The crew is here to pick me up: Chloe, Shannon, Lauren and Tags. ‘G’days’ are exchanged, my gear is loaded, and we’re on the road north. Our target: the spectacular Vulkathunha-Gammon Ranges National Park \~600 km north of Adelaide, home to the elusive and vulnerable yellow-footed rock wallaby (YFRW). Our mission: to check in on the local YFRW population, a part of Lauren’s PhD project.
+
+::: {layout-ncol="1"}
+![The drive. Source: Google Maps (Dutch version …)](photos/map.png){group="map"}
+:::
+
+As with many of Australia’s native mammals, the YFRW is listed as vulnerable. The YFRW was considered a common feature of the arid landscape a century ago. However, a mixture of historical hunting for its beautiful fur, overgrazing of its habitat by feral introduced herbivores (e.g. goats), pressure from invasive predators (foxes), and human land use change have seen the YFRW’s population drop. Thankfully, the [Bounceback program](https://www.environment.sa.gov.au/goodliving/posts/2022/09/yellow-footed-rock-wallaby) led by the National Parks and Wildlife Service SA and other partners has seen a steady recovery of the YFRW and its habitat. Established in 1992, this program has seen a 10-fold increase in the numbers (\~2,000) and areas occupied by YFRWs in South Australia.
+
+::: {layout-ncol="1"}
+![The yellow-footed rock wallaby.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/yfrw0.jpg)
+:::
+
+Our drive sees us passing urban/suburban Adelaide, vast agricultural fields, and takes us past [Goyder’s line](https://en.wikipedia.org/wiki/Goyder%27s_Line%22), north of which annual rainfall doesn’t support cropping. From here onwards, we’re met with stunning, rugged landscapes, and see some of the local wildlife that make a living up here.
+
+::: {layout-ncol="4"}
+![Landscape.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/road1.jpg){group="road"}
+
+![Some local emus seen on the drive up.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/road2.jpg){group="road"}
+
+![Landscape..\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/road3.jpg){group="road"}
+
+![Landscape..\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/road4.jpg){group="road"}
+:::
+
+After a long drive – the last hour and a half down rough gravel trails – we arrive at our accommodation for the week: a humble, thick-walled cottage, which I presume was built as a homestead for workers in the wool industry (yes, people farmed merino wool this far north!). It’s late afternoon: we’ve still got a few hours of daylight left, but it’s not time to relax just yet.
+
+### The traps are set
+
+As their name suggest, rock wallabies live in rocky areas that afford them a degree of safety from predators. Looking around, I’m amazed at the habitat that they call home – rugged rocky outcrops and vertigo-inducing cliff faces.
+
+::: {layout-ncol="2"}
+![The crew heading out to set the traps.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/crew1.jpg){group="crew"}
+
+![The crew.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/crewTWO.jpg){group="crew"}
+
+![Example of where the YFRWs live.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/landscape1.jpg){group="crew"}
+
+![View from one of the trap sites.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/landscapeTWO.jpg){group="crew"}
+:::
+
+How does one catch a YFRW in this environment? Traps. The only problem: we need to lug them up to where they live. While we get to work, I get the feeling that we’re being watched. While hoisting the traps up these cliffs, we occasionally hear a few rocks tumbling in the distance – likely signs of the local YFRWs hopping about.
+
+::: {layout-ncol="1"}
+![YFRW spotted on the hike up with the trap. The ease with which they traverse this rugged landscape is mind blowing.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/yfrw1.jpg)
+:::
+
+After a couple of hours of grunting and sweating, the traps are set, and we bait them with a mixture of apples and peanut butter oat balls (a trusty recipe). Sniffing, I get a strong whiff of anise. Shannon sprays some rocks around the traps with a scent that supposedly piques the YFRWs’ natural curiosity.
+
+::: {layout-ncol="2"}
+![Another view with trap in frame.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/trap2.jpg){group="trap"}
+
+![The type of trap we used.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/trap3.jpg){group="trap"}
+:::
+
+Back at camp, knackered after a long day’s drive and trap setting, we head to bed.
+
+### Up close and personal
+
+We’re up before dawn, as we need to release the YFRWs from their traps before it gets too hot. The morning is fresh, but there’s a promise of heat as the sun rises. After a quick brekky and tea, we’re back on the road towards the trapping site. While we climb to check in on the traps, we see the beautiful landscape brighten as the sun rises and hear the birds make their morning calls.
+
+::: {layout-ncol="3"}
+![Sunrise on the cliffs.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sunrise.jpg){group="day"}
+
+![Check in on a trap.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/trap4.jpg){group="day"}
+
+![Wallaby in a trap.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/trap5.jpg){group="day"}
+:::
+
+Caught wallabies are transferred to a thick cloth sack, and thrown over shoulders (they weigh \~6-12 kg) as we take them to our makeshift processing site – a foldout plastic table surrounded by some ancient fallen logs. Measurements are taken: weights, the lengths of body parts, and genetic and microbial samples (faeces and pouch swab)
+
+::: {layout-ncol="3"}
+![Juvenile wallaby about to be measured.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/science0.jpg){group="science"}
+
+![They have amazing feet – check the padding.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/science1.jpg){group="science"}
+
+![Head measurements.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/science2.jpg){group="science"}
+:::
+
+Occasionally, we’d come across an amazing sight – pouch young (joeys) developing in their mothers’ pouches. Wallabies, like most native Australian mammals, are marsupials (from Latin/Greek marsupium, meaning pouch). The pouch is a key defining trait for marsupials, which are typically born very young (after only a few weeks), and start life with an epic journey from the birth canal to the safety of the mothers pouch [see video](https://www.youtube.com/watch?v=UpsnREY-6no). Marsupials are our distant relatives, with estimates that we shared a common ancestor \~160 million years ago (when dinosaurs ruled the planet)
+
+::: {layout-ncol="1"}
+![Newly born wallaby on a teat! Macropodids have multiple teats, and the young will move to the next one at a certain stage of development.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/joey1.jpg)
+:::
+
+Measurements made and samples taken, the wallabies are brought back to where they were caught and released – putting myself in their (big) shoes, I can only imagine it being similar to abduction by aliens!
+
+### The other locals
+
+With a hard day’s work done, we went to check in on the other locals – this time, in a more familiar (and less vertically demanding) urban habitat. Arkaroola, a short 700 km north of Adelaide, is a wildlife sanctuary and cozy township. Established in 1968 by geologist Reg Sprigg, Arkaroola has become a base for intrepid travellers wishing to get a taste of the South Australian outback. This tiny town hosts a few motels and camp sites, a licenced restaurant and pub, and workshop/petrol station. With the sun setting, and enjoying a beer at the local watering hole, we bumped into Doug Sprigg – custodian, director of Arkaroola for the past 50 years, and son of the late Reg Sprigg. Doug is passionate about the local region, and a veritable font of knowledge. He’s also an avid astronomer – a great pastime up here, with Arkaroola recently becoming South Australia’s first [international dark sky sanctuary](https://darksky.org/news/arkaroola-wilderness-sanctuary-becomes-south-australias-first-international-dark-sky-sanctuary/). He happily gives us a tour of the local town – and distant galaxies, through an impressive telescope.
+
+::: {layout-ncol="2"}
+![Arkaroola.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/akaroola.jpg){group="akaroola"}
+
+![Sunset view from the local Arkaroola pub.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sunset.jpg){group="akaroola"}
+
+![Doug and the impressive telescope!\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/telescope1.jpg){group="akaroola"}
+
+![Cheeky local watching us at the telescope. [Tapeda lucida](https://en.wikipedia.org/wiki/Tapetum_lucidum) shining.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/telescope2.jpg){group="akaroola"}
+:::
+
+### Outback life
+
+The week settles into a routine: early mornings checking on traps and taking wallaby measurements, the middle of the day exploring the beautiful landscapes and wildlife of the Flinders Ranges, before setting and baiting the traps before sunset. Warm evenings spent outside enjoying the company, wine, and endless stars.
+
+::: {layout-ncol="4"}
+![There’s plenty of life in arid Australia, you just have to be patient and observant.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wildlife1.jpg){group="wildlife"}
+
+![There’s plenty of life in arid Australia, you just have to be patient and observant.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wildlife2.jpg){group="wildlife"}
+
+![There’s plenty of life in arid Australia, you just have to be patient and observant.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wildlife3.jpg){group="wildlife"}
+
+![A fallen tree – who knows when it fell. During its long lifetime, it would have helped shaped a habitat for the surrounding animals, and witnessed life flourish over the decades.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/art.jpg){group="wildlife"}
+:::
+
+::: {layout-ncol="3"}
+![Clear early evening skies.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night1.jpg){group="night"}
+
+![Absolutely amazing night skies.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night2.jpg){group="night"}
+
+![Enjoying wine, snacks, and company.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/night3.jpg){group="night"}
+:::
+
+Before I know it, our time in the Flinders comes to an end. After a few hours lugging the traps back down from the rocky landscape and cleaning them, they’re loaded back on the trailer, and we make the long journey home to Adelaide. The long trip back gives me plenty of time to contemplate the week and absorb what has been a truly amazing experience. It’s certainly opened my eyes to the sheer beauty of Australia’s rugged arid landscape, and an appreciation for the animals and plants that make it their home.
+
+::: {layout-ncol="2"}
+![Cheeky pitstop at the Quandong Cafe.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/home1.jpg){group="home"}
+
+![View on the journey back home.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/home2.jpg){group="home"}
+:::
+
+### A bounce back?
+
+What does the future hold for this wallaby species? Human-induced climate change is likely to alter their habitat, making an already tough habitat tougher. However, knowing that there are passionate people out there looking after the landscape and animals, and organisations running successful programs like Bounceback fills me with hope. I believe that it’s our collective responsibility to ensure that these remarkable landscapes and animals are preserved, and that they can be enjoyed by future generations.
+
+::: {layout-ncol="1"}
+![YFRW in its habitat.\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/yfrw2.jpg)
+:::
+
+I hope you enjoyed this retrospective story. There are a few other Australian field trips that I’ll be sharing the future. Stay tuned also for an update on what Lauren found about the YFRWs in the region during her PhD.
+
+### Photo of the month
+
+Technically not taken in June 2024! But part of the trip from the retrospective story. The person in frame climbing gives a sense of scale. You can also see a dry river down below. Every year or two there’ll be a large rain storm that sees water invigorate this arid landscape.
+
+![Tamron 11-18mm wide angle, ISO 100 (polarizing filter).\
+© 2024. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)

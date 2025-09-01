@@ -1,0 +1,123 @@
+---
+title: "The Raph Round-up: June 2025"
+author: "Raphael Eisenhofer"
+date: "2025-07-02"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+Summer is here! In this round-up I'll share photos from a hike, images from a new ultra wide lens I picked up, and little photo stop from my daily commute.
+
+### Life
+
+Picked a dandelion bloom, took it home, and watched it change:
+
+::: {layout-ncol="2"}
+![Bloom\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/life1.jpg){group="life"}
+
+![Change\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/life2.jpg){group="life"}
+
+![Spread\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/life3.jpg){group="life"}
+
+![Die\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/life4.jpg){group="life"}
+:::
+
+### Amarminoen -- a long hike
+
+Matilda suggested hiking the Amarmino – a mixture of Amager (the island just East of Copenhagen, and Camino, the long pilgrimage hike in Spain. Little did she know that 27 kilometres is a decent slog, even if the terrain is flat! Overall it was a fantastic outing, the weather was great, and it was great to get out amongst nature. It was also a good limit test – the last 10 km was pretty brutal on the feet, so in the future, conditioning/training would be needed for these distances.
+
+**Practicalities**: it's an easy-to-access hike from Copenhagen. We took a bus from Copenhagen Central Station to Dragør (\~30 minutes) to the start of the trail. The walks concludes at the DR Byen Metro station, which quickly takes you back to the city.
+
+::: {layout-ncol="3"}
+![Tunnel of trees\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager1.jpg){group="amager"}
+
+![👀\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager2.jpg){group="amager"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager3.jpg){group="amager"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager4.jpg){group="amager"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager5.jpg){group="amager"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager6.jpg){group="amager"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager7.jpg){group="amager"}
+
+![Avedøre power station in the distance\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager8.jpg){group="amager"}
+
+![There's also a \~40 bike path around Amager, which is very popular among cyclists.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager9.jpg){group="amager"}
+:::
+
+::: {layout-ncol="1"}
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/amager10.jpg){group="amager"}
+:::
+
+### (Ultra) w i d e angle
+
+I just picked up another Z-mount lens, the Nikon Z 14-30mm f/4 S. This covers the ultra wide angle focal range – which is pretty fun to play around with! With tilting, it can enlarge foregrounds relative to mid/backgrounds (see the first, and the last three images for examples). What better way to test it out than some Copenhagen architecture:
+
+::: {layout-ncol="3"}
+![Along the canal in Copenhagen\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide1.jpg){group="wide"}
+
+![The famous Kaktus Towers\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide2.jpg){group="wide"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide3.jpg){group="wide"}
+:::
+
+::: {layout-ncol="2"}
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide4.jpg){group="wide"}
+
+![Note the relative size of the daisies to the tower\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide5.jpg){group="wide"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide6.jpg){group="wide"}
+
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wide7.jpg){group="wide"}
+:::
+
+### Bike path photo pit stop 
+
+I'm lucky that part of my commute is along Den Grønne Sti (the green way), a pleasant cycle route through part of Copenhagen. On the way home one day, I decided to make a pit stop to take a few photos. I've no idea what the story behind these towers are:
+
+::: {layout-ncol="2"}
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/bikepath1.jpg){group="bike"}
+
+![This one is a long exposure – you can see the blurs of the passing bikes.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/bikepath2.jpg){group="bike"}
+:::
+
+::: {layout-ncol="1"}
+![Untitled\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/bikepath3.jpg){group="bike"}
+:::
+
+It's always good to take a moment and appreciate the things you have close to home.
+
+### Photo of the month
+
+Taken on Bryggebroen, a bridge between Amager and Copenhagen, a pedestrian/bike-only bridge. To me, this photo illustrates ones of the best features of living in Copenhagen – the widespread support of cycling infrastructure, and the corresponding uptake in cycling by residents. I'm also very jealous that some kids grow up getting to ride on cargo bikes!
+
+![The best way to get around\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
