@@ -1,0 +1,184 @@
+---
+title: "The Raph Round-up: September 2025"
+author: "Raphael Eisenhofer"
+date: "2025-10-10"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+This month I'm sharing some photos from a recent trip via trains and ferries to Estonia and Finland. I had never been to a Baltic state (nor Finland) before, and the idea actually stemmed from listening to a Radio NZ [The Detail podcast](https://www.rnz.co.nz/podcast/the-detail/2025/regaining-trust-in-a-world-of-disinformation), which was a brief history of Estonia, and why it's leading the world in the fight against disinformation.
+
+I can't recommend both Finland and Estonia enough, and I hope you enjoy some of the photos that I took during the trip.
+
+### Tallinn, Estonia
+
+Estonia has a [long history](https://en.wikipedia.org/wiki/Estonia#History) of foreign invasion and interference, from Viking and Christians to Baltic Germans, Swedes, and Russians (the Danes even got involved – Tallinn was the capital of '[Danish Estonia](https://en.wikipedia.org/wiki/Duchy_of_Estonia_(1219%E2%80%931346))' in the 13/14^th^ century). In the 20^th^ century alone, Estonia was occupied multiple times. Estonia declared its independence in 1918 after the fall of the Russian Empire, but this was not to last, with the Germans invading the same year during WW1. In the same year following German surrender in WW1, the Russians came back to occupy as the newly formed Soviets. WW2 saw a similar story, with Estonia ping-ponging between the Soviets and Nazi Germany, before ending up as part of the Soviet Union.
+
+With the decay of the Soviet Union in the late 80s, the independence movement for Estonia (and the other Baltic states: Lithuania and Latvia) was building. An amazing example of this is the [Baltic Way](https://en.wikipedia.org/wiki/Baltic_Way), where an estimated 2 million Estonians, Lithuanians, and Latvians held hands to form a contiguous line nearly 700 km long along the Baltic states in peaceful protest. In 1991, independence for Estonia was finally restored. This is an amazing story (and I'm merely summarising here), and I have the utmost respect for the resilience of Estonians who have held onto their language and culture through these times.
+
+Cognisant of their turbulent history, and sharing a border with Russia, Estonians remain vigilant, and rightfully so. Russia is employing disinformation to destabilise its neighbours (and many other countries beyond its borders).
+
+If you're ever in Tallinn and want to know more about this topic, I recommend a visit to the [Vabamu Museum of Occupations and Freedom](https://vabamu.ee/en/about-us/).
+
+::: {layout-ncol="1"}
+![Foggy morning on the ferry to Tallinn.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin1.jpg){group="talin"}
+:::
+
+::: {layout-ncol="2"}
+![Cathedral in Tallinn old town. \
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin2.jpg){group="talin"}
+
+![Old and new.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin3.jpg){group="talin"}
+:::
+
+::: {layout-ncol="4"}
+![Scale.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin4.jpg){group="talin"}
+
+![Layers.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin5.jpg){group="talin"}
+
+![Kadriorg park, near the national art gallery KUMU. \
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin6.jpg){group="talin"}
+
+![Toompea Castle with the national flag.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/talin7.jpg){group="talin"}
+:::
+
+### Lahemaa National Park
+
+Estonia also has some amazing nature, with [over half of its land](https://www.euronews.com/green/2023/11/04/finland-ireland-france-which-european-countries-have-the-most-and-least-forests) covered in forest. To explore this, we took a [cozy tour](https://www.traveller.ee/tour/lahemaa-national-park-day-trip) with a local guide. It was an amazing experience, and I can't thank Astra enough for sharing her stories, experience, and knowledge of Estonian nature, culture, and history with us. A highlight for me was Viru Bog, with its sharp greens and interesting ecology. The only trees that can survive here are pines, and the severe lack of nitrogen and low pH in the environment is evident with their bright green needles ([chlorosis](https://en.wikipedia.org/wiki/Chlorosis)).
+
+::: {layout-ncol="3"}
+![Jägala waterfall. The interesting colour of the water stems from the source (the many bogs in Estonia).\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe1.jpg){group="lahe"}
+
+![Viru Bog.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe2.jpg){group="lahe"}
+
+![Fungi doing their part.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe3.jpg){group="lahe"}
+:::
+
+::: {layout-ncol="3"}
+![Critters of the bog 1.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe4.jpg){group="lahe"}
+
+![Critters of the bog 2.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe5.jpg){group="lahe"}
+
+![Iridescence.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/lahe6.jpg){group="lahe"}
+:::
+
+### The land of Moomins 👀
+
+A brief \~2-hour ferry later, we arrived in Helsinki, Finland – or, if you prefer, home of the beloved Moomin characters and stories (author [Tove Jansson](https://en.wikipedia.org/wiki/Tove_Jansson) was a Swedish-speaking Finn). We had a lot of rain on the trip, but thoroughly enjoyed Helsinki. The infrastructure (and saunas) were excellent, and the city felt very calm and quiet for being the capital of Finland (I noticed that car speed limits were very low, which could help explain this).
+
+::: {layout-ncol="1"}
+![Eyes. Of course we immediately spotted a Moomin in the window of a Helsinki building..\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/hel1.jpg){group="hel"}
+:::
+
+::: {layout-ncol="3"}
+![Motion and reflection.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/hel2.jpg){group="hel"}
+
+![Rainbow at Helsinki Design Week. \
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/hel3.jpg){group="hel"}
+
+![Helsinki Art Museum. \
+© 2025. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/hel4.jpg){group="hel"}
+:::
+
+### Nuuksio National Park (with a Finnish Friend)
+
+A real highlight of the trip for me was getting out into nature at Nuuksio National Park, which is only \~45 minutes outside of Helsinki. We had a whole day in the forest with a local guide, Mikko, who picked us up from the city, and had all the equipment we needed (boots, waterproof clothing). Throughout the day Mikko shared his knowledge about the local nature and Finnish culture, and cooked lunch over a fire for us. If you're ever in Helsinki, I can't recommend Mikko enough. You can check out his website here: [Finnish Friend](https://finnishfriend.com/).
+
+::: {layout-ncol="4"}
+![Reflections 1.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk1.jpg){group="nuk"}
+
+![Reflections 2.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk2.jpg){group="nuk"}
+
+![Reflections 3.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk3.jpg){group="nuk"}
+
+![Reflections 4.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk4.jpg){group="nuk"}
+:::
+
+::: {layout-ncol="1"}
+![Intentional Camera Movement (ICM).\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk5.jpg){group="nuk"}
+:::
+
+::: {layout-ncol="4"}
+![Moss galore.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk6.jpg){group="nuk"}
+
+![Foraging.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk7.jpg){group="nuk"}
+
+![Forest scripture.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk8.jpg){group="nuk"}
+
+![Ripples.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk9.jpg){group="nuk"}
+:::
+
+Being early autumn, there were mushrooms everywhere! I recorded at least 20 different species. Some were also enjoyed cooked on the fire for lunch (funnel chanterelles), avoiding the aptly named Destroying Angels. Not being a mushroom enjoyer, Matilda preferred collecting the blueberries and lingonberries. We also got to taste fresh juniper berries, normally used to flavour gin!
+
+::: {layout-ncol="1"}
+![Hidden fungi.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk10.jpg){group="nuk"}
+:::
+
+::: {layout-ncol="5"}
+![Merlot.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk11.jpg){group="nuk"}
+
+![Magic.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk12.jpg){group="nuk"}
+
+![Blueberry marshmallow (just kidding).\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk13.jpg){group="nuk"}
+
+![Tiny, but mighty.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk14.jpg){group="nuk"}
+
+![Garden ground beetle (*Carabus hortensis*). If you zoom in, you can see what appears to be parasites (red mites?) at the base of the wings.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/nuk15.jpg){group="nuk"}
+:::
+
+::: {layout-ncol="1"}
+![Farewell Finland.\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/boat1.jpg){group="boat"}
+:::
+
+### A series of moments
+
+As a supplement to the photos, I also put together a short video of the trip. The idea was to collect a series of moments from each day of the trip. Each clip is 5 seconds in duration, and no context is given, so just enjoy the series of shots.
+
+{{< video https://vimeo.com/1124966480?share=copy >}}
+
+### Photo of the month
+
+This one was captured in Viru Bog, Estonia. Life in the bog is harsh, and I wonder what this tree went through during its life..
+
+![Twisted\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+A photo story that I made was [featured on Photography Life](https://photographylife.com/photo-stories-through-the-lenses-of-our-readers). It's about a trip to study Yellow-Footed Rock Wallabies in South Australia that I had the pleasure of being a part of back in 2021.
+
+I really enjoyed [this video](https://www.youtube.com/watch?v=RP8Oxe6OxJc) by More Perfect Union, where Bernie Sanders took a trip to West Virginia to hear from people and their issues. Historically, the state has been a Democrat stronghold until the recent election, when it swung to the Orange Boy. It's nice to see that when people take the time to listen to each other (rather than flinging feaces over social media), understanding can be reached.
+
+Excellent [deep dive](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) into the electricity (and water) use of 'AI'. It's worrying, and important for people to be aware of the cost of these tools. If you want to read my thoughts on 'AI', you can find my [statement on AI use here](https://eisen-raph.com/ai_statement.html). See also Kurzgesagt's [great recent video](https://www.youtube.com/watch?v=_zfN9wnPvU0) on the topic! I think I'll have to do a deeper dive into the 'Dead Internet Theory' soon...
+
+Absolute [BANGER of a video](https://www.youtube.com/watch?v=KLYMjPNppRQ) by Climate Town. This time on the Great Grass Conspiracy. Did you know that grass lawns are bad for many reasons, and that there's a huge industry that benefits from it? Did you know that in some jurisdictions, it's illegal to NOT have a grass lawn on your property? This really opened my eyes to the problem, and made me think more about societal norms.
