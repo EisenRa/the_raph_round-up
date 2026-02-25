@@ -1,0 +1,149 @@
+---
+title: "The Raph Round-up: January 2026"
+author: "Raphael Eisenhofer"
+date: "2026-02-25"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+This post marks the third year of posting the Raph Round-up! I'm glad to be sticking to these monthly posts, and I hope that you enjoy them as much as I enjoy making them.
+
+I know we're well into February, but the reason this January edition is late is that we just came back from a big trip to the southern hemisphere (NZ/Aus). I've got a big backlog of photos that I'm slowly getting through from this trip, which will be coming in the Feb edition. Until then, I thought I'd share some photos from January in a snowy Copenhagen and tropical Singapore.
+
+### A cold winter in Copenhagen
+
+Turns out that it was the coldest January in Denmark for 16 years![^1] I've asked some locals, and they recall much cooler (and snowier) winters when they were growing up – a reminder that we're living through global warming. You may recall that I [remarked (and tested)](https://eisen-raph.com/posts/25_feb_raph_roundup/) that January of last year (2025) felt much warmer than 2024.
+
+[^1]: <https://danishnews.cphpost.dk/article/unusual-january-was-the-coldest-in-16-years>
+
+While we left for the Southern Hemisphere in January, I still had a couple of wonderful, snow-filled weeks to get out with the camera.
+
+::: {layout-ncol="3"}
+![Sunrise.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow1.jpg){group="snow"}
+
+![Dusted.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow2.jpg){group="snow"}
+
+![Wonderland.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow3.jpg){group="snow"}
+:::
+
+::: {layout-ncol="3"}
+![Tree snake.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow4.jpg){group="snow"}
+
+![Eurasian treecreeper – they climb up trees looking for insects.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow5.jpg){group="snow"}
+
+![Winter walk.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/snow6.jpg){group="snow"}
+:::
+
+### Snowglobes
+
+I've been really enjoying the 6mm circular fisheye lens lately – here's a winter special:
+
+::: {layout-ncol="2"}
+![Yggdrasil.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/globe1.jpg){group="globes"}
+
+![Snowglobe.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/globe2.jpg){group="globes"}
+:::
+
+::: {layout-ncol="1"}
+![Sunset halo.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/globe3.jpg){group="globes"}
+:::
+
+::: {layout-ncol="2"}
+![Sunset #1\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/globe4.jpg){group="globes"}
+
+![Sunset #2\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/globe5.jpg){group="globes"}
+:::
+
+### Singapore
+
+We stopped in sunny Singapore for a few days on our way to NZ, principally to attend a family wedding. Having only transited through Singapore airport, I was curious to see what this island was like.
+
+The humid, 30°C weather was much welcomed – and I'm pretty sure all the time in the sauna has made me appreciate humid climates more. While it is a small (\~700 square km), yet populous (\~6 million) island, there is more green than your average city. While this greenery doesn't feel 'natural' per se, it has a positive effect on the urban environment.
+
+The diversity of food was amazing – countless independent food markets and stalls, serving a variety (and fusion) of Chinese, Malaysian, and Indian foods. Public transit was also excellent, with an efficient underground metro servicing most of the island.
+
+While purportedly a democracy, Singapore has been governed by a single party (the People's Action Party) since gaining independence in 1965. Some consider this political situation to be "Soft Authoritarianism"[^2]. Some \~40% of residents are not Singaporean citizens[^3], with the majority performing lower-paid work, and the minority "foreign talent" enjoying high pay with generous tax incentives. I feltl that there were a small number of people in Singapore who have A LOT of money, and while the country boasts a high GDP, one gets the sense that this 'wealth' is not so evenly shared.
+
+[^2]: <https://www.scribd.com/document/952691894/Marcoverweij-2009-Singapore-does-Authoritarianism-Pay>
+
+[^3]: <https://en.wikipedia.org/wiki/Singapore#Demographics>
+
+::: {layout-ncol="4"}
+![Queues.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing0.jpg){group="singapore"}
+
+![Engulfment.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing1.jpg){group="singapore"}
+
+![Sanctuary.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing2.jpg){group="singapore"}
+
+![Buttress.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing3.jpg){group="singapore"}
+:::
+
+::: {layout-ncol="1"}
+![Forest giant.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing4.jpg){group="singapore"}
+:::
+
+::: {layout-ncol="3"}
+![Forest gold.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing5.jpg){group="singapore"}
+
+![*Callosciurus notatus*.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing6.jpg){group="singapore"}
+
+![Javan myna (*Acridotheres javanicus*).\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing7.jpg){group="singapore"}
+:::
+
+::: {layout-ncol="1"}
+![Butterfly.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/sing8.jpg){group="singapore"}
+:::
+
+ArtScience museum, Singapore:
+
+::: {layout-ncol="4"}
+![Space walk?\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/exh1.jpg){group="exh"}
+
+![Untitled.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/exh2.jpg){group="exh"}
+
+![Warp #1\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/exh3.jpg){group="exh"}
+
+![Warp #2\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/exh4.jpg){group="exh"}
+:::
+
+### Photo of the month
+
+Visually: Closed and fairly balanced composition, contrast between cold and warm, and a person providing a sense of scale.
+
+Symbolically: I'd love to hear your interpretation.
+
+![Another brick in the wall.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+[Truth](https://www.youtube.com/watch?v=FyStPztM7eo)?
+
+[Trees. Are. Amazing](https://www.youtube.com/watch?v=pHJIhxZEoxg). I've always had a soft spot for trees after studying plants in university, and this video does a great job of communicating the complexity and splendour of how trees work.
+
+What does gig work, colonialism, and Large Language Models (LLMs) have in common? Excellent pieces ([1](https://privacyinternational.org/explainer/5357/humans-ai-loop-data-labelers-behind-some-most-powerful-llms-training-datasets)) ([2](https://www.technologyreview.com/2022/04/20/1050392/ai-industry-appen-scale-data-labels/)) about how workers from the Global South are exploited by US-led Big Tech for an essential part of LLM training (data labelling).
