@@ -1,0 +1,93 @@
+---
+title: "The Raph Round-up: March 2026"
+author: "Raphael Eisenhofer"
+date: "2026-04-03"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+March heralds the start of spring here – and is the theme of this month's round-up. Having passed the equinox, more light is returning to the landscape, and opening up more photographic opportunities.
+
+::: {layout-ncol="1"}
+![Untitled\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/spring.jpg){group="spring"}
+:::
+
+### Fleeting spring ephemerals
+
+When the light returns and the trees don't yet have their leaves, the spring ephemerals arrive. Using energy stored in bulbs from the previous spring, they are the first to arrive and take advantage of the light that hits the ground.
+
+::: {layout-ncol="3"}
+![Snowdrop (*Galanthus* - etymology = 'milk flower') on a misty day.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom1.jpg){group="blom"}
+
+![Snowdrop open for business.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom2.jpg){group="blom"}
+
+![Spring snowflake.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom3.jpg){group="blom"}
+:::
+
+::: {layout-ncol="1"}
+![Crocus.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom4.jpg){group="blom"}
+:::
+
+::: {layout-ncol="3"}
+![Winter aconite (Eranthus - etymology = 'spring flower').\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](#0)](photos/blom5.jpg){group="blom"}
+
+![Touch the sun.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom6.jpg){group="blom"}
+
+![Yellow star-of-Bethlehem (*Gagea lutea*).\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/blom7.jpg){group="blom"}
+:::
+
+### Honey to the bee
+
+By being the first to flower, spring ephemerals also offer bees the opportunity to start foraging – and in return, help spread pollen.
+
+::: {layout-ncol="2"}
+![Hocus crocus.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey1.jpg){group="honey"}
+
+![Bumble.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey2.jpg){group="honey"}
+:::
+
+::: {layout-ncol="2"}
+![Landing #1\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey3.jpg){group="honey"}
+
+![Landing #2\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey4.jpg){group="honey"}
+:::
+
+::: {layout-ncol="1"}
+![Bejewelled.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey5.jpg){group="honey"}
+:::
+
+::: {layout-ncol="1"}
+![Small spring world.\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/honey6.jpg){group="honey"}
+:::
+
+### Photo of the month
+
+A general rule in macro photography is to have your subject sharp and in focus. However, breaking photographic rules can sometimes lead to successful images. In this case, the bumblebee being out of focus add depth to the image and gives the sense that the bee has somewhere else to be. The softness also creates a dreamy feel, and the lack of sharp textures gives more focus to the vibrant colours.
+
+![Honey to the bee. 105mm, f/3.5, 1/1000s, ISO 400\
+© 2026. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+[CEO Asks ChatGPT How to Void \$250 Million Contract, Ignores His Lawyers, Loses Terribly in Court](https://www.404media.co/ceo-ignores-lawyers-asks-chatgpt-how-to-void-250-million-contract-loses-terribly-in-court/). Amazing.
+
+[Cool long form story about dung beetles!](https://www.nzgeo.com/stories/pushing-it-uphill/?utm_source=newsletter&utm_medium=email&utm_term=https%3A%2F%2Fwww.nzgeo.com%2Fstories%2Fpushing-it-uphill%2F&utm_content&utm_campaign=The%20Weekender%20March%2020%2C%202026)
+
+[Social media use linked to decreased happiness in young NZers and Aussies](https://www.scimex.org/newsfeed/social-media-use-linked-to-decreased-happiness-in-young-nzers-and-aussies).
+
+[Is it time to use the F-word when we talk about the U.S.A](https://www.youtube.com/watch?v=DDf25rNyT1A&t=3s)?
