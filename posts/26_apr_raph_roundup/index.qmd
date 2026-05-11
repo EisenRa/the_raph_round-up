@@ -1,0 +1,165 @@
+---
+title: "The Raph Round-up: April 2026"
+author: "Raphael Eisenhofer"
+date: "2026-05-11"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+I love April in Denmark. The spring ephemerals give way to trees, with fresh leaves giving the landscape a vibrancy. It was a great month for photography, and it took me quite a while to cull and process all the photos taken this month.
+
+### Spring wildlife 1 (deer)
+
+I also recently acquired a 600mm lens (the Nikon 600mm f/6.3 PF). I've always loved wildlife photography, so it's great to have some glass that can use for it. It's also quite light for its focal length, at only 1.5 kg! I went to the local deer park to try it out:
+
+::: {layout-ncol="2"}
+![Deer 1\
+© 2026.](photos/deer1.jpg){group="deer"}
+
+![Deer kiss. \
+© 2026.](photos/deer2.jpg){group="deer"}
+:::
+
+::: {layout-ncol="1"}
+![The rare three-headed deer.\
+© 2026.](photos/deer3.jpg){group="deer"}
+:::
+
+::: {layout-ncol="3"}
+![Deer 2\
+© 2026.](photos/deer4.jpg){group="deer"}
+
+![Western roe deer.\
+© 2026.](photos/deer5.jpg){group="deer"}
+
+![Herd.\
+© 2026.](photos/deer6.jpg){group="deer"}
+:::
+
+### Spring wildlife 2 (birds)
+
+With the trees waking -- and insect numbers increasing, bird activity also rises in April:
+
+::: {layout-ncol="1"}
+![Goldcrest (*regulus regulus*)\
+© 2026.](photos/bird1.jpg){group="bird"}
+:::
+
+::: {layout-ncol="2"}
+![Great spotted woodpecker peeking.\
+© 2026.](photos/bird3.jpg){group="bird"}
+
+![Common chaffinch.\
+© 2026.](photos/bird2.jpg){group="bird"}
+:::
+
+::: {layout-ncol="2"}
+![Eurasian treecreeper.\
+© 2026.](photos/bird5.jpg){group="bird"}
+
+![Great spotted woodpecker.\
+© 2026.](photos/bird4.jpg){group="bird"}
+:::
+
+::: {layout-ncol="2"}
+![Eurasian jackdaw.\
+© 2026.](photos/bird6.jpg){group="bird"}
+
+![Eurasian blue tit.\
+© 2026.](photos/bird7.jpg){group="bird"}
+:::
+
+### Fresh spring leaves
+
+For about a week or two, there is a real vibrancy to fresh tree leaves. Most people rave about autumn leaves, but I really love spring leaves -- especially when backlit by the sun.
+
+::: {layout-ncol="3"}
+![Leaves out, dogs out.\
+© 2026.](photos/leaves1.jpg){group="leaves"}
+
+![Silhouette.\
+© 2026.](photos/leaves2.jpg){group="leaves"}
+
+![Vibrant spring leaves 1.\
+© 2026.](photos/leaves3.jpg){group="leaves"}
+:::
+
+::: {layout-ncol="1"}
+![Vibrant spring leaves 2.\
+© 2026.](photos/leaves4.jpg){group="leaves"}
+
+![Vibrant birch.\
+© 2026.](photos/leaves5.jpg){group="leaves"}
+:::
+
+::: {layout-ncol="3"}
+![Vibrant park.\
+© 2026.](photos/leaves6.jpg){group="leaves"}
+
+![Three gnarly trees.\
+© 2026.](photos/leaves7.jpg){group="leaves"}
+
+![Fresh leaves.\
+© 2026.](photos/leaves8.jpg){group="leaves"}
+:::
+
+### Local architecture
+
+With longer and brighter evenings, I've also enjoyed getting out and taking photos of the local architecture.
+
+::: {layout-ncol="3"}
+![Siloen, Islandsbrygge.\
+© 2026.](photos/architecture1.jpg){group="architecture"}
+
+![Siloen, from the inside 1.\
+© 2026.](photos/architecture2.jpg){group="architecture"}
+
+![Siloen, from the inside 2.\
+© 2026.](photos/architecture3.jpg){group="architecture"}
+:::
+
+::: {layout-ncol="5"}
+![Sunset cacti 1.\
+© 2026.](photos/architecture4.jpg){group="architecture"}
+
+![Sunset cacti 2.\
+© 2026.](photos/architecture5.jpg){group="architecture"}
+
+![Sunset cacti 3.\
+© 2026.](photos/architecture6.jpg){group="architecture"}
+
+![Sunset cacti 4.\
+© 2026.](photos/architecture7.jpg){group="architecture"}
+
+![Sunset cacti 5.\
+© 2026.](photos/architecture8.jpg){group="architecture"}
+:::
+
+::: {layout-ncol="1"}
+![Eyes.\
+© 2026.](photos/architecture9.jpg){group="architechture"}
+:::
+
+### Photo of the month
+
+In the local park. I love the vibrancy of the fresh birch leaves, and the geometry of the brick walls.
+
+![Fresh birch leaves.\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Absolutely excellent resource about 'AI': [Modern-day Oracles or Bullshit machines](https://thebullshitmachines.com/index.html)? Can't recommend this enough.
+
+Couple of great posts by Cory: [(1)](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/) & [(2)](https://pluralistic.net/2026/04/12/always-great/).
+
+[Great article](https://smallthingsconsidered.blog/schaechter/2026/04/nitrogen-obsession/) about nitrogen, and how biology figured out how to get it from the air. Also an [excellent journal article](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14159#mbt214159-bib-0075) about nitrogen.
+
+[Right to repair is important](https://www.youtube.com/watch?v=NG-lLt5X3Rs)
+
+[Video about AI slop](https://www.youtube.com/watch?v=xcq5XYkFJfY). Great [write-up](https://www.bloodinthemachine.com/p/why-the-ai-backlash-has-turned-violent) by Brian about AI-backlash.
+
+[Factory farming](https://www.youtube.com/watch?v=9BYaVCc76bk) 👀. Also [related article](https://ourworldindata.org/most-people-care-about-farm-animals-our-food-system-doesnt-reflect-that?utm_source=OWID+Newsletter&utm_campaign=c98863ad47-owid-brief-2026-04-24&utm_medium=email&utm_term=0_-0c7f305164-537179702) about people's perception of how we treat animals vs. the food system that we have in place. [Research](https://www.scimex.org/newsfeed/top-meat-and-dairy-companies-greenwash-their-image-scientists-find) shows that dairy and meat companies greenwash – surprise surprise.
+
+If you need some catharsis – [one of my favourite RATM songs](https://www.youtube.com/watch?v=kl4wkIPiTcY) - lyrics are 🔥.
