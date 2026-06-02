@@ -1,0 +1,161 @@
+---
+title: "The Raph Round-up: May 2026"
+author: "Raphael Eisenhofer"
+date: "2026-06-02"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+As the weather warmed, leaves started to fill out the canopies. We had some great weather this May (as is usual for Denmark), and I managed to get out and enjoy the latter part of spring.
+
+### Fresh spring leaves vol. 2
+
+::: {layout-ncol="1"}
+![Untitled 1\
+© 2026.](photos/leaves1.jpg){group="leaves"}
+:::
+
+::: {layout-ncol="1"}
+![Untitled 2\
+© 2026.](photos/leaves2.jpg){group="leaves"}
+:::
+
+::: {layout-ncol="2"}
+![Late bloomers\
+© 2026.](photos/leaves3.jpg){group="leaves"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/leaves4.jpg){group="leaves"}
+
+![The last of the ephemerals #2\
+© 2026.](photos/leaves5.jpg){group="leaves"}
+
+![The last of the ephemerals #3\
+© 2026.](photos/leaves6.jpg){group="leaves"}
+:::
+
+::: {layout-ncol="1"}
+![Fresh oak\
+© 2026.](photos/leaves7.jpg){group="leaves"}
+:::
+
+### A (very) old oak
+
+At one of the entrances to the park Dyrehaven, lies [Skovfogedegen](https://da.wikipedia.org/wiki/Skovfogedegen#) (roughly translates to The Foresters Oak, as some bloke apparently used the inside as a prayer chamber). The Wikipedia page states that the tree is roughly 800 years old! (though the reference used in the article doesn't really have much in the way of proof for this number). Regardless, I was glad to visit this beautiful giant, who was just getting ready for another year around the sun.
+
+I also makes one ponder the life of such a long lived tree – what has it seen and felt in its life time? Our lives register as relatively short blips in comparison to this tree that has been around for centuries. My visit also made me appreciate how important these trees are as ecosystems unto themselves: I saw flowers, birds, and many insects using this mighty tree as a home – and presumably a lot more is happening underground where we can't see...
+
+::: {layout-ncol="2"}
+![The mighty Skovfogedegen (with person for scale).\
+© 2026.](photos/oak1.jpg){group="oak"}
+
+![A dandelion sheltered.\
+© 2026.](photos/oak2.jpg){group="oak"}
+:::
+
+::: {layout-ncol="1"}
+![A bee using the sheltered dandelion\
+© 2026.](photos/oak3.jpg){group="oak"}
+:::
+
+::: {layout-ncol="1"}
+![The inside is quite spacious..\
+© 2026.](photos/oak4.jpg){group="oak"}
+:::
+
+::: {layout-ncol="1"}
+![..and home to more life!\
+© 2026.](photos/oak5.jpg){group="oak"}
+:::
+
+### Trees, I bloody love em
+
+Here are photos of some of my favourite trees that I found in May.
+
+::: {layout-ncol="1"}
+![Spring pilgrimage. A wide aperture (*f* 2/8) helps to blur out the foreground and give more focus on the subject.\
+© 2026.](photos/trees1.jpg){group="trees"}
+:::
+
+::: {layout-ncol="2"}
+![Pointing. \
+© 2026.](photos/trees2.jpg){group="trees"}
+
+![Survivor.\
+© 2026.](photos/trees3.jpg){group="trees"}
+:::
+
+::: {layout-ncol="1"}
+![The hound. \
+© 2026.](photos/trees4.jpg){group="trees"}
+:::
+
+::: {layout-ncol="1"}
+![Wave #1.\
+© 2026.](photos/trees5.jpg){group="trees"}
+:::
+
+::: {layout-ncol="3"}
+![Wave #2.\
+© 2026.](photos/trees6.jpg){group="trees"}
+
+![Sanctuary.\
+© 2026.](photos/trees7.jpg){group="trees"}
+
+![Snail.\
+© 2026.](photos/trees8.jpg){group="trees"}
+:::
+
+### (Dyr)ehaven
+
+Animal activity has also increased with the warmer weather:
+
+::: {layout-ncol="2"}
+![Conflict. I don't envy the spider. \
+© 2026.](photos/dyre1.jpg){group="dyre"}
+
+![Herds.\
+© 2026.](photos/dyre2.jpg){group="dyre"}
+:::
+
+::: {layout-ncol="3"}
+![A good shake. (If you zoom in you can see him shaking off some hair)\
+© 2026.](photos/dyre3.jpg){group="dyre"}
+
+![Spirit of the forest.\
+© 2026.](photos/dyre4.jpg){group="dyre"}
+
+![Wagtail fishing.\
+© 2026.](photos/dyre5.jpg){group="dyre"}
+:::
+
+::: {layout-ncol="1"}
+![Burden.\
+© 2026.](photos/dyre6.jpg){group="dyre"}
+:::
+
+### Photo of the month
+
+Had great conditions for shooting into the direction of the sun, which gives a nice silhouette feel. I really like the shapes and composition of this one. Also a cool example of doing something that's not wildlife with the 600mm lens.
+
+![The bridge.\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+[Great bit of cyber-sec research](https://www.youtube.com/watch?v=lA8WuXDXfcI)!
+
+[Essay](https://www.forkingpaths.co/p/why-dont-politicians-have-a-vision?utm_source=post-email-title&publication_id=1184530&post_id=196948786&utm_campaign=email-post-title&isFreemail=true&r=62kytv&triedRedirect=true&utm_medium=email).
+
+[How Final Fantasy VII radicalized a generation of climate warriors](https://arstechnica.com/gaming/2021/07/how-final-fantasy-vii-radicalized-a-generation-of-climate-warriors/). Nice piece about how video games have the power to influence. I remember playing this back in the day on the old Playstation 1!
+
+[Documentary](https://www.youtube.com/watch?v=ZfaFriFAz1k) about economic democracy, very thought provoking and well worth your time. If you're after something shorter, check out a [more recent video on the topic here](https://www.youtube.com/watch?v=rSc6OqSPq2E).
+
+We saw [this film](https://www.youtube.com/watch?v=6vsdo_le3z4) as part of a fundraiser at a local cinema. Follows two friends' journey sailing around Tasmania. The wildlife and nature footage is really inspiring, as well as some of the interviews with locals.
+
+[Cool example](https://www.gamedeveloper.com/design/how-i-used-eve-online-to-predict-the-great-recession) of how virtual economies can teach us about 'real' economies. Note that the solution in this example was a [Georgist](https://en.wikipedia.org/wiki/Georgism) approach (land value tax).
+
+[Great news](https://www.youtube.com/watch?v=DrFc0LW0nL0) that Europe is finally challenging U.S. tech hegemony: [Euro-Office](https://office.eu/) – an alternative for Microsoft Office.
+
+I sincerely hope you're not chatting with chat bots, but just in case you are, be aware that your conversations with them [can be used in court as evidence](https://www.theguardian.com/commentisfree/2026/may/13/beware-what-you-tell-your-ai-chatbot-its-not-a-shrink-its-a-snitch?link_id=10&can_id=f63808f9357e00c4bbe4b45a5f31ccff&source=email-your-tech-policy-round-up-from-drw-42&email_referrer=email_3250450&email_subject=your-tech-policy-round-up-from-drw&&). Obviously these companies are also collecting massive amounts of data through these chat bots, so please be careful.
