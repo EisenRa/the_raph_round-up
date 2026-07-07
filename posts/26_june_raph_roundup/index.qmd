@@ -7,123 +7,145 @@ image: "photos/fotm_thumbnail.jpg"
 lightbox: true
 ---
 
-..
+Summer in Denmark means long days, big clouds, and an increase in insect activity. It's been a busy month for me in June, so I didn't have many opportunities to get out with the camera. Regardless, I hope you enjoy some of my favourite shots from the month.
 
-### Forest frolic
+### Forest frolic (Harskov)
 
 ::: {layout-ncol="1"}
-![Untitled 1\
+![Forest sentinel\
 © 2026.](photos/har1.jpg){group="forest"}
 :::
 
 ::: {layout-ncol="2"}
-![Late bloomers\
+![Forest floor (moss sporophytes)\
 © 2026.](photos/har2.jpg){group="forest"}
 
-![The last of the ephemerals #1\
+![Untitled\
 © 2026.](photos/har3.jpg){group="forest"}
 :::
 
 ::: {layout-ncol="3"}
-![Late bloomers\
+![Pollen purveyor #1\
 © 2026.](photos/har4.jpg){group="forest"}
 
-![The last of the ephemerals #1\
+![Leaf hugger\
 © 2026.](photos/har5.jpg){group="forest"}
 
-![The last of the ephemerals #1\
+![Pollen purveyor #2\
 © 2026.](photos/har6.jpg){group="forest"}
 :::
 
 ::: {layout-ncol="2"}
-![Late bloomers\
+![Call of the frog\
 © 2026.](photos/har7.jpg){group="forest"}
 
-![The last of the ephemerals #1\
+![Frog world\
 © 2026.](photos/har8.jpg){group="forest"}
 :::
 
 ### Worlds up high
 
-..
+I love the summer clouds in Denmark. We get some pretty impressive cumulus and cumulonimbus clouds here when the weather heats up. The long reach provided by the 600mm lens offers some nice perspectives, and when using it, I've noticed that there are actually quite a few birds flying around out there!
 
 ::: {layout-ncol="3"}
-![Late bloomers\
+![Flying high #1\
 © 2026.](photos/cloud1.jpg){group="cloud"}
 
-![The last of the ephemerals #1\
+![Cumulo\
 © 2026.](photos/cloud2.jpg){group="cloud"}
 
-![The last of the ephemerals #1\
+![Dessert\
 © 2026.](photos/cloud3.jpg){group="cloud"}
 :::
 
 ::: {layout-ncol="1"}
-![The inside is quite spacious..\
+![Flying high #2\
 © 2026.](photos/cloud4.jpg){group="cloud"}
 :::
 
 ::: {layout-ncol="1"}
-![..and home to more life!\
+![Beckon\
 © 2026.](photos/cloud5.jpg){group="cloud"}
 :::
 
 ### Rooftop worlds
 
-..
+On our apartment's rooftop there is a garden, and in this garden lies a little world. It's an oasis in a concrete desert – a rest stop for bees and other insects.
 
 ::: {layout-ncol="2"}
-![Pointing.\
+![Rooftop\
 © 2026.](photos/rooftop1.jpg){group="rooftop"}
 
-![Survivor.\
+![Tiny tower\
 © 2026.](photos/rooftop2.jpg){group="rooftop"}
 :::
 
 ::: {layout-ncol="2"}
-![Pointing.\
+![Rooftop stop #1\
 © 2026.](photos/rooftop3.jpg){group="rooftop"}
 
-![Survivor.\
+![Rooftop stop #2\
 © 2026.](photos/rooftop4.jpg){group="rooftop"}
 :::
 
 ::: {layout-ncol="2"}
-![Pointing.\
+![Rooftop residents\
 © 2026.](photos/rooftop5.jpg){group="rooftop"}
 
-![Survivor.\
+![Rooftop nursery (ladybird larvae)\
 © 2026.](photos/rooftop6.jpg){group="rooftop"}
 :::
 
 ### Multiple exposures
 
-::: {layout-ncol="2"}
-![Pointing.\
+Having been inspired by [Adam Gibbs](https://www.youtube.com/watch?v=xqieMDUz0hA), I've been playing around with multiple exposures – a method where one can combine multiple shots into a single image. The results can be pretty fun, and it can add a dreamy feel to otherwise quite busy scenes.
+
+::: {layout-ncol="3"}
+![Daisy denim.\
 © 2026.](photos/me0.jpg){group="me"}
 
-![Survivor.\
+![Untitled #1\
 © 2026.](photos/me1.jpg){group="me"}
 
-![Pointing.\
+![Untitled #2\
 © 2026.](photos/me2.jpg){group="me"}
+:::
 
-![Survivor.\
+::: {layout-ncol="1"}
+![This one is actually a single exposure! Multiple reflections on the the window.\
 © 2026.](photos/me3.jpg){group="me"}
 :::
 
 ### Eye of a storm
 
+At the end of a heatwave in June we stood witness to an amazing thunderstorm. I've never experienced one quite like this, and was awed by the forces of nature.
+
 ::: {layout-ncol="1"}
-![Burden.\
-© 2026.](photos/lightning.jpg){group="lightning"}
+![Eye of a storm (taken around midnight)\
+© 2026.](photos/light.jpg){group="lightning"}
 :::
 
 ### Photo of the month
 
-..
+Another 600mm cloud shot, this time with [Postbyen](https://postbyen.dk/). Can you spot the people?
 
-![The bridge.\
+![In the clouds.\
 © 2026.](photos/fotm.jpg)
 
 ### Interesting things I've read/watched
+
+[Article from way back](https://www.theguardian.com/commentisfree/2012/jun/24/alternative-capitalism-mondragon) about Mondragon, a Basque collective, and a shining example of an alternative to the usual way of how businesses are managed.
+
+[Songwriting by Jesse Welles](https://www.youtube.com/watch?v=4tJPE8TSkSs). Also [happy 4th of July](https://www.youtube.com/watch?v=dxycLGfYRQs) (nightmares are dreams too).
+
+[Great talk](https://www.youtube.com/watch?v=CS4nrvl0T8g) about the history of the Australian landscape and how its indigenous peoples shaped it. Made me question my definition of wilderness.
+
+[Book review](https://www.thebignewsletter.com/p/a-billionaire-explains-why-american?utm_source=post-email-title&publication_id=11524&post_id=197572531&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email) by Matt Stoller about a mobster who laid the road for consolidation and greed in America.
+
+[Great summary](https://pluralistic.net/2026/06/19/too-big-to-fact-check/) of Multi Level Marketing (a flavour of pyramid scheme) by Cory. I can definitely recommend Bridget Read's book 'Little Bosses Everywhere' for a detailed history of the phenomenon.
+
+[Understanding the Luddites in the age of AI](https://www.bloodinthemachine.com/p/understanding-the-luddites-in-the?utm_source=post-email-title&publication_id=1744395&post_id=202157698&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email). Great essay by Brian Merchant about who the Luddites were, why most misunderstand them, and why they are relevant in the present.
+
+[No, Artifical Intelligence is not Conscious](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI&utm_source=substack&utm_medium=email).
+
+[Pokémon Go data trained AI that could assist military drones in war zones](https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones?link_id=9&can_id=f63808f9357e00c4bbe4b45a5f31ccff&source=email-your-tech-policy-round-up-from-drw-44&email_referrer=email_3287323&email_subject=your-tech-policy-round-up-from-drw&&).
