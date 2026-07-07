@@ -1,0 +1,36 @@
+---
+title: ""
+lightbox: true
+---
+
+<h1>
+
+<center>Eisenhofer Photography</center>
+
+</h1>
+
+::: {layout-ncol="1"}
+![Spectral skov III\
+© 2026](images/home1.jpg){group="home"}
+
+![Autumn's last leaves II\
+© 2026](images/home2.jpg){group="home"}
+
+![Spring ephemeral I\
+© 2026](images/home3.jpg){group="home"}
+
+![Kapiti gold\
+© 2026](images/home4.jpg){group="home"}
+
+![Sleeping wombat (*Lasiorhinus latifrons*)\
+© 2026](images/home5.jpg){group="home"}
+
+![Little black cormorant\
+© 2026](images/home6.jpg){group="home"}
+
+![Terrestrial alien\
+© 2026](images/home7.jpg){group="home"}
+
+![Shades of grey\
+© 2026](images/home8.jpg){group="home"}
+:::

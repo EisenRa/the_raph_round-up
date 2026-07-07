@@ -1,0 +1,22 @@
+---
+title: "Wildlife"
+lightbox: true
+---
+
+Growing up in New Zealand and Australia, I've been spoiled by the absolutely amazing biodiversity found in these southern lands. I've also had the opportunity to bring my photography with me on scientific expeditions when I was working as a biologist.
+
+Click on the images below to bring up a larger version.
+
+::: {layout-ncol="2"}
+![text\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](images/wl1.jpg){group="wildlife"}
+
+![text\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wl2.jpg){group="wildlife"}
+
+![text\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wl3.jpg){group="wildlife"}
+
+![text\
+© 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/wl4.jpg){group="wildlife"}
+:::

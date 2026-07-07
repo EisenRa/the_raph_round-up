@@ -1,0 +1,26 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: marquee
+  links:
+    - icon: camera
+      text: flickr
+      href: https://www.flickr.com/photos/202433373@N03/
+    - icon: mastodon
+      text: mastodon
+      href: https://genomic.social/@EisenRa
+    - icon: github
+      text: Github
+      href: https://github.com/EisenRa
+---
+
+Kiwi/Aussie currently living in Copenhagen. This is my personal website where I post monthly round-ups, photos, and various musings.
+
+Most photos are protected with a [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). If you're interested in using any for commercial purposes, feel free to get in touch at raph\[dot\]eisenhofer\[at\]gmail\[dot\]com
+
+I built the website using the open source tools R and [quarto](https://quarto.org/). You can find the source code [here on GitHub](https://github.com/EisenRa/the_raph_round-up/tree/master).
+
+Website traffic is monitored using [Umami](https://umami.is/) (open-source, no cookies, fingerprinting, or personal data).
+
+This website and its contents are AI-free, see [here for my statement on AI use](ai_statement.qmd).

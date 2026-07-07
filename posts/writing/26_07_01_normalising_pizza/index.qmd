@@ -7,9 +7,9 @@ image: "photos/thumbnail.png"
 lightbox: true
 ---
 
-## On normalising behaviour (and pizza-eating rabbit holes)
+## On normalising behaviour (and a pizza-eating rabbit hole)
 
-I'm finally getting around to putting my ideas out of my head and onto digital pages. From what I've read some people do this as coping mechanism, a form of catharsis[^1]. It's also a great way to structure one's thoughts on topics, practice communication, and hopefully provide the reader (you) with some new knowledge and/or perspectives.
+I'm finally getting around to getting some thoughts out of my head and onto digital pages. From what I've read some people do this as coping mechanism, a form of catharsis[^1]. It's also a great way to structure one's thinking, practice communication, and hopefully provide the reader (you) with some new knowledge and/or perspectives.
 
 [^1]: **Catharsis**\
     "The process of releasing strong emotions through a particular activity or experience, such as writing or theatre, in a way that helps you to understand those emotions."\
@@ -21,7 +21,9 @@ I'm finally getting around to putting my ideas out of my head and onto digital p
 
 We are social animals (*sorry for the cliché*) and are heavily influenced by the behaviours of others around us. What is 'normal' to us likely depends on what our local (and virtual) community do. Live in Toronto? Well it's likely that you think that driving a single occupancy vehicle on an 18-lane highway is normal ([I'm not overexaggerating here](https://en.wikipedia.org/wiki/Ontario_Highway_401#/media/File:Highway_401_cropped.png)). Copenhagen? You probably use a bicycle to get around. Your local environment likely also influences your political leanings, values, and overall world view. It can be quite confronting for some to think that how we perceive what is 'normal' in the world is and has been heavily influenced by the people around us.
 
-It is, I think, therefore critical that we act in good faith to the others in our communities and promote positive behaviours. This is particularly important for those that command the attention of others, and those who govern a platform (e.g. run an event like DataBeers). Which leads me nicely to one of the things that really irked me at the event. Between each talk there was a game, where the hosts would display a QR code that took participants to a text field. The hosts would ask a question, e.g. "What country eats the most pizza?", and the participants would enter their answers in the text box, with the collective answers forming a word cloud. A fun, simple quiz, right? Unfortunately, the hosts would then "Ask the AI overlords" what the answer (or "*truth*") to the question was using Google 'AI' overviews. I have three main issues with 'AI' overviews which I'll cover below.
+It is, I think, therefore critical that we act in good faith to the others in our communities and promote positive behaviours. This is particularly important for those that command the attention of others, and those who govern a platform (e.g. run an event like DataBeers). Which leads me nicely to one of the things that really irked me at the event. Between each talk there was a game, where the hosts would display a QR code that took participants to a text field. The hosts would ask a question, e.g. "What country eats the most pizza?", and the participants would enter their answers in the text box, with the collective answers forming a word cloud. A fun, simple quiz, right? Unfortunately, the hosts would then "Ask the AI overlords" for the "*truth*" using Google 'AI' overviews.
+
+Why is this an problem? I'll lay out my main issues with this in three points below.
 
 ### 1. Factual (in)accuracy
 
@@ -56,7 +58,7 @@ Chatbots are fancy autocomplete machines, and don't have a concept of truth. The
 
 ### 3. The atrophy of critical thinking
 
-My last major issue with 'AI' overviews is that there is a real posibility of them undermining our capacities for critical thinking. "Use it or lose it", an age-old saying, and one that you may have some firsthand experience with. A classic example is losing language proficiency when not using for some time, or muscle mass when taking a break from the gym. By outsourcing our questions to 'AI' overviews - and accepting what they say at face value - we're not flexing our critical thinking muscles. [Data suggests](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/) that people are much less likely to visit sources when using Google 'AI' overviews. It's not far fetched to imagine how the controllers of these technologies could manipulate them to serve their interests, and in doing so, [undermine democracy itself](https://thebullshitmachines.com/lesson-18-democracy/index.html).
+My last major issue with 'AI' overviews is that there is a real possibility of them undermining our capacities for critical thinking. "Use it or lose it", an age-old saying, and one that you may have some firsthand experience with. Some examples include getting rusty in a second language when not using it for a while, or feeling out of breath when you take a break from exercise. By outsourcing our questions to 'AI' overviews - and accepting what they say at face value - we're not flexing our critical thinking muscles. [Data suggests](https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/) that people are much less likely to visit sources when using Google 'AI' overviews. It's not far fetched to imagine how the controllers of these technologies could manipulate them to serve their interests, and in doing so, [undermine democracy itself](https://thebullshitmachines.com/lesson-18-democracy/index.html).
 
 (*For a slice of hope, it's not all doom and gloom. A [German court recently ruled](https://www.reuters.com/world/google-appeal-german-court-ruling-assigning-liability-ai-overviews-false-claims-2026-06-12/) that Google should be liable for AI-generated false claims. Let's hope that this generates some positive outcomes.*)
 
@@ -72,7 +74,7 @@ And finally, If you're interested in the feedback I sent to DataBeers on this is
 >
 > My concerns relate to normalizing the behaviour of using 'AI' search to get the 'truth' about a question. There's actually good data that shows that A) LLMs hallucinate (bullshit) and B) most people never click the reference in the 'answer' to see if the underlying data is sound.
 >
-> For example, the first question was along the lines of 'which country eats the most pizza' -- the 'answer' provided was Norway, but if you looked in detail at the 'references' used, none were reputable sources of information. A bit of subsequent digging into these references tells you that there is no actualy solid source of information to support this statement. Thus, a false statement was shared to the room of participants, and perhaps more worryingly, the notion of using 'AI' search to get a quick (and wrong) answer was normalized.
+> For example, the first question was along the lines of 'which country eats the most pizza' -- the 'answer' provided was Norway, but if you looked in detail at the 'references' used, none were reputable sources of information. A bit of subsequent digging into these references tells you that there is no actual solid source of information to support this statement. Thus, a false statement was shared to the room of participants, and perhaps more worryingly, the notion of using 'AI' search to get a quick (and wrong) answer was normalized.
 >
 > The question of 'which country eats the most pizza' is actually quite an interesting one, which, while at face value seems simple, is actually upon further thinking is actually more complex than it seems. E.g. Are we talking per-capita or total? Are there reliable sources of data for this question? How would one actually collect reliable data to measure this information? What are some potential biases in the data collection or analysis?
 >

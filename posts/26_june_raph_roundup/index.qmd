@@ -1,0 +1,129 @@
+---
+title: "The Raph Round-up: June 2026"
+author: "Raphael Eisenhofer"
+date: "2026-07-07"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+..
+
+### Forest frolic
+
+::: {layout-ncol="1"}
+![Untitled 1\
+© 2026.](photos/har1.jpg){group="forest"}
+:::
+
+::: {layout-ncol="2"}
+![Late bloomers\
+© 2026.](photos/har2.jpg){group="forest"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/har3.jpg){group="forest"}
+:::
+
+::: {layout-ncol="3"}
+![Late bloomers\
+© 2026.](photos/har4.jpg){group="forest"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/har5.jpg){group="forest"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/har6.jpg){group="forest"}
+:::
+
+::: {layout-ncol="2"}
+![Late bloomers\
+© 2026.](photos/har7.jpg){group="forest"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/har8.jpg){group="forest"}
+:::
+
+### Worlds up high
+
+..
+
+::: {layout-ncol="3"}
+![Late bloomers\
+© 2026.](photos/cloud1.jpg){group="cloud"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/cloud2.jpg){group="cloud"}
+
+![The last of the ephemerals #1\
+© 2026.](photos/cloud3.jpg){group="cloud"}
+:::
+
+::: {layout-ncol="1"}
+![The inside is quite spacious..\
+© 2026.](photos/cloud4.jpg){group="cloud"}
+:::
+
+::: {layout-ncol="1"}
+![..and home to more life!\
+© 2026.](photos/cloud5.jpg){group="cloud"}
+:::
+
+### Rooftop worlds
+
+..
+
+::: {layout-ncol="2"}
+![Pointing.\
+© 2026.](photos/rooftop1.jpg){group="rooftop"}
+
+![Survivor.\
+© 2026.](photos/rooftop2.jpg){group="rooftop"}
+:::
+
+::: {layout-ncol="2"}
+![Pointing.\
+© 2026.](photos/rooftop3.jpg){group="rooftop"}
+
+![Survivor.\
+© 2026.](photos/rooftop4.jpg){group="rooftop"}
+:::
+
+::: {layout-ncol="2"}
+![Pointing.\
+© 2026.](photos/rooftop5.jpg){group="rooftop"}
+
+![Survivor.\
+© 2026.](photos/rooftop6.jpg){group="rooftop"}
+:::
+
+### Multiple exposures
+
+::: {layout-ncol="2"}
+![Pointing.\
+© 2026.](photos/me0.jpg){group="me"}
+
+![Survivor.\
+© 2026.](photos/me1.jpg){group="me"}
+
+![Pointing.\
+© 2026.](photos/me2.jpg){group="me"}
+
+![Survivor.\
+© 2026.](photos/me3.jpg){group="me"}
+:::
+
+### Eye of a storm
+
+::: {layout-ncol="1"}
+![Burden.\
+© 2026.](photos/lightning.jpg){group="lightning"}
+:::
+
+### Photo of the month
+
+..
+
+![The bridge.\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched

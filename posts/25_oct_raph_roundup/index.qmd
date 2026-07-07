@@ -27,10 +27,10 @@ With temperatures dropping to the low teens and the days shortening, we're well 
 :::
 
 ::: {layout-ncol="2"}
-![Early November.\
+![Early October.\
 © 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/aut4.jpg){group="autumn"}
 
-![Late November.\
+![Late October.\
 © 2025. This work is openly licensed via [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)](photos/aut5.jpg){group="autumn"}
 :::
 
