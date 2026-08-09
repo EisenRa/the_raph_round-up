@@ -1,5 +1,6 @@
 ---
 title: "The Raph Round-up"
+comments: false
 listing:
   contents: posts
   sort: "date desc"

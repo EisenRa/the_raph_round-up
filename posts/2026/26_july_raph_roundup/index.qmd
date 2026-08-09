@@ -1,0 +1,123 @@
+---
+title: "The Raph Round-up: July 2026"
+author: "Raphael Eisenhofer"
+date: "2026-08-09"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+Like last month, July has seen me looking up at the huge cloud bursts, and down at the flowers and insects basking in the sun.
+
+### Summer skybrud
+
+::: {layout-ncol="2"}
+![Crepuscular 1\
+© 2026.](photos/cloud1.jpg){group="cloud"}
+
+![Crepusculuar 2\
+© 2026.](photos/cloud2.jpg){group="cloud"}
+:::
+
+::: {layout-ncol="2"}
+![Crepuscular 3\
+© 2026.](photos/cloud3.jpg){group="cloud"}
+
+![A sense of scale\
+© 2026.](photos/cloud4.jpg){group="cloud"}
+:::
+
+::: {layout-ncol="2"}
+![Flying high\
+© 2026.](photos/cloud5.jpg){group="cloud"}
+
+![Tumultuous\
+© 2026.](photos/cloud6.jpg){group="cloud"}
+:::
+
+### Summer insects
+
+::: {layout-ncol="2"}
+![Summer fields\
+© 2026.](photos/insect1.jpg){group="insect"}
+
+![Strawberry sentry\
+© 2026.](photos/insect2.jpg){group="insect"}
+:::
+
+::: {layout-ncol="2"}
+![Summer saltation\
+© 2026.](photos/insect3.jpg){group="insect"}
+
+![Summer shadows\
+© 2026.](photos/insect4.jpg){group="insect"}
+:::
+
+### Summer moments
+
+::: {layout-ncol="2"}
+![Summer splendour\
+© 2026.](photos/summer1.jpg){group="summer"}
+
+![Summer ICM\
+© 2026.](photos/summer2.jpg){group="summer"}
+:::
+
+::: {layout-ncol="2"}
+![Summer sunrises\
+© 2026.](photos/summer3.jpg){group="summer"}
+
+![Summer showers\
+© 2026.](photos/summer4.jpg){group="summer"}
+:::
+
+::: {layout-ncol="1"}
+![Summer siesta\
+© 2026.](photos/summer5.jpg){group="summer" width="50%"}
+:::
+
+::: {layout-ncol="1"}
+![Summer splotches\
+© 2026.](photos/summer6.jpg){group="summer"}
+:::
+
+::: {layout-ncol="2"}
+![Summer soaring\
+© 2026.](photos/summer7.jpg){group="summer"}
+
+![Summer surprise\
+© 2026.](photos/summer8.jpg){group="summer"}
+:::
+
+::: {layout-ncol="1"}
+![Summer skybrud\
+© 2026.](photos/summer9.jpg){group="summer"}
+:::
+
+::: {layout-ncol="1"}
+![Summer skyline\
+© 2026.](photos/summer10.jpg){group="summer"}
+:::
+
+### Photo of the month
+
+The effect was obtained using a longer shutter speed while zooming in with my 24-120mm lens. This keeps the focal point fairly stable, while creating a cool vortex/ICM look for the edges of the frame.
+
+![Swedish summer\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Why does 'Luddite' have a negative connotation? [Brian Merchant](https://www.bloodinthemachine.com/p/understanding-the-luddites-in-the?utm_source=post-email-title&publication_id=1744395&post_id=202157698&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email) breaks down who the Luddites were and why Luddism is important in our present.
+
+[The Dangerous Myth of Flexibility](https://prospect.org/2026/07/09/dangerous-myth-of-flexibility-uber-lyft-gig-economy/). About the gig economy.
+
+[The End of Reading is Here](https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/). The irony is that it's a long read. Great long form essay about reading, and how we may be in a [post-literate society](https://en.wikipedia.org/wiki/Post-literate_society).
+
+[Article on salmon farming in Norway](https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872). Pretty crazy that Norway invested a lot of marketing to sell salmon to Japan – salmon sushi was apparently not popular before this.
+
+["Right to repair" in farming](https://www.thebignewsletter.com/p/youll-own-nothing-and-be-happy-why?utm_source=post-email-title&publication_id=11524&post_id=206296640&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email).
+
+[Excellent video essay](https://www.youtube.com/watch?v=elC-VEg5IiI) about how concentrated the seed supply is in modern agriculture, and why we should support local organic farmers.
+
+[The richest country is pretty mid now](https://www.youtube.com/watch?v=4FZy1lBNykA).
