@@ -3,7 +3,7 @@ title: "The Raph Round-up: January 2024"
 author: "Raphael Eisenhofer"
 date: "2024-02-06"
 categories: [monthly]
-image: "image.jpg"
+image: "photos/image.jpg"
 lightbox: true
 ---
 

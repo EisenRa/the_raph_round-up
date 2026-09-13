@@ -3,7 +3,7 @@ title: "The Raph Round-up: March 2024"
 author: "Raphael Eisenhofer"
 date: "2024-04-14"
 categories: [monthly]
-image: "fotm_thumbnail.jpg"
+image: "photos/fotm_thumbnail.jpg"
 lightbox: true
 ---
 

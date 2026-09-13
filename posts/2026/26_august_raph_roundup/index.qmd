@@ -1,0 +1,108 @@
+---
+title: "The Raph Round-up: August 2026"
+author: "Raphael Eisenhofer"
+date: "2026-13-09"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+Back from late summer holidays, with the autumn equinox fast approaching. We had a week in Aarhus in late July, followed by a couple of weeks in the Netherlands and Switzerland at the end of August. It was very nice to take some time away and see some friends and family, and some mountains in Switzerland! (next month's post).
+
+First we have a few miscellaneous photos that I really liked:
+
+::: {layout-ncol="1"}
+![Poppy planet\
+© 2026.](photos/misc1.jpg){group="misc"}
+:::
+
+::: {layout-ncol="1"}
+![Viborg lake\
+© 2026.](photos/misc2.jpg){group="misc"}
+:::
+
+::: {layout-ncol="1"}
+![Osnabrück Hbf\
+© 2026.](photos/misc3.jpg){group="misc"}
+:::
+
+### Forest
+
+::: {layout-ncol="1"}
+![Forest light\
+© 2026.](photos/forest1.jpg){group="forest" width="50%"}
+:::
+
+::: {layout-ncol="2"}
+![Forest beast\
+© 2026.](photos/forest2.jpg){group="forest"}
+
+![Forest movement\
+© 2026.](photos/forest3.jpg){group="forest"}
+:::
+
+::: {layout-ncol="1"}
+![Forest world\
+© 2026.](photos/forest4.jpg){group="forest"}
+:::
+
+::: {layout-ncol="2"}
+![Forest contrast\
+© 2026.](photos/forest5.jpg){group="forest"}
+
+![Forest map?\
+© 2026.](photos/forest6.jpg){group="forest"}
+:::
+
+### Rainbow fisheye
+
+Visited ARoS contemporary art gallery (Aarhus), which has an interactive artwork on the rooftop ([Your rainbow panorama](https://www.aros.dk/en/aros-collection/olafur-eliasson-your-rainbow-panorama-2011/)). It was screaming for some fisheye photography, so here you go (and see the FOTM at the end):
+
+::: {layout-ncol="2"}
+![Yellow world\
+© 2026.](photos/aros1.jpg){group="rainbow"}
+
+![ARoS staircase (palate cleanser for more colour in the next image)\
+© 2026.](photos/aros2.jpg){group="rainbow"}
+:::
+
+::: {layout-ncol="1"}
+![Rainbow worlds\
+© 2026.](photos/aros3.jpg){group="rainbow"}
+:::
+
+### STRAAT 2.0 (Fisheye edition)
+
+We also went back to STRAAT – museum for street art and graffiti in Amsterdam. The building itself is amazing (and old shipyard), and there are some amazing artworks inside:
+
+::: {layout-ncol="2"}
+![STRAAT1\
+© 2026.](photos/straat2.jpg){group="straat"}
+
+![STRAAT2\
+© 2026.](photos/straat3.jpg){group="straat"}
+:::
+
+::: {layout-ncol="2"}
+![STRAAT3\
+© 2026.](photos/straat4.jpg){group="straat"}
+
+![STRAAT4\
+© 2026.](photos/straat5.jpg){group="straat"}
+:::
+
+::: {layout-ncol="1"}
+![STRAAT5\
+© 2026.](photos/straat6.jpg){group="straat" width="50%"}
+:::
+
+### Photo of the month
+
+How does one capture the full spectrum of a rainbow? It's easy with a 6mm fisheye lens:
+
+![Your (Fisheye) rainbow panorama\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Great [analysis](https://www.thebignewsletter.com/p/why-political-moderates-are-losing?utm_source=post-email-title&publication_id=11524&post_id=211070972&utm_campaign=email-post-title&isFreemail=false&r=5ols6&triedRedirect=true&utm_medium=email) of present and past U.S. politics.
