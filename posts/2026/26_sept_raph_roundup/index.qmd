@@ -1,0 +1,156 @@
+---
+title: "The Raph Round-up: September 2026"
+author: "Raphael Eisenhofer"
+date: "2026-10-06"
+categories: [monthly]
+image: "photos/fotm_thumbnail.jpg"
+lightbox: true
+---
+
+September has been a great month for Danish forest photography – though I won't be sharing any of these in this month's round-up, as there are a backlog of photos from the latter part of our late summer trip.
+
+I've also added [Hypothesis](https://web.hypothes.is/) annotation funcionality to the website, so if you feel like commenting feel free to do so (select the text you want to annotate and a pop-up should open).
+
+### Alpine awe
+
+We had an absolutely fantastic day hike in the Swiss alps (Vaud canton)! [Here's the trip information](https://www.alpesvaudoises.ch/en/V1388/gryon/chaux-ronde-croix-des-chaux-taveyanne-by-the-ridge#informations) (we added another \~7 km descent back to Gruyon, which we'd highly recommend). The Swiss alps are stunning, and it's hard not to feel awe at the scale and depth of the landscape. This hike definitely whetted my appetite for the alpine environment, and I know that I'll be back to explore more.
+
+::: {layout-ncol="3"}
+![View from Bex train station (it's already amazing!)\
+© 2026.](photos/alps2.jpg){group="alpine"}
+
+![In the clouds.\
+© 2026.](photos/alps3.jpg){group="alpine"}
+
+![Stairway to heaven.\
+© 2026.](photos/alps4.jpg){group="alpine"}
+:::
+
+::: {layout-ncol="1"}
+![Alpine fisheye.\
+© 2026.](photos/alps5.jpg){group="alpine" width="25%}
+:::
+
+::: {layout-ncol="3"}
+![Alpine light.\
+© 2026.](photos/alps6.jpg){group="alpine"}
+
+![Alpine bloom.\
+© 2026.](photos/alps7.jpg){group="alpine"}
+
+![Alpine road.\
+© 2026.](photos/alps8.jpg){group="alpine"}
+:::
+
+::: {layout-ncol="2"}
+![Alpine ancient.\
+© 2026.](photos/alps9.jpg){group="alpine"}
+
+![Alpine village (Taveyanne).\
+© 2026.](photos/alps10.jpg){group="alpine"}
+:::
+
+::: {layout-ncol="1"}
+![And of course, alpine cows.\
+© 2026.](photos/alps11.jpg){group="alpine" width="50%"}
+:::
+
+### Small Swiss life
+
+From grand landscapes to smaller Swiss life:
+
+::: {layout-ncol="1"}
+![Small spring.\
+© 2026.](photos/small1.jpg){group="small" width="50%}
+:::
+
+::: {layout-ncol="3"}
+![Small insect.\
+© 2026.](photos/small2.jpg){group="small"}
+
+![Small valleys.\
+© 2026.](photos/small3.jpg){group="small"}
+
+![Small serration.\
+© 2026.](photos/small4.jpg){group="small"}
+:::
+
+::: {layout-ncol="1"}
+![Dandelion – three life stages.\
+© 2026.](photos/small5.jpg){group="small" width="50%"}
+:::
+
+::: {layout-ncol="1"}
+![Small flower.\
+© 2026.](photos/small6.jpg){group="small"}
+:::
+
+::: {layout-ncol="3"}
+![Succulent #1\
+© 2026.](photos/small7.jpg){group="small"}
+
+![Succulent #2\
+© 2026.](photos/small8.jpg){group="small"}
+
+![Succulent #3\
+© 2026.](photos/small9.jpg){group="small"}
+:::
+
+::: {layout-ncol="1"}
+![Small splendour.\
+© 2026.](photos/small10.jpg){group="small" width="50%}
+:::
+
+::: {layout-ncol="2"}
+![Small spider.\
+© 2026.](photos/small11.jpg){group="small"}
+
+![Small layers.\
+© 2026.](photos/small12.jpg){group="small"}
+:::
+
+### Swiss street
+
+And for the built environment enjoyers, here are some photos from Swiss streets:
+
+::: {layout-ncol="1"}
+![Mont Blanc from Nyon.\
+© 2026.](photos/city1.jpg){group="street" width="50%"}
+:::
+
+::: {layout-ncol="1"}
+![Roman ruins in Nyon.\
+© 2026.](photos/city2.jpg){group="street" width="50%}
+:::
+
+::: {layout-ncol="3"}
+![Zurich then and now.\
+© 2026.](photos/city3.jpg){group="street"}
+
+![Untitled.\
+© 2026.](photos/city4.jpg){group="street"}
+
+![Sunset slots.\
+© 2026.](photos/city5.jpg){group="street"}
+:::
+
+::: {layout-ncol="2"}
+![Sunset spiral.\
+© 2026.](photos/city6.jpg){group="street"}
+
+![Homewards.\
+© 2026.](photos/city7.jpg){group="street"}
+:::
+
+### Photo of the month
+
+The scale of the Swiss alps blows my mind. Having a hiker in the mid ground helps give a sense of scale.
+
+![Alpine ambling.\
+© 2026.](photos/fotm.jpg)
+
+### Interesting things I've read/watched
+
+Trees are cool. [Here's a neat collection](https://images.wur.nl/digital/collection/coll13) of root system drawings so you can see what they look like underground.
+
+[Nice essay](https://pluralistic.net/2026/09/21/sunsetting/) about intent in art, and why we should'nt think that chatbots have intent.
